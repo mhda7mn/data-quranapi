@@ -1,0 +1,257 @@
+{
+  "surahNo": 87,
+  "surahNameAr": "الأعلى",
+  "surahNameArabicLong": "سورة الأعلى",
+  "surahNameEn": "Al-A'laa",
+  "revelationPlace": "Mecca",
+  "totalAyat": 19,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "ayahArV2": "سبح اسم ربك الاعلى",
+      "ayahEn": "Glorify the Name of your Lord, the Most High",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "ayahArV2": "الذي خلق فسوى",
+      "ayahEn": "Who created and ˹perfectly˺ fashioned ˹all˺",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+      "ayahArV2": "والذي قدر فهدى",
+      "ayahEn": "and Who ordained precisely and inspired accordingly",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+      "ayahArV2": "والذي اخرج المرعى",
+      "ayahEn": "and Who brings forth ˹green˺ pasture",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+      "ayahArV2": "فجعله غثاء احوى",
+      "ayahEn": "then reduces it to withered chaff.",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "ayahArV2": "سنقرئك فلا تنسى",
+      "ayahEn": "We will have you recite ˹the Quran, O  Prophet,˺ so you will not forget ˹any of it˺",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+      "ayahArV2": "الا ما شاء الله انه يعلم الجهر وما يخفى",
+      "ayahEn": "unless Allah wills otherwise. He surely knows what is open and what is hidden.",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "ayahArV2": "ونيسرك لليسرى",
+      "ayahEn": "We will facilitate for you the Way of Ease.",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+      "ayahArV2": "فذكر ان نفعت الذكرى",
+      "ayahEn": "So ˹always˺ remind ˹with the Quran˺—˹even˺ if the reminder is beneficial ˹only to some˺.",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+      "ayahArV2": "سيذكر من يخشى",
+      "ayahEn": "Those in awe ˹of Allah˺ will be mindful ˹of it˺.",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+      "ayahArV2": "ويتجنبها الاشقى",
+      "ayahEn": "But it will be shunned by the most wretched",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+      "ayahArV2": "الذي يصلى النار الكبرى",
+      "ayahEn": "who will burn in the greatest Fire",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "ayahArV2": "ثم لا يموت فيها ولا يحيى",
+      "ayahEn": "where they will not ˹be able to˺ live or die.",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+      "ayahArV2": "قد افلح من تزكى",
+      "ayahEn": "Successful indeed are those who purify themselves",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+      "ayahArV2": "وذكر اسم ربه فصلى",
+      "ayahEn": "remember the Name of their Lord, and pray.",
+      "meta": {
+        "page": 591,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "ayahArV2": "بل تؤثرون الحياة الدنيا",
+      "ayahEn": "But you ˹deniers only˺ prefer the life of this world",
+      "meta": {
+        "page": 592,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+      "ayahArV2": "والاخرة خير وابقى",
+      "ayahEn": "even though the Hereafter is far better and more lasting.",
+      "meta": {
+        "page": 592,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+      "ayahArV2": "ان هذا لفي الصحف الاولى",
+      "ayahEn": "This is certainly ˹mentioned˺ in the earlier Scriptures—",
+      "meta": {
+        "page": 592,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+      "ayahArV2": "صحف ابراهيم وموسى",
+      "ayahEn": "the Scriptures of Abraham and Moses.",
+      "meta": {
+        "page": 592,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    }
+  ]
+}

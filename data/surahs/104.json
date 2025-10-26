@@ -1,0 +1,127 @@
+{
+  "surahNo": 104,
+  "surahNameAr": "الهمزة",
+  "surahNameArabicLong": "سورة الهمزة",
+  "surahNameEn": "Al-Humaza",
+  "revelationPlace": "Mecca",
+  "totalAyat": 9,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "ayahArV2": "ويل لكل همزة لمزة",
+      "ayahEn": "Woe to every backbiter, slanderer",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "ayahArV2": "الذي جمع مالا وعدده",
+      "ayahEn": "who amasses wealth ˹greedily˺ and counts it ˹repeatedly˺",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "ayahArV2": "يحسب ان ماله اخلده",
+      "ayahEn": "thinking that their wealth will make them immortal!",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "ayahArV2": "كلا لينبذن في الحطمة",
+      "ayahEn": "Not at all! Such a person will certainly be tossed into the Crusher.",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "ayahArV2": "وما ادراك ما الحطمة",
+      "ayahEn": "And what will make you realize what the Crusher is?",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "ayahArV2": "نار الله الموقدة",
+      "ayahEn": "˹It is˺ Allah’s kindled Fire",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "ayahArV2": "التي تطلع على الافئدة",
+      "ayahEn": "which rages over the hearts.",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "ayahArV2": "انها عليهم مؤصدة",
+      "ayahEn": "It will be sealed over them",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "ayahArV2": "في عمد ممددة",
+      "ayahEn": "˹tightly secured˺ with long braces.",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

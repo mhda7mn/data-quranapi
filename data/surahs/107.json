@@ -1,0 +1,101 @@
+{
+  "surahNo": 107,
+  "surahNameAr": "الماعون",
+  "surahNameArabicLong": "سورة الماعون",
+  "surahNameEn": "Al-Maa'un",
+  "revelationPlace": "Mecca",
+  "totalAyat": 7,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "ayahArV2": "ارايت الذي يكذب بالدين",
+      "ayahEn": "Have you seen the one who denies the ˹final˺ Judgment?",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "ayahArV2": "فذلك الذي يدع اليتيم",
+      "ayahEn": "That is the one who repulses the orphan",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "ayahArV2": "ولا يحض على طعام المسكين",
+      "ayahEn": "and does not encourage the feeding of the poor.",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "ayahArV2": "فويل للمصلين",
+      "ayahEn": "So woe to those ˹hypocrites˺ who pray",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "ayahArV2": "الذين هم عن صلاتهم ساهون",
+      "ayahEn": "yet are unmindful of their prayers;",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "ayahArV2": "الذين هم يراءون",
+      "ayahEn": "those who ˹only˺ show off",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "ayahArV2": "ويمنعون الماعون",
+      "ayahEn": "and refuse to give ˹even the simplest˺ aid.",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

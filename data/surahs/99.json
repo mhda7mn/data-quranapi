@@ -1,0 +1,114 @@
+{
+  "surahNo": 99,
+  "surahNameAr": "الزلزلة",
+  "surahNameArabicLong": "سورة الزلزلة",
+  "surahNameEn": "Az-Zalzala",
+  "revelationPlace": "Madina",
+  "totalAyat": 8,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "ayahArV2": "اذا زلزلت الارض زلزالها",
+      "ayahEn": "When the earth is shaken ˹in˺ its ultimate quaking",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "ayahArV2": "واخرجت الارض اثقالها",
+      "ayahEn": "and when the earth throws out ˹all˺ its contents",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "ayahArV2": "وقال الانسان ما لها",
+      "ayahEn": "and humanity cries, “What is wrong with it?”—",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "ayahArV2": "يومئذ تحدث اخبارها",
+      "ayahEn": "on that Day the earth will recount everything",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "ayahArV2": "بان ربك اوحى لها",
+      "ayahEn": "having been inspired by your Lord ˹to do so˺.",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "ayahArV2": "يومئذ يصدر الناس اشتاتا ليروا اعمالهم",
+      "ayahEn": "On that Day people will proceed in separate groups to be shown ˹the consequences of˺ their deeds.",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "ayahArV2": "فمن يعمل مثقال ذرة خيرا يره",
+      "ayahEn": "So whoever does an atom’s weight of good will see it.",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "ayahArV2": "ومن يعمل مثقال ذرة شرا يره",
+      "ayahEn": "And whoever does an atom’s weight of evil will see it.",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    }
+  ]
+}

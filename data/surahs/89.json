@@ -1,0 +1,400 @@
+{
+  "surahNo": 89,
+  "surahNameAr": "الفجر",
+  "surahNameArabicLong": "سورة الفجر",
+  "surahNameEn": "Al-Fajr",
+  "revelationPlace": "Mecca",
+  "totalAyat": 30,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلْفَجْرِ",
+      "ayahArV2": "والفجر",
+      "ayahEn": "By the dawn",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَلَيَالٍ عَشْرٍ",
+      "ayahArV2": "وليال عشر",
+      "ayahEn": "and the ten nights",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "ayahArV2": "والشفع والوتر",
+      "ayahEn": "and the even and the odd",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "ayahArV2": "والليل اذا يسر",
+      "ayahEn": "and the night when it passes!",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "ayahArV2": "هل في ذلك قسم لذي حجر",
+      "ayahEn": "Is all this ˹not˺ a sufficient oath for those who have sense?",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "ayahArV2": "الم تر كيف فعل ربك بعاد",
+      "ayahEn": "Did you not see how your Lord dealt with ’Ȃd—",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "ayahArV2": "ارم ذات العماد",
+      "ayahEn": "˹the people˺ of Iram—with ˹their˺ great stature",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+      "ayahArV2": "التي لم يخلق مثلها في البلاد",
+      "ayahEn": "unmatched in any other land;",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "ayahArV2": "وثمود الذين جابوا الصخر بالواد",
+      "ayahEn": "and Thamûd who carved ˹their homes into˺ the rocks in the ˹Stone˺ Valley;",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "ayahArV2": "وفرعون ذي الاوتاد",
+      "ayahEn": "and the Pharaoh of mighty structures?",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+      "ayahArV2": "الذين طغوا في البلاد",
+      "ayahEn": "They all transgressed throughout the land",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "ayahArV2": "فاكثروا فيها الفساد",
+      "ayahEn": "spreading much corruption there.",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "ayahArV2": "فصب عليهم ربك سوط عذاب",
+      "ayahEn": "So your Lord unleashed on them a scourge of punishment.",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "ayahArV2": "ان ربك لبالمرصاد",
+      "ayahEn": "˹For˺ your Lord is truly vigilant.",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "ayahArV2": "فاما الانسان اذا ما ابتلاه ربه فاكرمه ونعمه فيقول ربي اكرمن",
+      "ayahEn": "Now, whenever a human being is tested by their Lord through ˹His˺ generosity and blessings, they boast, “My Lord has ˹deservedly˺ honoured me!”",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+      "ayahArV2": "واما اذا ما ابتلاه فقدر عليه رزقه فيقول ربي اهانن",
+      "ayahEn": "But when He tests them by limiting their provision, they protest, “My Lord has ˹undeservedly˺ humiliated me!”",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "ayahArV2": "كلا بل لا تكرمون اليتيم",
+      "ayahEn": "Absolutely not! In fact, you are not ˹even˺ gracious to the orphan",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "ayahArV2": "ولا تحاضون على طعام المسكين",
+      "ayahEn": "nor do you urge one another to feed the poor.",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "ayahArV2": "وتاكلون التراث اكلا لما",
+      "ayahEn": "And you devour ˹others’˺ inheritance greedily",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "ayahArV2": "وتحبون المال حبا جما",
+      "ayahEn": "and love wealth fervently.",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "ayahArV2": "كلا اذا دكت الارض دكا دكا",
+      "ayahEn": "Enough! When the earth is entirely crushed over and over",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "ayahArV2": "وجاء ربك والملك صفا صفا",
+      "ayahEn": "and your Lord comes ˹to judge˺ with angels, rank upon rank",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "ayahArV2": "وجيء يومئذ بجهنم يومئذ يتذكر الانسان وانى له الذكرى",
+      "ayahEn": "and Hell is brought forth on that Day—this is when every ˹disbelieving˺ person will remember ˹their own sins˺. But what is the use of remembering then?",
+      "meta": {
+        "page": 593,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "ayahArV2": "يقول يا ليتني قدمت لحياتي",
+      "ayahEn": "They will cry, “I wish I had sent forth ˹something good˺ for my ˹true˺ life.”",
+      "meta": {
+        "page": 594,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "ayahArV2": "فيومئذ لا يعذب عذابه احد",
+      "ayahEn": "On that Day He will punish ˹them˺ severely, like no other",
+      "meta": {
+        "page": 594,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "ayahArV2": "ولا يوثق وثاقه احد",
+      "ayahEn": "and bind ˹them˺ tightly, like no other.",
+      "meta": {
+        "page": 594,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "ayahArV2": "يا ايتها النفس المطمئنة",
+      "ayahEn": "˹Allah will say to the righteous,˺ “O tranquil soul!",
+      "meta": {
+        "page": 594,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "ayahArV2": "ارجعي الى ربك راضية مرضية",
+      "ayahEn": "Return to your Lord, well pleased ˹with Him˺ and well pleasing ˹to Him˺.",
+      "meta": {
+        "page": 594,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "فَٱدْخُلِى فِى عِبَـٰدِى",
+      "ayahArV2": "فادخلي في عبادي",
+      "ayahEn": "So join My servants",
+      "meta": {
+        "page": 594,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "وَٱدْخُلِى جَنَّتِى",
+      "ayahArV2": "وادخلي جنتي",
+      "ayahEn": "and enter My Paradise.”",
+      "meta": {
+        "page": 594,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 237,
+        "sajda": false
+      }
+    }
+  ]
+}

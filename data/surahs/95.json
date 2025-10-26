@@ -1,0 +1,114 @@
+{
+  "surahNo": 95,
+  "surahNameAr": "التين",
+  "surahNameArabicLong": "سورة التين",
+  "surahNameEn": "At-Tin",
+  "revelationPlace": "Mecca",
+  "totalAyat": 8,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "ayahArV2": "والتين والزيتون",
+      "ayahEn": "By the fig and the olive ˹of Jerusalem˺",
+      "meta": {
+        "page": 597,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَطُورِ سِينِينَ",
+      "ayahArV2": "وطور سينين",
+      "ayahEn": "and Mount Sinai",
+      "meta": {
+        "page": 597,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "ayahArV2": "وهذا البلد الامين",
+      "ayahEn": "and this secure city ˹of Mecca˺!",
+      "meta": {
+        "page": 597,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+      "ayahArV2": "لقد خلقنا الانسان في احسن تقويم",
+      "ayahEn": "Indeed, We created humans in the best form.",
+      "meta": {
+        "page": 597,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+      "ayahArV2": "ثم رددناه اسفل سافلين",
+      "ayahEn": "But We will reduce them to the lowest of the low ˹in Hell˺",
+      "meta": {
+        "page": 597,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "ayahArV2": "الا الذين امنوا وعملوا الصالحات فلهم اجر غير ممنون",
+      "ayahEn": "except those who believe and do good—they will have a never-ending reward.",
+      "meta": {
+        "page": 597,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "ayahArV2": "فما يكذبك بعد بالدين",
+      "ayahEn": "Now, what makes you deny the ˹final˺ Judgment?",
+      "meta": {
+        "page": 597,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+      "ayahArV2": "اليس الله باحكم الحاكمين",
+      "ayahEn": "Is Allah not the most just of all judges?",
+      "meta": {
+        "page": 597,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    }
+  ]
+}

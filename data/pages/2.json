@@ -1,0 +1,72 @@
+[
+  {
+    "surahNo": 2,
+    "ayahNo": 1,
+    "ayahArV1": "الٓمٓ",
+    "ayahArV2": "الم",
+    "ayahEn": "Alif-Lãm-Mĩm.",
+    "meta": {
+      "page": 2,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 2,
+    "ayahNo": 2,
+    "ayahArV1": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+    "ayahArV2": "ذلك الكتاب لا ريب فيه هدى للمتقين",
+    "ayahEn": "This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺",
+    "meta": {
+      "page": 2,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 2,
+    "ayahNo": 3,
+    "ayahArV1": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "ayahArV2": "الذين يؤمنون بالغيب ويقيمون الصلاة ومما رزقناهم ينفقون",
+    "ayahEn": "who believe in the unseen, establish prayer, and donate from what We have provided for them",
+    "meta": {
+      "page": 2,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 2,
+    "ayahNo": 4,
+    "ayahArV1": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+    "ayahArV2": "والذين يؤمنون بما انزل اليك وما انزل من قبلك وبالاخرة هم يوقنون",
+    "ayahEn": "and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter.",
+    "meta": {
+      "page": 2,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 2,
+    "ayahNo": 5,
+    "ayahArV1": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "ayahArV2": "اولئك على هدى من ربهم واولئك هم المفلحون",
+    "ayahEn": "It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful.",
+    "meta": {
+      "page": 2,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  }
+]

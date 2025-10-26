@@ -1,0 +1,100 @@
+[
+  {
+    "surahNo": 1,
+    "ayahNo": 1,
+    "ayahArV1": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "ayahArV2": "بسم الله الرحمن الرحيم",
+    "ayahEn": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+    "meta": {
+      "page": 1,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 1,
+    "ayahNo": 2,
+    "ayahArV1": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "ayahArV2": "الحمد لله رب العالمين",
+    "ayahEn": "All praise is for Allah—Lord of all worlds",
+    "meta": {
+      "page": 1,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 1,
+    "ayahNo": 3,
+    "ayahArV1": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "ayahArV2": "الرحمن الرحيم",
+    "ayahEn": "the Most Compassionate, Most Merciful",
+    "meta": {
+      "page": 1,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 1,
+    "ayahNo": 4,
+    "ayahArV1": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+    "ayahArV2": "مالك يوم الدين",
+    "ayahEn": "Master of the Day of Judgment.",
+    "meta": {
+      "page": 1,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 1,
+    "ayahNo": 5,
+    "ayahArV1": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "ayahArV2": "اياك نعبد واياك نستعين",
+    "ayahEn": "You ˹alone˺ we worship and You ˹alone˺ we ask for help.",
+    "meta": {
+      "page": 1,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 1,
+    "ayahNo": 6,
+    "ayahArV1": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "ayahArV2": "اهدنا الصراط المستقيم",
+    "ayahEn": "Guide us along the Straight Path",
+    "meta": {
+      "page": 1,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 1,
+    "ayahNo": 7,
+    "ayahArV1": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "ayahArV2": "صراط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين",
+    "ayahEn": "the Path of those You have blessed—not those You are displeased with, or those who are astray.",
+    "meta": {
+      "page": 1,
+      "juz": 1,
+      "hizb": 1,
+      "hizbQuarter": 1,
+      "sajda": false
+    }
+  }
+]

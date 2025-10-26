@@ -1,0 +1,114 @@
+{
+  "surahNo": 94,
+  "surahNameAr": "الشرح",
+  "surahNameArabicLong": "سورة الشرح",
+  "surahNameEn": "Ash-Sharh",
+  "revelationPlace": "Mecca",
+  "totalAyat": 8,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "ayahArV2": "الم نشرح لك صدرك",
+      "ayahEn": "Have We not uplifted your heart for you ˹O Prophet˺",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "ayahArV2": "ووضعنا عنك وزرك",
+      "ayahEn": "relieved you of the burden",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "ayahArV2": "الذي انقض ظهرك",
+      "ayahEn": "which weighed so heavily on your back",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "ayahArV2": "ورفعنا لك ذكرك",
+      "ayahEn": "and elevated your renown for you?",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "ayahArV2": "فان مع العسر يسرا",
+      "ayahEn": "So, surely with hardship comes ease.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "ayahArV2": "ان مع العسر يسرا",
+      "ayahEn": "Surely with ˹that˺ hardship comes ˹more˺ ease.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "ayahArV2": "فاذا فرغت فانصب",
+      "ayahEn": "So once you have fulfilled ˹your duty˺, strive ˹in devotion˺",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "ayahArV2": "والى ربك فارغب",
+      "ayahEn": "turning to your Lord ˹alone˺ with hope.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    }
+  ]
+}

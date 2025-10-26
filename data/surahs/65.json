@@ -1,0 +1,166 @@
+{
+  "surahNo": 65,
+  "surahNameAr": "الطلاق",
+  "surahNameArabicLong": "سورة الطلاق",
+  "surahNameEn": "At-Talaaq",
+  "revelationPlace": "Madina",
+  "totalAyat": 12,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "ayahArV2": "يا ايها النبي اذا طلقتم النساء فطلقوهن لعدتهن واحصوا العدة واتقوا الله ربكم لا تخرجوهن من بيوتهن ولا يخرجن الا ان ياتين بفاحشة مبينة وتلك حدود الله ومن يتعد حدود الله فقد ظلم نفسه لا تدري لعل الله يحدث بعد ذلك امرا",
+      "ayahEn": "O Prophet! ˹Instruct the believers:˺ When you ˹intend to˺ divorce women, then divorce them with concern for their waiting period, and count it accurately. And fear Allah, your Lord. Do not force them out of their homes, nor should they leave—unless they commit a blatant misconduct. These are the limits set by Allah. And whoever transgresses Allah’s limits has truly wronged his own soul. You never know, perhaps Allah will bring about a change ˹of heart˺ later.",
+      "meta": {
+        "page": 558,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَـٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا",
+      "ayahArV2": "فاذا بلغن اجلهن فامسكوهن بمعروف او فارقوهن بمعروف واشهدوا ذوي عدل منكم واقيموا الشهادة لله ذلكم يوعظ به من كان يؤمن بالله واليوم الاخر ومن يتق الله يجعل له مخرجا",
+      "ayahEn": "Then when they have ˹almost˺ reached the end of their waiting period, either retain them honourably or separate from them honourably. And call two of your reliable men to witness ˹either way˺—and ˹let the witnesses˺ bear true testimony for ˹the sake of˺ Allah. This is enjoined on whoever has faith in Allah and the Last Day. And whoever is mindful of Allah, He will make a way out for them",
+      "meta": {
+        "page": 558,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "ayahArV2": "ويرزقه من حيث لا يحتسب ومن يتوكل على الله فهو حسبه ان الله بالغ امره قد جعل الله لكل شيء قدرا",
+      "ayahEn": "and provide for them from sources they could never imagine. And whoever puts their trust in Allah, then He ˹alone˺ is sufficient for them. Certainly Allah achieves His Will. Allah has already set a destiny for everything.",
+      "meta": {
+        "page": 558,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَٱلَّـٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَـٰثَةُ أَشْهُرٍ وَٱلَّـٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَـٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًا",
+      "ayahArV2": "واللائي يئسن من المحيض من نسائكم ان ارتبتم فعدتهن ثلاثة اشهر واللائي لم يحضن واولات الاحمال اجلهن ان يضعن حملهن ومن يتق الله يجعل له من امره يسرا",
+      "ayahEn": "As for your women past the age of menstruation, in case you do not know, their waiting period is three months, and those who have not menstruated as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them.",
+      "meta": {
+        "page": 558,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+      "ayahArV2": "ذلك امر الله انزله اليكم ومن يتق الله يكفر عنه سيئاته ويعظم له اجرا",
+      "ayahEn": "This is the commandment of Allah, which He has revealed to you. And whoever is mindful of Allah, He will absolve them of their sins and reward them immensely.",
+      "meta": {
+        "page": 558,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ۚ وَإِن كُنَّ أُو۟لَـٰتِ حَمْلٍ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+      "ayahArV2": "اسكنوهن من حيث سكنتم من وجدكم ولا تضاروهن لتضيقوا عليهن وان كن اولات حمل فانفقوا عليهن حتى يضعن حملهن فان ارضعن لكم فاتوهن اجورهن واتمروا بينكم بمعروف وان تعاسرتم فسترضع له اخرى",
+      "ayahEn": "Let them live where you live ˹during their waiting period˺, according to your means. And do not harass them to make their stay unbearable. If they are pregnant, then maintain them until they deliver. And if they nurse your child, compensate them, and consult together courteously. But if you fail to reach an agreement, then another woman will nurse ˹the child˺ for the father.",
+      "meta": {
+        "page": 559,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "ayahArV2": "لينفق ذو سعة من سعته ومن قدر عليه رزقه فلينفق مما اتاه الله لا يكلف الله نفسا الا ما اتاها سيجعل الله بعد عسر يسرا",
+      "ayahEn": "Let the man of wealth provide according to his means. As for the one with limited resources, let him provide according to whatever Allah has given him. Allah does not require of any soul beyond what He has given it. After hardship, Allah will bring about ease.",
+      "meta": {
+        "page": 559,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَـٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَـٰهَا عَذَابًا نُّكْرًا",
+      "ayahArV2": "وكاين من قرية عتت عن امر ربها ورسله فحاسبناها حسابا شديدا وعذبناها عذابا نكرا",
+      "ayahEn": "˹Imagine˺ how many societies rebelled against the commandments of their Lord and His messengers, so We called each ˹society˺ to a severe account and subjected them to a horrible punishment.",
+      "meta": {
+        "page": 559,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَـٰقِبَةُ أَمْرِهَا خُسْرًا",
+      "ayahArV2": "فذاقت وبال امرها وكان عاقبة امرها خسرا",
+      "ayahEn": "So they tasted the evil consequences of their doings, and the outcome of their doings was ˹total˺ loss.",
+      "meta": {
+        "page": 559,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا",
+      "ayahArV2": "اعد الله لهم عذابا شديدا فاتقوا الله يا اولي الالباب الذين امنوا قد انزل الله اليكم ذكرا",
+      "ayahEn": "Allah has ˹also˺ prepared for them a severe punishment. So fear Allah, O  people of reason and faith. Allah has indeed revealed to you a Reminder",
+      "meta": {
+        "page": 559,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "رَّسُولًا يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِ ٱللَّهِ مُبَيِّنَـٰتٍ لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَـٰلِحًا يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ قَدْ أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا",
+      "ayahArV2": "رسولا يتلو عليكم ايات الله مبينات ليخرج الذين امنوا وعملوا الصالحات من الظلمات الى النور ومن يؤمن بالله ويعمل صالحا يدخله جنات تجري من تحتها الانهار خالدين فيها ابدا قد احسن الله له رزقا",
+      "ayahEn": "˹and sent˺ a messenger reciting to you Allah’s revelations, making things clear so that He may bring those who believe and do good out of darkness and into light. And whoever believes in Allah and does good will be admitted by Him into Gardens under which rivers flow, to stay there for ever and ever. Allah will have indeed granted them an excellent provision.",
+      "meta": {
+        "page": 559,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+      "ayahArV2": "الله الذي خلق سبع سماوات ومن الارض مثلهن يتنزل الامر بينهن لتعلموا ان الله على كل شيء قدير وان الله قد احاط بكل شيء علما",
+      "ayahEn": "Allah is the One Who created seven heavens ˹in layers˺, and likewise for the earth. The ˹divine˺ command descends between them so you may know that Allah is Most Capable of everything and that Allah certainly encompasses all things in ˹His˺ knowledge.",
+      "meta": {
+        "page": 559,
+        "juz": 28,
+        "hizb": 56,
+        "hizbQuarter": 223,
+        "sajda": false
+      }
+    }
+  ]
+}

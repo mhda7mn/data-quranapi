@@ -1,0 +1,647 @@
+{
+  "surahNo": 52,
+  "surahNameAr": "الطور",
+  "surahNameArabicLong": "سورة الطور",
+  "surahNameEn": "At-Tur",
+  "revelationPlace": "Mecca",
+  "totalAyat": 49,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلطُّورِ",
+      "ayahArV2": "والطور",
+      "ayahEn": "By Mount Ṭûr!",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَكِتَـٰبٍ مَّسْطُورٍ",
+      "ayahArV2": "وكتاب مسطور",
+      "ayahEn": "And by the Book written",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "فِى رَقٍّ مَّنشُورٍ",
+      "ayahArV2": "في رق منشور",
+      "ayahEn": "on open pages ˹for all to read˺!",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+      "ayahArV2": "والبيت المعمور",
+      "ayahEn": "And by the ˹Sacred˺ House frequently visited!",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+      "ayahArV2": "والسقف المرفوع",
+      "ayahEn": "And by the canopy raised ˹high˺!",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+      "ayahArV2": "والبحر المسجور",
+      "ayahEn": "And by the seas set on fire!",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌ",
+      "ayahArV2": "ان عذاب ربك لواقع",
+      "ayahEn": "Indeed, the punishment of your Lord will come to pass—",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "مَّا لَهُۥ مِن دَافِعٍ",
+      "ayahArV2": "ما له من دافع",
+      "ayahEn": "none will avert it—",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا",
+      "ayahArV2": "يوم تمور السماء مورا",
+      "ayahEn": "on the Day the heavens will be shaken violently",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًا",
+      "ayahArV2": "وتسير الجبال سيرا",
+      "ayahEn": "and the mountains will be blown away entirely.",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "فَوَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "فويل يومئذ للمكذبين",
+      "ayahEn": "Then woe on that Day to the deniers—",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "ٱلَّذِينَ هُمْ فِى خَوْضٍ يَلْعَبُونَ",
+      "ayahArV2": "الذين هم في خوض يلعبون",
+      "ayahEn": "those who amuse themselves with falsehood!",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+      "ayahArV2": "يوم يدعون الى نار جهنم دعا",
+      "ayahEn": "˹It is˺ the Day they will be fiercely shoved into the Fire of Hell.",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "هَـٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+      "ayahArV2": "هذه النار التي كنتم بها تكذبون",
+      "ayahEn": "˹They will be told,˺ “This is the Fire which you used to deny.",
+      "meta": {
+        "page": 523,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "أَفَسِحْرٌ هَـٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ",
+      "ayahArV2": "افسحر هذا ام انتم لا تبصرون",
+      "ayahEn": "Is this magic, or do you not see?",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayahArV2": "اصلوها فاصبروا او لا تصبروا سواء عليكم انما تجزون ما كنتم تعملون",
+      "ayahEn": "Burn in it! It is the same whether you endure ˹it˺ patiently or not. You are only rewarded for what you used to do.”",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَعِيمٍ",
+      "ayahArV2": "ان المتقين في جنات ونعيم",
+      "ayahEn": "Indeed, the righteous will be in Gardens and bliss",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "فَـٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ",
+      "ayahArV2": "فاكهين بما اتاهم ربهم ووقاهم ربهم عذاب الجحيم",
+      "ayahEn": "enjoying whatever their Lord will have granted them. And their Lord will have protected them from the torment of the Hellfire.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayahArV2": "كلوا واشربوا هنيئا بما كنتم تعملون",
+      "ayahEn": "˹They will be told,˺ “Eat and drink happily for what you used to do.”",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+      "ayahArV2": "متكئين على سرر مصفوفة وزوجناهم بحور عين",
+      "ayahEn": "They will be reclining on thrones, ˹neatly˺ lined up ˹facing each other˺. And We will pair them to maidens with gorgeous eyes.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَـٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَآ أَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍ ۚ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌ",
+      "ayahArV2": "والذين امنوا واتبعتهم ذريتهم بايمان الحقنا بهم ذريتهم وما التناهم من عملهم من شيء كل امرئ بما كسب رهين",
+      "ayahEn": "As for those who believe and whose descendants follow them in faith, We will elevate their descendants to their rank, never discounting anything ˹of the reward˺ of their deeds. Every person will reap only what they sowed.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ",
+      "ayahArV2": "وامددناهم بفاكهة ولحم مما يشتهون",
+      "ayahEn": "And We will ˹continually˺ provide them with whatever fruit or meat they desire.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "يَتَنَـٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+      "ayahArV2": "يتنازعون فيها كاسا لا لغو فيها ولا تاثيم",
+      "ayahEn": "They will pass around to each other a drink ˹of pure wine,˺ which leads to no idle talk or sinfulness.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 209,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ",
+      "ayahArV2": "ويطوف عليهم غلمان لهم كانهم لؤلؤ مكنون",
+      "ayahEn": "And they will be waited on by their youthful servants like spotless pearls.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "ayahArV2": "واقبل بعضهم على بعض يتساءلون",
+      "ayahEn": "They will turn to one another inquisitively.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ",
+      "ayahArV2": "قالوا انا كنا قبل في اهلنا مشفقين",
+      "ayahEn": "They will say, “Before ˹this reward˺ we used to be in awe ˹of Allah˺ in the midst of our people.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+      "ayahArV2": "فمن الله علينا ووقانا عذاب السموم",
+      "ayahEn": "So Allah has graced us and protected us from the torment of ˹Hell’s˺ scorching heat.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ",
+      "ayahArV2": "انا كنا من قبل ندعوه انه هو البر الرحيم",
+      "ayahEn": "Indeed, we used to call upon Him ˹alone˺ before. He is truly the Most Kind, Most Merciful.”",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ",
+      "ayahArV2": "فذكر فما انت بنعمت ربك بكاهن ولا مجنون",
+      "ayahEn": "So ˹continue to˺ remind ˹all, O  Prophet˺. For you, by the grace of your Lord, are not a fortune-teller or a madman.",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ",
+      "ayahArV2": "ام يقولون شاعر نتربص به ريب المنون",
+      "ayahEn": "Or do they say, “˹He is˺ a poet, for whom we ˹eagerly˺ await an ill-fate!”?",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 31,
+      "ayahArV1": "قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ",
+      "ayahArV2": "قل تربصوا فاني معكم من المتربصين",
+      "ayahEn": "Say, “Keep waiting! I too am waiting with you.”",
+      "meta": {
+        "page": 524,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 32,
+      "ayahArV1": "أَمْ تَأْمُرُهُمْ أَحْلَـٰمُهُم بِهَـٰذَآ ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+      "ayahArV2": "ام تامرهم احلامهم بهذا ام هم قوم طاغون",
+      "ayahEn": "Or do their ˹intelligent˺ minds prompt them to this ˹paradox˺? Or are they ˹just˺ a transgressing people?",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 33,
+      "ayahArV1": "أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ",
+      "ayahArV2": "ام يقولون تقوله بل لا يؤمنون",
+      "ayahEn": "Or do they say, “He made this ˹Quran˺ up!”? In fact, they have no faith.",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 34,
+      "ayahArV1": "فَلْيَأْتُوا۟ بِحَدِيثٍ مِّثْلِهِۦٓ إِن كَانُوا۟ صَـٰدِقِينَ",
+      "ayahArV2": "فلياتوا بحديث مثله ان كانوا صادقين",
+      "ayahEn": "Let them then produce something like it, if what they say is true!",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 35,
+      "ayahArV1": "أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَـٰلِقُونَ",
+      "ayahArV2": "ام خلقوا من غير شيء ام هم الخالقون",
+      "ayahEn": "Or were they created by nothing, or are they ˹their own˺ creators?",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 36,
+      "ayahArV1": "أَمْ خَلَقُوا۟ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۚ بَل لَّا يُوقِنُونَ",
+      "ayahArV2": "ام خلقوا السماوات والارض بل لا يوقنون",
+      "ayahEn": "Or did they create the heavens and the earth? In fact, they have no firm belief ˹in Allah˺.",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 37,
+      "ayahArV1": "أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ",
+      "ayahArV2": "ام عندهم خزائن ربك ام هم المصيطرون",
+      "ayahEn": "Or do they possess the treasuries of your Lord, or are they in control ˹of everything˺?",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 38,
+      "ayahArV1": "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَـٰنٍ مُّبِينٍ",
+      "ayahArV2": "ام لهم سلم يستمعون فيه فليات مستمعهم بسلطان مبين",
+      "ayahEn": "Or do they have a stairway, by which they eavesdrop ˹on the heavens˺? Then let those who do so bring a compelling proof.",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 39,
+      "ayahArV1": "أَمْ لَهُ ٱلْبَنَـٰتُ وَلَكُمُ ٱلْبَنُونَ",
+      "ayahArV2": "ام له البنات ولكم البنون",
+      "ayahEn": "Or does He have daughters ˹as you claim˺, while you ˹prefer to˺ have sons?",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 40,
+      "ayahArV1": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "ayahArV2": "ام تسالهم اجرا فهم من مغرم مثقلون",
+      "ayahEn": "Or are you ˹O Prophet˺ asking them for a reward ˹for the message˺ so that they are overburdened by debt?",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 41,
+      "ayahArV1": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+      "ayahArV2": "ام عندهم الغيب فهم يكتبون",
+      "ayahEn": "Or do they have access to ˹the Record in˺ the unseen, so they copy it ˹for all to see˺?",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 42,
+      "ayahArV1": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ",
+      "ayahArV2": "ام يريدون كيدا فالذين كفروا هم المكيدون",
+      "ayahEn": "Or do they intend to scheme ˹against the Prophet˺? Then it is the disbelievers who will fall victim to ˹their˺ schemes.",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 43,
+      "ayahArV1": "أَمْ لَهُمْ إِلَـٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "ayahArV2": "ام لهم اله غير الله سبحان الله عما يشركون",
+      "ayahEn": "Or do they have a god other than Allah? Glorified is Allah far above what they associate ˹with Him˺!",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 44,
+      "ayahArV1": "وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ",
+      "ayahArV2": "وان يروا كسفا من السماء ساقطا يقولوا سحاب مركوم",
+      "ayahEn": "If they were to see a ˹deadly˺ piece of the sky fall down ˹upon them˺, still they would say, “˹This is just˺ a pile of clouds.”",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 45,
+      "ayahArV1": "فَذَرْهُمْ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ",
+      "ayahArV2": "فذرهم حتى يلاقوا يومهم الذي فيه يصعقون",
+      "ayahEn": "So leave them until they face their Day in which they will be struck dead—",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 46,
+      "ayahArV1": "يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+      "ayahArV2": "يوم لا يغني عنهم كيدهم شيئا ولا هم ينصرون",
+      "ayahEn": "the Day their scheming will be of no benefit to them whatsoever, nor will they be helped.",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 47,
+      "ayahArV1": "وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayahArV2": "وان للذين ظلموا عذابا دون ذلك ولكن اكثرهم لا يعلمون",
+      "ayahEn": "Also, the wrongdoers will certainly have another torment before that ˹Day˺, but most of them do not know.",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 48,
+      "ayahArV1": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "ayahArV2": "واصبر لحكم ربك فانك باعيننا وسبح بحمد ربك حين تقوم",
+      "ayahEn": "So be patient with your Lord’s decree, for you are truly under Our ˹watchful˺ Eyes. And glorify the praises of your Lord when you rise.",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 49,
+      "ayahArV1": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
+      "ayahArV2": "ومن الليل فسبحه وادبار النجوم",
+      "ayahEn": "And glorify Him during part of the night and at the fading of the stars.",
+      "meta": {
+        "page": 525,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "surahNo": 114,
+  "surahNameAr": "الناس",
+  "surahNameArabicLong": "سورة الناس",
+  "surahNameEn": "An-Naas",
+  "revelationPlace": "Mecca",
+  "totalAyat": 6,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "ayahArV2": "قل اعوذ برب الناس",
+      "ayahEn": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of humankind",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "مَلِكِ ٱلنَّاسِ",
+      "ayahArV2": "ملك الناس",
+      "ayahEn": "the Master of humankind",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "إِلَـٰهِ ٱلنَّاسِ",
+      "ayahArV2": "اله الناس",
+      "ayahEn": "the God of humankind",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "ayahArV2": "من شر الوسواس الخناس",
+      "ayahEn": "from the evil of the lurking whisperer—",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "ayahArV2": "الذي يوسوس في صدور الناس",
+      "ayahEn": "who whispers into the hearts of humankind—",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "ayahArV2": "من الجنة والناس",
+      "ayahEn": "from among jinn and humankind.”",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

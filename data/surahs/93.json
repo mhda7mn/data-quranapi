@@ -1,0 +1,153 @@
+{
+  "surahNo": 93,
+  "surahNameAr": "الضحى",
+  "surahNameArabicLong": "سورة الضحى",
+  "surahNameEn": "Ad-Dhuhaa",
+  "revelationPlace": "Mecca",
+  "totalAyat": 11,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلضُّحَىٰ",
+      "ayahArV2": "والضحى",
+      "ayahEn": "By the morning sunlight",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "ayahArV2": "والليل اذا سجى",
+      "ayahEn": "and the night when it falls still!",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "ayahArV2": "ما ودعك ربك وما قلى",
+      "ayahEn": "Your Lord ˹O Prophet˺ has not abandoned you, nor has He become hateful ˹of you˺.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "ayahArV2": "وللاخرة خير لك من الاولى",
+      "ayahEn": "And the next life is certainly far better for you than this one.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "ayahArV2": "ولسوف يعطيك ربك فترضى",
+      "ayahEn": "And ˹surely˺ your Lord will give so much to you that you will be pleased.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "ayahArV2": "الم يجدك يتيما فاوى",
+      "ayahEn": "Did He not find you as an orphan then sheltered you?",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "ayahArV2": "ووجدك ضالا فهدى",
+      "ayahEn": "Did He not find you unguided then guided you?",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "ayahArV2": "ووجدك عائلا فاغنى",
+      "ayahEn": "And did He not find you needy then satisfied your needs?",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "ayahArV2": "فاما اليتيم فلا تقهر",
+      "ayahEn": "So do not oppress the orphan",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "ayahArV2": "واما السائل فلا تنهر",
+      "ayahEn": "nor repulse the beggar.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "ayahArV2": "واما بنعمة ربك فحدث",
+      "ayahEn": "And proclaim the blessings of your Lord.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    }
+  ]
+}

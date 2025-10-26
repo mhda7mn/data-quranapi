@@ -1,0 +1,205 @@
+{
+  "surahNo": 91,
+  "surahNameAr": "الشمس",
+  "surahNameArabicLong": "سورة الشمس",
+  "surahNameEn": "Ash-Shams",
+  "revelationPlace": "Mecca",
+  "totalAyat": 15,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "ayahArV2": "والشمس وضحاها",
+      "ayahEn": "By the sun and its brightness",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "ayahArV2": "والقمر اذا تلاها",
+      "ayahEn": "and the moon as it follows it",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "ayahArV2": "والنهار اذا جلاها",
+      "ayahEn": "and the day as it unveils it",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "ayahArV2": "والليل اذا يغشاها",
+      "ayahEn": "and the night as it conceals it!",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "ayahArV2": "والسماء وما بناها",
+      "ayahEn": "And by heaven and ˹the One˺ Who built it",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "ayahArV2": "والارض وما طحاها",
+      "ayahEn": "and the earth and ˹the One˺ Who spread it!",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "ayahArV2": "ونفس وما سواها",
+      "ayahEn": "And by the soul and ˹the One˺ Who fashioned it",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "ayahArV2": "فالهمها فجورها وتقواها",
+      "ayahEn": "then with ˹the knowledge of˺ right and wrong inspired it!",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "ayahArV2": "قد افلح من زكاها",
+      "ayahEn": "Successful indeed is the one who purifies their soul",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "ayahArV2": "وقد خاب من دساها",
+      "ayahEn": "and doomed is the one who corrupts it!",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "ayahArV2": "كذبت ثمود بطغواها",
+      "ayahEn": "Thamûd rejected ˹the truth˺ out of arrogance",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "ayahArV2": "اذ انبعث اشقاها",
+      "ayahEn": "when the most wicked of them was roused ˹to kill the she-camel˺.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+      "ayahArV2": "فقال لهم رسول الله ناقة الله وسقياها",
+      "ayahEn": "But the messenger of Allah warned them, “˹Do not disturb˺ Allah’s camel and her ˹turn to˺ drink!”",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "ayahArV2": "فكذبوه فعقروها فدمدم عليهم ربهم بذنبهم فسواها",
+      "ayahEn": "Still they defied him and slaughtered her. So their Lord crushed them for their crime, levelling all to the ground.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "وَلَا يَخَافُ عُقْبَـٰهَا",
+      "ayahArV2": "ولا يخاف عقباها",
+      "ayahEn": "He has no fear of consequences.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "surahNo": 72,
+  "surahNameAr": "الجن",
+  "surahNameArabicLong": "سورة الجن",
+  "surahNameEn": "Al-Jinn",
+  "revelationPlace": "Mecca",
+  "totalAyat": 28,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
+      "ayahArV2": "قل اوحي الي انه استمع نفر من الجن فقالوا انا سمعنا قرانا عجبا",
+      "ayahEn": "Say, ˹O Prophet,˺ “It has been revealed to me that a group of jinn listened ˹to the Quran,˺ and said ˹to their fellow jinn˺: ‘Indeed, we have heard a wondrous recitation.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًا",
+      "ayahArV2": "يهدي الى الرشد فامنا به ولن نشرك بربنا احدا",
+      "ayahEn": "It leads to Right Guidance so we believed in it, and we will never associate anyone with our Lord ˹in worship˺.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَأَنَّهُۥ تَعَـٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَـٰحِبَةً وَلَا وَلَدًا",
+      "ayahArV2": "وانه تعالى جد ربنا ما اتخذ صاحبة ولا ولدا",
+      "ayahEn": "˹Now, we believe that˺ our Lord—Exalted is His Majesty—has neither taken a mate nor offspring",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًا",
+      "ayahArV2": "وانه كان يقول سفيهنا على الله شططا",
+      "ayahEn": "and that the foolish of us used to utter ˹outrageous˺ falsehoods about Allah.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًا",
+      "ayahArV2": "وانا ظننا ان لن تقول الانس والجن على الله كذبا",
+      "ayahEn": "We certainly thought that humans and jinn would never speak lies about Allah.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا",
+      "ayahArV2": "وانه كان رجال من الانس يعوذون برجال من الجن فزادوهم رهقا",
+      "ayahEn": "And some men used to seek refuge with some jinn—so they increased each other in wickedness.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا",
+      "ayahArV2": "وانهم ظنوا كما ظننتم ان لن يبعث الله احدا",
+      "ayahEn": "And those ˹humans˺ thought, just like you ˹jinn˺, that Allah would not resurrect anyone ˹for judgment˺.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَـٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+      "ayahArV2": "وانا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبا",
+      "ayahEn": "˹Earlier˺ we tried to reach heaven ˹for news˺, only to find it filled with stern guards and shooting stars.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَـٰعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ ٱلْـَٔانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا",
+      "ayahArV2": "وانا كنا نقعد منها مقاعد للسمع فمن يستمع الان يجد له شهابا رصدا",
+      "ayahEn": "We used to take up positions there for eavesdropping, but whoever dares eavesdrop now will find a flare lying in wait for them.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+      "ayahArV2": "وانا لا ندري اشر اريد بمن في الارض ام اراد بهم ربهم رشدا",
+      "ayahEn": "Now, we have no clue whether evil is intended for those on earth, or their Lord intends for them what is right.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًا",
+      "ayahArV2": "وانا منا الصالحون ومنا دون ذلك كنا طرائق قددا",
+      "ayahEn": "Among us are those who are righteous and those who are less so. We have been of different factions.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا",
+      "ayahArV2": "وانا ظننا ان لن نعجز الله في الارض ولن نعجزه هربا",
+      "ayahEn": "˹Now,˺ we truly know that we cannot frustrate Allah on earth, nor can we escape from Him ˹into heaven˺.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+      "ayahArV2": "وانا لما سمعنا الهدى امنا به فمن يؤمن بربه فلا يخاف بخسا ولا رهقا",
+      "ayahEn": "When we heard the guidance ˹of the Quran˺, we ˹readily˺ believed in it. For whoever believes in their Lord will have no fear of being denied ˹a reward˺ or wronged.",
+      "meta": {
+        "page": 572,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَـٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَـٰٓئِكَ تَحَرَّوْا۟ رَشَدًا",
+      "ayahArV2": "وانا منا المسلمون ومنا القاسطون فمن اسلم فاولئك تحروا رشدا",
+      "ayahEn": "And among us are those who have submitted ˹to Allah˺ and those who are deviant. So ˹as for˺ those who submitted, it is they who have attained Right Guidance.",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "وَأَمَّا ٱلْقَـٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًا",
+      "ayahArV2": "واما القاسطون فكانوا لجهنم حطبا",
+      "ayahEn": "And as for the deviant, they will be fuel for Hell.’”",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "وَأَلَّوِ ٱسْتَقَـٰمُوا۟ عَلَى ٱلطَّرِيقَةِ لَأَسْقَيْنَـٰهُم مَّآءً غَدَقًا",
+      "ayahArV2": "وان لو استقاموا على الطريقة لاسقيناهم ماء غدقا",
+      "ayahEn": "Had the deniers followed the Right Way, We would have certainly granted them abundant rain to drink—",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِۦ يَسْلُكْهُ عَذَابًا صَعَدًا",
+      "ayahArV2": "لنفتنهم فيه ومن يعرض عن ذكر ربه يسلكه عذابا صعدا",
+      "ayahEn": "as a test for them. And whoever turns away from the remembrance of their Lord will be admitted by Him into an overwhelming punishment.",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "وَأَنَّ ٱلْمَسَـٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًا",
+      "ayahArV2": "وان المساجد لله فلا تدعوا مع الله احدا",
+      "ayahEn": "The places of worship are ˹only˺ for Allah, so do not invoke anyone besides Him.",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًا",
+      "ayahArV2": "وانه لما قام عبد الله يدعوه كادوا يكونون عليه لبدا",
+      "ayahEn": "Yet when the servant of Allah stood up calling upon Him ˹alone˺, the pagans almost swarmed over him.",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "قُلْ إِنَّمَآ أَدْعُوا۟ رَبِّى وَلَآ أُشْرِكُ بِهِۦٓ أَحَدًا",
+      "ayahArV2": "قل انما ادعو ربي ولا اشرك به احدا",
+      "ayahEn": "Say, ˹O Prophet,˺ “I call only upon my Lord, associating none with Him ˹in worship˺.”",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "قُلْ إِنِّى لَآ أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+      "ayahArV2": "قل اني لا املك لكم ضرا ولا رشدا",
+      "ayahEn": "Say, “It is not in my power to harm or benefit you.”",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+      "ayahArV2": "قل اني لن يجيرني من الله احد ولن اجد من دونه ملتحدا",
+      "ayahEn": "Say, “No one can protect me from Allah ˹if I were to disobey Him˺, nor can I find any refuge other than Him.",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "إِلَّا بَلَـٰغًا مِّنَ ٱللَّهِ وَرِسَـٰلَـٰتِهِۦ ۚ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ أَبَدًا",
+      "ayahArV2": "الا بلاغا من الله ورسالاته ومن يعص الله ورسوله فان له نار جهنم خالدين فيها ابدا",
+      "ayahEn": "˹My duty is˺ only to convey ˹the truth˺ from Allah and ˹deliver˺ His messages.” And whoever disobeys Allah and His Messenger will certainly be in the Fire of Hell, to stay there for ever and ever.",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+      "ayahArV2": "حتى اذا راوا ما يوعدون فسيعلمون من اضعف ناصرا واقل عددا",
+      "ayahEn": "Only when they see what they have been threatened with will they know who is weaker in helpers and inferior in manpower.",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا",
+      "ayahArV2": "قل ان ادري اقريب ما توعدون ام يجعل له ربي امدا",
+      "ayahEn": "Say, “I do not know if what you are promised is near or my Lord has set a distant time for it.",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "عَـٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا",
+      "ayahArV2": "عالم الغيب فلا يظهر على غيبه احدا",
+      "ayahEn": "˹He is the˺ Knower of the unseen, disclosing none of it to anyone",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "إِلَّا مَنِ ٱرْتَضَىٰ مِن رَّسُولٍ فَإِنَّهُۥ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ رَصَدًا",
+      "ayahArV2": "الا من ارتضى من رسول فانه يسلك من بين يديه ومن خلفه رصدا",
+      "ayahEn": "except messengers of His choice. Then He appoints angel-guards before and behind them",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا۟ رِسَـٰلَـٰتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَىْءٍ عَدَدًۢا",
+      "ayahArV2": "ليعلم ان قد ابلغوا رسالات ربهم واحاط بما لديهم واحصى كل شيء عددا",
+      "ayahEn": "to ensure that the messengers fully deliver the messages of their Lord—though He ˹already˺ knows all about them, and keeps account of everything.”",
+      "meta": {
+        "page": 573,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 229,
+        "sajda": false
+      }
+    }
+  ]
+}

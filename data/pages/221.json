@@ -1,0 +1,114 @@
+[
+  {
+    "surahNo": 10,
+    "ayahNo": 107,
+    "ayahArV1": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يُرِدْكَ بِخَيْرٍ فَلَا رَآدَّ لِفَضْلِهِۦ ۚ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "ayahArV2": "وان يمسسك الله بضر فلا كاشف له الا هو وان يردك بخير فلا راد لفضله يصيب به من يشاء من عباده وهو الغفور الرحيم",
+    "ayahEn": "and ‘If Allah touches you with harm, none can undo it except Him. And if He intends good for you, none can withhold His bounty. He grants it to whoever He wills of His servants. And He is the All-Forgiving, Most Merciful.’”",
+    "meta": {
+      "page": 221,
+      "juz": 11,
+      "hizb": 22,
+      "hizbQuarter": 88,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 10,
+    "ayahNo": 108,
+    "ayahArV1": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍ",
+    "ayahArV2": "قل يا ايها الناس قد جاءكم الحق من ربكم فمن اهتدى فانما يهتدي لنفسه ومن ضل فانما يضل عليها وما انا عليكم بوكيل",
+    "ayahEn": "Say, ˹O Prophet,˺ “O humanity! The truth has surely come to you from your Lord. So whoever chooses to be guided, it is only for their own good. And whoever chooses to stray, it is only to their own loss. And I am not a keeper over you.”",
+    "meta": {
+      "page": 221,
+      "juz": 11,
+      "hizb": 22,
+      "hizbQuarter": 88,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 10,
+    "ayahNo": 109,
+    "ayahArV1": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ وَٱصْبِرْ حَتَّىٰ يَحْكُمَ ٱللَّهُ ۚ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ",
+    "ayahArV2": "واتبع ما يوحى اليك واصبر حتى يحكم الله وهو خير الحاكمين",
+    "ayahEn": "And follow what is revealed to you, and be patient until Allah passes His judgment. For He is the Best of Judges.",
+    "meta": {
+      "page": 221,
+      "juz": 11,
+      "hizb": 22,
+      "hizbQuarter": 88,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 11,
+    "ayahNo": 1,
+    "ayahArV1": "الٓر ۚ كِتَـٰبٌ أُحْكِمَتْ ءَايَـٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ",
+    "ayahArV2": "الر كتاب احكمت اياته ثم فصلت من لدن حكيم خبير",
+    "ayahEn": "Alif-Lãm-Ra. ˹This is˺ a Book whose verses are well perfected and then fully explained. ˹It is˺ from the One ˹Who is˺ All-Wise, All-Aware.",
+    "meta": {
+      "page": 221,
+      "juz": 11,
+      "hizb": 22,
+      "hizbQuarter": 88,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 11,
+    "ayahNo": 2,
+    "ayahArV1": "أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۚ إِنَّنِى لَكُم مِّنْهُ نَذِيرٌ وَبَشِيرٌ",
+    "ayahArV2": "الا تعبدوا الا الله انني لكم منه نذير وبشير",
+    "ayahEn": "˹Tell them, O  Prophet,˺ “Worship none but Allah. Surely I am a warner and deliverer of good news to you from Him.",
+    "meta": {
+      "page": 221,
+      "juz": 11,
+      "hizb": 22,
+      "hizbQuarter": 88,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 11,
+    "ayahNo": 3,
+    "ayahArV1": "وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَـٰعًا حَسَنًا إِلَىٰٓ أَجَلٍ مُّسَمًّى وَيُؤْتِ كُلَّ ذِى فَضْلٍ فَضْلَهُۥ ۖ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ كَبِيرٍ",
+    "ayahArV2": "وان استغفروا ربكم ثم توبوا اليه يمتعكم متاعا حسنا الى اجل مسمى ويؤت كل ذي فضل فضله وان تولوا فاني اخاف عليكم عذاب يوم كبير",
+    "ayahEn": "And seek your Lord’s forgiveness and turn to Him in repentance. He will grant you a good provision for an appointed term and graciously reward the doers of good. But if you turn away, then I truly fear for you the torment of a formidable Day.",
+    "meta": {
+      "page": 221,
+      "juz": 11,
+      "hizb": 22,
+      "hizbQuarter": 88,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 11,
+    "ayahNo": 4,
+    "ayahArV1": "إِلَى ٱللَّهِ مَرْجِعُكُمْ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "ayahArV2": "الى الله مرجعكم وهو على كل شيء قدير",
+    "ayahEn": "To Allah is your return. And He is Most Capable of everything.”",
+    "meta": {
+      "page": 221,
+      "juz": 11,
+      "hizb": 22,
+      "hizbQuarter": 88,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 11,
+    "ayahNo": 5,
+    "ayahArV1": "أَلَآ إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا۟ مِنْهُ ۚ أَلَا حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+    "ayahArV2": "الا انهم يثنون صدورهم ليستخفوا منه الا حين يستغشون ثيابهم يعلم ما يسرون وما يعلنون انه عليم بذات الصدور",
+    "ayahEn": "Indeed, they enfold ˹what is in˺ their hearts, ˹trying˺ to hide it from Him! But even when they cover themselves with their clothes, He knows what they conceal and what they reveal. Surely He knows best what is ˹hidden˺ in the heart.",
+    "meta": {
+      "page": 221,
+      "juz": 11,
+      "hizb": 22,
+      "hizbQuarter": 88,
+      "sajda": false
+    }
+  }
+]

@@ -1,0 +1,153 @@
+{
+  "surahNo": 101,
+  "surahNameAr": "القارعة",
+  "surahNameArabicLong": "سورة القارعة",
+  "surahNameEn": "Al-Qaari'a",
+  "revelationPlace": "Mecca",
+  "totalAyat": 11,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "ٱلْقَارِعَةُ",
+      "ayahArV2": "القارعة",
+      "ayahEn": "The Striking Disaster!",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "مَا ٱلْقَارِعَةُ",
+      "ayahArV2": "ما القارعة",
+      "ayahEn": "What is the Striking Disaster?",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "ayahArV2": "وما ادراك ما القارعة",
+      "ayahEn": "And what will make you realize what the Striking Disaster is?",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "ayahArV2": "يوم يكون الناس كالفراش المبثوث",
+      "ayahEn": "˹It is˺ the Day people will be like scattered moths",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "ayahArV2": "وتكون الجبال كالعهن المنفوش",
+      "ayahEn": "and the mountains will be like carded wool.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "ayahArV2": "فاما من ثقلت موازينه",
+      "ayahEn": "So as for those whose scale is heavy ˹with good deeds˺",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "ayahArV2": "فهو في عيشة راضية",
+      "ayahEn": "they will be in a life of bliss.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "ayahArV2": "واما من خفت موازينه",
+      "ayahEn": "And as for those whose scale is light",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "ayahArV2": "فامه هاوية",
+      "ayahEn": "their home will be the abyss.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "ayahArV2": "وما ادراك ما هيه",
+      "ayahEn": "And what will make you realize what that is?",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "نَارٌ حَامِيَةٌۢ",
+      "ayahArV2": "نار حامية",
+      "ayahEn": "˹It is˺ a scorching Fire.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

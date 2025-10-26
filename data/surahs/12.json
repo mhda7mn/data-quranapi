@@ -1,0 +1,1453 @@
+{
+  "surahNo": 12,
+  "surahNameAr": "يوسف",
+  "surahNameArabicLong": "سورة يوسف",
+  "surahNameEn": "Yusuf",
+  "revelationPlace": "Mecca",
+  "totalAyat": 111,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "ayahArV2": "الر تلك ايات الكتاب المبين",
+      "ayahEn": "Alif-Lãm-Ra. These are the verses of the clear Book.",
+      "meta": {
+        "page": 235,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 94,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "إِنَّآ أَنزَلْنَـٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+      "ayahArV2": "انا انزلناه قرانا عربيا لعلكم تعقلون",
+      "ayahEn": "Indeed, We have sent it down as an Arabic Quran so that you may understand.",
+      "meta": {
+        "page": 235,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 94,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَـٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَـٰفِلِينَ",
+      "ayahArV2": "نحن نقص عليك احسن القصص بما اوحينا اليك هذا القران وان كنت من قبله لمن الغافلين",
+      "ayahEn": "We relate to you ˹O Prophet˺ the best of stories through Our revelation of this Quran, though before this you were totally unaware ˹of them˺.",
+      "meta": {
+        "page": 235,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 94,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+      "ayahArV2": "اذ قال يوسف لابيه يا ابت اني رايت احد عشر كوكبا والشمس والقمر رايتهم لي ساجدين",
+      "ayahEn": "˹Remember˺ when Joseph said to his father, “O my dear father! Indeed I dreamt of eleven stars, and the sun, and the moon—I saw them prostrating to me!”",
+      "meta": {
+        "page": 235,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 94,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "قَالَ يَـٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَـٰنَ لِلْإِنسَـٰنِ عَدُوٌّ مُّبِينٌ",
+      "ayahArV2": "قال يا بني لا تقصص رؤياك على اخوتك فيكيدوا لك كيدا ان الشيطان للانسان عدو مبين",
+      "ayahEn": "He replied, “O my dear son! Do not relate your vision to your brothers, or they will devise a plot against you. Surely Satan is a sworn enemy to humankind.",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 94,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَـٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+      "ayahArV2": "وكذلك يجتبيك ربك ويعلمك من تاويل الاحاديث ويتم نعمته عليك وعلى ال يعقوب كما اتمها على ابويك من قبل ابراهيم واسحاق ان ربك عليم حكيم",
+      "ayahEn": "And so will your Lord choose you ˹O Joseph˺, and teach you the interpretation of dreams, and perfect His favour upon you and the descendants of Jacob—˹just˺ as He once perfected it upon your forefathers, Abraham and Isaac. Surely your Lord is All-Knowing, All-Wise.”",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 94,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَـٰتٌ لِّلسَّآئِلِينَ",
+      "ayahArV2": "لقد كان في يوسف واخوته ايات للسائلين",
+      "ayahEn": "Indeed, in the story of Joseph and his brothers there are lessons for all who ask.",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَـٰلٍ مُّبِينٍ",
+      "ayahArV2": "اذ قالوا ليوسف واخوه احب الى ابينا منا ونحن عصبة ان ابانا لفي ضلال مبين",
+      "ayahEn": "˹Remember˺ when they said ˹to one another˺, “Surely Joseph and his brother ˹Benjamin˺ are more beloved to our father than we, even though we are a group of so many. Indeed, our father is clearly mistaken.",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًا صَـٰلِحِينَ",
+      "ayahArV2": "اقتلوا يوسف او اطرحوه ارضا يخل لكم وجه ابيكم وتكونوا من بعده قوما صالحين",
+      "ayahEn": "Kill Joseph or cast him out to some ˹distant˺ land so that our father’s attention will be only ours, then after that you may ˹repent and˺ become righteous people!”",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَـٰعِلِينَ",
+      "ayahArV2": "قال قائل منهم لا تقتلوا يوسف والقوه في غيابت الجب يلتقطه بعض السيارة ان كنتم فاعلين",
+      "ayahEn": "One of them said, “Do not kill Joseph. But if you must do something, throw him into the bottom of a well so perhaps he may be picked up by some travellers.”",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "قَالُوا۟ يَـٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَـٰصِحُونَ",
+      "ayahArV2": "قالوا يا ابانا ما لك لا تامنا على يوسف وانا له لناصحون",
+      "ayahEn": "They said, “O our father! Why do you not trust us with Joseph, although we truly wish him well?",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+      "ayahArV2": "ارسله معنا غدا يرتع ويلعب وانا له لحافظون",
+      "ayahEn": "Send him out with us tomorrow so that he may enjoy himself and play. And we will really watch over him.”",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَـٰفِلُونَ",
+      "ayahArV2": "قال اني ليحزنني ان تذهبوا به واخاف ان ياكله الذئب وانتم عنه غافلون",
+      "ayahEn": "He responded, “It would truly sadden me if you took him away with you, and I fear that a wolf may devour him while you are negligent of him.”",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًا لَّخَـٰسِرُونَ",
+      "ayahArV2": "قالوا لئن اكله الذئب ونحن عصبة انا اذا لخاسرون",
+      "ayahEn": "They said, “If a wolf were to devour him, despite our strong group, then we would certainly be losers!”",
+      "meta": {
+        "page": 236,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَـٰذَا وَهُمْ لَا يَشْعُرُونَ",
+      "ayahArV2": "فلما ذهبوا به واجمعوا ان يجعلوه في غيابت الجب واوحينا اليه لتنبئنهم بامرهم هذا وهم لا يشعرون",
+      "ayahEn": "And so, when they took him away and decided to throw him into the bottom of the well, We inspired him: “˹One day˺ you will remind them of this deed of theirs while they are unaware ˹of who you are˺.”",
+      "meta": {
+        "page": 237,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ",
+      "ayahArV2": "وجاءوا اباهم عشاء يبكون",
+      "ayahEn": "Then they returned to their father in the evening, weeping.",
+      "meta": {
+        "page": 237,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "قَالُوا۟ يَـٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَـٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَـٰدِقِينَ",
+      "ayahArV2": "قالوا يا ابانا انا ذهبنا نستبق وتركنا يوسف عند متاعنا فاكله الذئب وما انت بمؤمن لنا ولو كنا صادقين",
+      "ayahEn": "They cried, “Our father! We went racing and left Joseph with our belongings, and a wolf devoured him! But you will not believe us, no matter how truthful we are.”",
+      "meta": {
+        "page": 237,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "ayahArV2": "وجاءوا على قميصه بدم كذب قال بل سولت لكم انفسكم امرا فصبر جميل والله المستعان على ما تصفون",
+      "ayahEn": "And they brought his shirt, stained with false blood. He responded, “No! Your souls must have tempted you to do something ˹evil˺. So ˹I can only endure with˺ beautiful patience! It is Allah’s help that I seek to bear your claims.”",
+      "meta": {
+        "page": 237,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "وَجَآءَتْ سَيَّارَةٌ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَـٰبُشْرَىٰ هَـٰذَا غُلَـٰمٌ ۚ وَأَسَرُّوهُ بِضَـٰعَةً ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ",
+      "ayahArV2": "وجاءت سيارة فارسلوا واردهم فادلى دلوه قال يا بشرى هذا غلام واسروه بضاعة والله عليم بما يعملون",
+      "ayahEn": "And there came some travellers, and they sent their water-boy who let down his bucket into the well. He cried out, “Oh, what a great find! Here is a boy!” And they took him secretly ˹to be sold˺ as merchandise, but Allah is All-Knowing of what they did.",
+      "meta": {
+        "page": 237,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+      "ayahArV2": "وشروه بثمن بخس دراهم معدودة وكانوا فيه من الزاهدين",
+      "ayahEn": "They ˹later˺ sold him for a cheap price, just a few silver coins—only wanting to get rid of him.",
+      "meta": {
+        "page": 237,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayahArV2": "وقال الذي اشتراه من مصر لامراته اكرمي مثواه عسى ان ينفعنا او نتخذه ولدا وكذلك مكنا ليوسف في الارض ولنعلمه من تاويل الاحاديث والله غالب على امره ولكن اكثر الناس لا يعلمون",
+      "ayahEn": "The man from Egypt who bought him said to his wife, “Take good care of him, perhaps he may be useful to us or we may adopt him as a son.” This is how We established Joseph in the land, so that We might teach him the interpretation of dreams. Allah’s Will always prevails, but most people do not know.",
+      "meta": {
+        "page": 237,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayahArV2": "ولما بلغ اشده اتيناه حكما وعلما وكذلك نجزي المحسنين",
+      "ayahEn": "And when he reached maturity, We gave him wisdom and knowledge. This is how We reward the good-doers.",
+      "meta": {
+        "page": 237,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+      "ayahArV2": "وراودته التي هو في بيتها عن نفسه وغلقت الابواب وقالت هيت لك قال معاذ الله انه ربي احسن مثواي انه لا يفلح الظالمون",
+      "ayahEn": "And the lady, in whose house he lived, tried to seduce him. She locked the doors ˹firmly˺ and said, “Come to me!” He replied, “Allah is my refuge! It is ˹not right to betray˺ my master, who has taken good care of me. Indeed, the wrongdoers never succeed.”",
+      "meta": {
+        "page": 238,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَـٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ",
+      "ayahArV2": "ولقد همت به وهم بها لولا ان راى برهان ربه كذلك لنصرف عنه السوء والفحشاء انه من عبادنا المخلصين",
+      "ayahEn": "She advanced towards him, and he would have done likewise, had he not seen a sign from his Lord. This is how We kept evil and indecency away from him, for he was truly one of Our chosen servants.",
+      "meta": {
+        "page": 238,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+      "ayahArV2": "واستبقا الباب وقدت قميصه من دبر والفيا سيدها لدى الباب قالت ما جزاء من اراد باهلك سوءا الا ان يسجن او عذاب اليم",
+      "ayahEn": "They raced for the door and she tore his shirt from the back, only to find her husband at the door. She cried, “What is the penalty for someone who tried to violate your wife, except imprisonment or a painful punishment?”",
+      "meta": {
+        "page": 238,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَـٰذِبِينَ",
+      "ayahArV2": "قال هي راودتني عن نفسي وشهد شاهد من اهلها ان كان قميصه قد من قبل فصدقت وهو من الكاذبين",
+      "ayahEn": "Joseph responded, “It was she who tried to seduce me.” And a witness from her own family testified: “If his shirt is torn from the front, then she has told the truth and he is a liar.",
+      "meta": {
+        "page": 238,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّـٰدِقِينَ",
+      "ayahArV2": "وان كان قميصه قد من دبر فكذبت وهو من الصادقين",
+      "ayahEn": "But if it is torn from the back, then she has lied and he is truthful.”",
+      "meta": {
+        "page": 238,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
+      "ayahArV2": "فلما راى قميصه قد من دبر قال انه من كيدكن ان كيدكن عظيم",
+      "ayahEn": "So when her husband saw that Joseph’s shirt was torn from the back, he said ˹to her˺, “This must be ˹an example˺ of the cunning of you ˹women˺! Indeed, your cunning is so shrewd!",
+      "meta": {
+        "page": 238,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "يُوسُفُ أَعْرِضْ عَنْ هَـٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ",
+      "ayahArV2": "يوسف اعرض عن هذا واستغفري لذنبك انك كنت من الخاطئين",
+      "ayahEn": "O  Joseph! Forget about this. And you ˹O wife˺! Seek forgiveness for your sin. It certainly has been your fault.”",
+      "meta": {
+        "page": 238,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 95,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "۞ وَقَالَ نِسْوَةٌ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَىٰهَا فِى ضَلَـٰلٍ مُّبِينٍ",
+      "ayahArV2": "وقال نسوة في المدينة امرات العزيز تراود فتاها عن نفسه قد شغفها حبا انا لنراها في ضلال مبين",
+      "ayahEn": "Some women of the city gossiped, “The Chief Minister’s wife is trying to seduce her slave-boy. Love for him has plagued her heart. Indeed, we see that she is clearly mistaken.”",
+      "meta": {
+        "page": 238,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 31,
+      "ayahArV1": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَـٰشَ لِلَّهِ مَا هَـٰذَا بَشَرًا إِنْ هَـٰذَآ إِلَّا مَلَكٌ كَرِيمٌ",
+      "ayahArV2": "فلما سمعت بمكرهن ارسلت اليهن واعتدت لهن متكا واتت كل واحدة منهن سكينا وقالت اخرج عليهن فلما راينه اكبرنه وقطعن ايديهن وقلن حاش لله ما هذا بشرا ان هذا الا ملك كريم",
+      "ayahEn": "When she heard about their gossip, she invited them and set a banquet for them. She gave each one a knife, then said ˹to Joseph˺, “Come out before them.” When they saw him, they were so stunned ˹by his beauty˺ that they cut their hands, and exclaimed, “Good God! This cannot be human; this must be a noble angel!”",
+      "meta": {
+        "page": 239,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 32,
+      "ayahArV1": "قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًا مِّنَ ٱلصَّـٰغِرِينَ",
+      "ayahArV2": "قالت فذلكن الذي لمتنني فيه ولقد راودته عن نفسه فاستعصم ولئن لم يفعل ما امره ليسجنن وليكونا من الصاغرين",
+      "ayahEn": "She said, “This is the one for whose love you criticized me! I did try to seduce him but he ˹firmly˺ refused. And if he does not do what I order him to, he will certainly be imprisoned and ˹fully˺ disgraced.”",
+      "meta": {
+        "page": 239,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 33,
+      "ayahArV1": "قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَـٰهِلِينَ",
+      "ayahArV2": "قال رب السجن احب الي مما يدعونني اليه والا تصرف عني كيدهن اصب اليهن واكن من الجاهلين",
+      "ayahEn": "Joseph prayed, “My Lord! I would rather be in jail than do what they invite me to. And if You do not turn their cunning away from me, I might yield to them and fall into ignorance.”",
+      "meta": {
+        "page": 239,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 34,
+      "ayahArV1": "فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayahArV2": "فاستجاب له ربه فصرف عنه كيدهن انه هو السميع العليم",
+      "ayahEn": "So his Lord responded to him, turning their cunning away from him. Surely He is the All-Hearing, All-Knowing.",
+      "meta": {
+        "page": 239,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 35,
+      "ayahArV1": "ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْـَٔايَـٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ",
+      "ayahArV2": "ثم بدا لهم من بعد ما راوا الايات ليسجننه حتى حين",
+      "ayahEn": "And so it occurred to those in charge, despite seeing all the proofs ˹of his innocence˺, that he should be imprisoned for a while.",
+      "meta": {
+        "page": 239,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 36,
+      "ayahArV1": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا ۖ وَقَالَ ٱلْـَٔاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "ayahArV2": "ودخل معه السجن فتيان قال احدهما اني اراني اعصر خمرا وقال الاخر اني اراني احمل فوق راسي خبزا تاكل الطير منه نبئنا بتاويله انا نراك من المحسنين",
+      "ayahEn": "And two other servants went to jail with Joseph. One of them said, “I dreamt I was pressing wine.” The other said, “I dreamt I was carrying ˹some˺ bread on my head, from which birds were eating.” ˹Then both said,˺ “Tell us their interpretation, for we surely see you as one of the good-doers.”",
+      "meta": {
+        "page": 239,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 37,
+      "ayahArV1": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْـَٔاخِرَةِ هُمْ كَـٰفِرُونَ",
+      "ayahArV2": "قال لا ياتيكما طعام ترزقانه الا نباتكما بتاويله قبل ان ياتيكما ذلكما مما علمني ربي اني تركت ملة قوم لا يؤمنون بالله وهم بالاخرة هم كافرون",
+      "ayahEn": "Joseph replied, “I can even tell you what kind of meal you will be served before you receive it. This ˹knowledge˺ is from what my Lord has taught me. I have shunned the faith of a people who disbelieve in Allah and deny the Hereafter.",
+      "meta": {
+        "page": 239,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 38,
+      "ayahArV1": "وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayahArV2": "واتبعت ملة ابائي ابراهيم واسحاق ويعقوب ما كان لنا ان نشرك بالله من شيء ذلك من فضل الله علينا وعلى الناس ولكن اكثر الناس لا يشكرون",
+      "ayahEn": "I follow the faith of my fathers: Abraham, Isaac, and Jacob. It is not ˹right˺ for us to associate anything with Allah ˹in worship˺. This is part of Allah’s grace upon us and humanity, but most people are not grateful.",
+      "meta": {
+        "page": 240,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 39,
+      "ayahArV1": "يَـٰصَـٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "ayahArV2": "يا صاحبي السجن اارباب متفرقون خير ام الله الواحد القهار",
+      "ayahEn": "O  my fellow-prisoners! Which is far better: many different lords or Allah—the One, the Supreme?",
+      "meta": {
+        "page": 240,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 40,
+      "ayahArV1": "مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءً سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayahArV2": "ما تعبدون من دونه الا اسماء سميتموها انتم واباؤكم ما انزل الله بها من سلطان ان الحكم الا لله امر الا تعبدوا الا اياه ذلك الدين القيم ولكن اكثر الناس لا يعلمون",
+      "ayahEn": "Whatever ˹idols˺ you worship instead of Him are mere names which you and your forefathers have made up—a practice Allah has never authorized. It is only Allah Who decides. He has commanded that you worship none but Him. That is the upright faith, but most people do not know.",
+      "meta": {
+        "page": 240,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 41,
+      "ayahArV1": "يَـٰصَـٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا ۖ وَأَمَّا ٱلْـَٔاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ",
+      "ayahArV2": "يا صاحبي السجن اما احدكما فيسقي ربه خمرا واما الاخر فيصلب فتاكل الطير من راسه قضي الامر الذي فيه تستفتيان",
+      "ayahEn": "“O my fellow-prisoners! ˹The first˺ one of you will serve wine to his master, and the other will be crucified and the birds will eat from his head. The matter about which you inquired has been decided.”",
+      "meta": {
+        "page": 240,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 42,
+      "ayahArV1": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَـٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+      "ayahArV2": "وقال للذي ظن انه ناج منهما اذكرني عند ربك فانساه الشيطان ذكر ربه فلبث في السجن بضع سنين",
+      "ayahEn": "Then he said to the one he knew would survive, “Mention me in the presence of your master.” But Satan made him forget to mention Joseph to his master, so he remained in prison for several years.",
+      "meta": {
+        "page": 240,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 43,
+      "ayahArV1": "وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنۢبُلَـٰتٍ خُضْرٍ وَأُخَرَ يَابِسَـٰتٍ ۖ يَـٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَـٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ",
+      "ayahArV2": "وقال الملك اني ارى سبع بقرات سمان ياكلهن سبع عجاف وسبع سنبلات خضر واخر يابسات يا ايها الملا افتوني في رؤياي ان كنتم للرؤيا تعبرون",
+      "ayahEn": "And ˹one day˺ the King said, “I dreamt of seven fat cows eaten up by seven skinny ones; and seven green ears of grain and ˹seven˺ others dry. O  chiefs! Tell me the meaning of my dream if you can interpret dreams.”",
+      "meta": {
+        "page": 240,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 44,
+      "ayahArV1": "قَالُوٓا۟ أَضْغَـٰثُ أَحْلَـٰمٍ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَـٰمِ بِعَـٰلِمِينَ",
+      "ayahArV2": "قالوا اضغاث احلام وما نحن بتاويل الاحلام بعالمين",
+      "ayahEn": "They replied, “These are confused visions and we do not know the interpretation of such dreams.”",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 45,
+      "ayahArV1": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ",
+      "ayahArV2": "وقال الذي نجا منهما وادكر بعد امة انا انبئكم بتاويله فارسلون",
+      "ayahEn": "˹Finally,˺ the surviving ex-prisoner remembered ˹Joseph˺ after a long time and said, “I will tell you its interpretation, so send me forth ˹to Joseph˺.”",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 46,
+      "ayahArV1": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنۢبُلَـٰتٍ خُضْرٍ وَأُخَرَ يَابِسَـٰتٍ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+      "ayahArV2": "يوسف ايها الصديق افتنا في سبع بقرات سمان ياكلهن سبع عجاف وسبع سنبلات خضر واخر يابسات لعلي ارجع الى الناس لعلهم يعلمون",
+      "ayahEn": "˹He said,˺ “Joseph, O  man of truth! Interpret for us ˹the dream of˺ seven fat cows eaten up by seven skinny ones; and seven green ears of grain and ˹seven˺ others dry, so that I may return to the people and let them know.”",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 47,
+      "ayahArV1": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+      "ayahArV2": "قال تزرعون سبع سنين دابا فما حصدتم فذروه في سنبله الا قليلا مما تاكلون",
+      "ayahEn": "Joseph replied, “You will plant ˹grain˺ for seven consecutive years, leaving in the ear whatever you will harvest, except for the little you will eat.",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 48,
+      "ayahArV1": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِّمَّا تُحْصِنُونَ",
+      "ayahArV2": "ثم ياتي من بعد ذلك سبع شداد ياكلن ما قدمتم لهن الا قليلا مما تحصنون",
+      "ayahEn": "Then after that will come seven years of great hardship which will consume whatever you have saved, except the little you will store ˹for seed˺.",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 49,
+      "ayahArV1": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ",
+      "ayahArV2": "ثم ياتي من بعد ذلك عام فيه يغاث الناس وفيه يعصرون",
+      "ayahEn": "Then after that will come a year in which people will receive abundant rain and they will press ˹oil and wine˺.”",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 50,
+      "ayahArV1": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّـٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ",
+      "ayahArV2": "وقال الملك ائتوني به فلما جاءه الرسول قال ارجع الى ربك فاساله ما بال النسوة اللاتي قطعن ايديهن ان ربي بكيدهن عليم",
+      "ayahEn": "The King ˹then˺ said, “Bring him to me.” When the messenger came to him, Joseph said, “Go back to your master and ask him about the case of the women who cut their hands. Surely my Lord has ˹full˺ knowledge of their cunning.”",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 51,
+      "ayahArV1": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+      "ayahArV2": "قال ما خطبكن اذ راودتن يوسف عن نفسه قلن حاش لله ما علمنا عليه من سوء قالت امرات العزيز الان حصحص الحق انا راودته عن نفسه وانه لمن الصادقين",
+      "ayahEn": "The King asked ˹the women˺, “What did you get when you tried to seduce Joseph?” They replied, “Allah forbid! We know nothing indecent about him.” Then the Chief Minister’s wife admitted, “Now the truth has come to light. It was I who tried to seduce him, and he is surely truthful.",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 52,
+      "ayahArV1": "ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ",
+      "ayahArV2": "ذلك ليعلم اني لم اخنه بالغيب وان الله لا يهدي كيد الخائنين",
+      "ayahEn": "From this, Joseph should know that I did not speak dishonestly about him in his absence, for Allah certainly does not guide the scheming of the dishonest.",
+      "meta": {
+        "page": 241,
+        "juz": 12,
+        "hizb": 24,
+        "hizbQuarter": 96,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 53,
+      "ayahArV1": "۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ",
+      "ayahArV2": "وما ابرئ نفسي ان النفس لامارة بالسوء الا ما رحم ربي ان ربي غفور رحيم",
+      "ayahEn": "And I do not seek to free myself from blame, for indeed the soul is ever inclined to evil, except those shown mercy by my Lord. Surely my Lord is All-Forgiving, Most Merciful.”",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 54,
+      "ayahArV1": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ",
+      "ayahArV2": "وقال الملك ائتوني به استخلصه لنفسي فلما كلمه قال انك اليوم لدينا مكين امين",
+      "ayahEn": "The King said, “Bring him to me. I will employ him exclusively in my service.” And when Joseph spoke to him, the King said, “Today you are highly esteemed and fully trusted by us.”",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 55,
+      "ayahArV1": "قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌ",
+      "ayahArV2": "قال اجعلني على خزائن الارض اني حفيظ عليم",
+      "ayahEn": "Joseph proposed, “Put me in charge of the store-houses of the land, for I am truly reliable and adept.”",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 56,
+      "ayahArV1": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ ۖ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayahArV2": "وكذلك مكنا ليوسف في الارض يتبوا منها حيث يشاء نصيب برحمتنا من نشاء ولا نضيع اجر المحسنين",
+      "ayahEn": "This is how We established Joseph in the land to settle wherever he pleased. We shower Our mercy on whoever We will, and We never discount the reward of the good-doers.",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 57,
+      "ayahArV1": "وَلَأَجْرُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+      "ayahArV2": "ولاجر الاخرة خير للذين امنوا وكانوا يتقون",
+      "ayahEn": "And the reward of the Hereafter is far better for those who are faithful and are mindful ˹of Allah˺.",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 58,
+      "ayahArV1": "وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ",
+      "ayahArV2": "وجاء اخوة يوسف فدخلوا عليه فعرفهم وهم له منكرون",
+      "ayahEn": "And Joseph’s brothers came and entered his presence. He recognized them but they were unaware of who he really was.",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 59,
+      "ayahArV1": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ",
+      "ayahArV2": "ولما جهزهم بجهازهم قال ائتوني باخ لكم من ابيكم الا ترون اني اوفي الكيل وانا خير المنزلين",
+      "ayahEn": "When he had provided them with their supplies, he demanded, “Bring me your brother on your father’s side. Do you not see that I give full measure and I am the best of hosts?",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 60,
+      "ayahArV1": "فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ",
+      "ayahArV2": "فان لم تاتوني به فلا كيل لكم عندي ولا تقربون",
+      "ayahEn": "But if you do not bring him to me ˹next time˺, I will have no grain for you, nor will you ever come close to me again.”",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 61,
+      "ayahArV1": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَـٰعِلُونَ",
+      "ayahArV2": "قالوا سنراود عنه اباه وانا لفاعلون",
+      "ayahEn": "They promised, “We will try to convince his father to let him come. We will certainly do ˹our best˺.”",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 62,
+      "ayahArV1": "وَقَالَ لِفِتْيَـٰنِهِ ٱجْعَلُوا۟ بِضَـٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+      "ayahArV2": "وقال لفتيانه اجعلوا بضاعتهم في رحالهم لعلهم يعرفونها اذا انقلبوا الى اهلهم لعلهم يرجعون",
+      "ayahEn": "Joseph ordered his servants to put his brothers’ money back into their saddlebags so that they would find it when they returned to their family and perhaps they would come back.",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 63,
+      "ayahArV1": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَـٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+      "ayahArV2": "فلما رجعوا الى ابيهم قالوا يا ابانا منع منا الكيل فارسل معنا اخانا نكتل وانا له لحافظون",
+      "ayahEn": "When Joseph’s brothers returned to their father, they pleaded, “O our father! We have been denied ˹further˺ supplies. So send our brother with us so that we may receive our measure, and we will definitely watch over him.”",
+      "meta": {
+        "page": 242,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 64,
+      "ayahArV1": "قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَـٰفِظًا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "ayahArV2": "قال هل امنكم عليه الا كما امنتكم على اخيه من قبل فالله خير حافظا وهو ارحم الراحمين",
+      "ayahEn": "He responded, “Should I trust you with him as I once trusted you with his brother ˹Joseph˺? But ˹only˺ Allah is the best Protector, and He is the Most Merciful of the merciful.”",
+      "meta": {
+        "page": 243,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 65,
+      "ayahArV1": "وَلَمَّا فَتَحُوا۟ مَتَـٰعَهُمْ وَجَدُوا۟ بِضَـٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَـٰٓأَبَانَا مَا نَبْغِى ۖ هَـٰذِهِۦ بِضَـٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ۖ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+      "ayahArV2": "ولما فتحوا متاعهم وجدوا بضاعتهم ردت اليهم قالوا يا ابانا ما نبغي هذه بضاعتنا ردت الينا ونمير اهلنا ونحفظ اخانا ونزداد كيل بعير ذلك كيل يسير",
+      "ayahEn": "When they opened their bags, they discovered that their money had been returned to them. They argued, “O our father! What more can we ask for? Here is our money, fully returned to us. Now we can buy more food for our family. We will watch over our brother, and obtain an extra camel-load of grain. That load can be easily secured.”",
+      "meta": {
+        "page": 243,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 66,
+      "ayahArV1": "قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+      "ayahArV2": "قال لن ارسله معكم حتى تؤتون موثقا من الله لتاتنني به الا ان يحاط بكم فلما اتوه موثقهم قال الله على ما نقول وكيل",
+      "ayahEn": "Jacob insisted, “I will not send him with you until you give me a solemn oath by Allah that you will certainly bring him back to me, unless you are totally overpowered.” Then after they had given him their oaths, he concluded, “Allah is a Witness to what we have said.”",
+      "meta": {
+        "page": 243,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 67,
+      "ayahArV1": "وَقَالَ يَـٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "ayahArV2": "وقال يا بني لا تدخلوا من باب واحد وادخلوا من ابواب متفرقة وما اغني عنكم من الله من شيء ان الحكم الا لله عليه توكلت وعليه فليتوكل المتوكلون",
+      "ayahEn": "He then instructed ˹them˺, “O my sons! Do not enter ˹the city˺ all through one gate, but through separate gates. I cannot help you against ˹what is destined by˺ Allah in the least. It is only Allah Who decides. In Him I put my trust. And in Him let the faithful put their trust.”",
+      "meta": {
+        "page": 243,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 68,
+      "ayahArV1": "وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَـٰهُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayahArV2": "ولما دخلوا من حيث امرهم ابوهم ما كان يغني عنهم من الله من شيء الا حاجة في نفس يعقوب قضاها وانه لذو علم لما علمناه ولكن اكثر الناس لا يعلمون",
+      "ayahEn": "Then when they entered as their father had instructed them, this did not help them against ˹the Will of˺ Allah whatsoever. It was just a desire in Jacob’s heart which he satisfied. He was truly blessed with ˹great˺ knowledge because of what We had taught him, but most people have no knowledge.",
+      "meta": {
+        "page": 243,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 69,
+      "ayahArV1": "وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayahArV2": "ولما دخلوا على يوسف اوى اليه اخاه قال اني انا اخوك فلا تبتئس بما كانوا يعملون",
+      "ayahEn": "When they entered Joseph’s presence, he called his brother ˹Benjamin˺ aside, and confided ˹to him˺, “I am indeed your brother ˹Joseph˺! So do not feel distressed about what they have been doing.”",
+      "meta": {
+        "page": 243,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 70,
+      "ayahArV1": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَـٰرِقُونَ",
+      "ayahArV2": "فلما جهزهم بجهازهم جعل السقاية في رحل اخيه ثم اذن مؤذن ايتها العير انكم لسارقون",
+      "ayahEn": "When Joseph had provided them with supplies, he slipped the royal cup into his brother’s bag. Then a herald cried, “O people of the caravan! You must be thieves!”",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 71,
+      "ayahArV1": "قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ",
+      "ayahArV2": "قالوا واقبلوا عليهم ماذا تفقدون",
+      "ayahEn": "They asked, turning back, “What have you lost?”",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 72,
+      "ayahArV1": "قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ",
+      "ayahArV2": "قالوا نفقد صواع الملك ولمن جاء به حمل بعير وانا به زعيم",
+      "ayahEn": "The herald ˹along with the guards˺ replied, “We have lost the King’s measuring cup. And whoever brings it will be awarded a camel-load ˹of grain˺. I guarantee it.”",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 73,
+      "ayahArV1": "قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَـٰرِقِينَ",
+      "ayahArV2": "قالوا تالله لقد علمتم ما جئنا لنفسد في الارض وما كنا سارقين",
+      "ayahEn": "Joseph’s brothers replied, “By Allah! You know well that we did not come to cause trouble in the land, nor are we thieves.”",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 74,
+      "ayahArV1": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَـٰذِبِينَ",
+      "ayahArV2": "قالوا فما جزاؤه ان كنتم كاذبين",
+      "ayahEn": "Joseph’s men asked, “What should be the price for theft, if you are lying?”",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 75,
+      "ayahArV1": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ",
+      "ayahArV2": "قالوا جزاؤه من وجد في رحله فهو جزاؤه كذلك نجزي الظالمين",
+      "ayahEn": "Joseph’s brothers responded, “The price will be ˹the enslavement of˺ the one in whose bag the cup is found. That is how we punish the wrongdoers.”",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 76,
+      "ayahArV1": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+      "ayahArV2": "فبدا باوعيتهم قبل وعاء اخيه ثم استخرجها من وعاء اخيه كذلك كدنا ليوسف ما كان لياخذ اخاه في دين الملك الا ان يشاء الله نرفع درجات من نشاء وفوق كل ذي علم عليم",
+      "ayahEn": "Joseph began searching their bags before that of his brother ˹Benjamin˺, then brought it out of Benjamin’s bag. This is how We inspired Joseph to plan. He could not have taken his brother under the King’s law, but Allah had so willed. We elevate in rank whoever We will. But above those ranking in knowledge is the One All-Knowing.",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 97,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 77,
+      "ayahArV1": "۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّ مَّكَانًا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "ayahArV2": "قالوا ان يسرق فقد سرق اخ له من قبل فاسرها يوسف في نفسه ولم يبدها لهم قال انتم شر مكانا والله اعلم بما تصفون",
+      "ayahEn": "˹To distance themselves,˺ Joseph’s brothers argued, “If he has stolen, so did his ˹full˺ brother before.” But Joseph suppressed his outrage—revealing nothing to them—and said ˹to himself˺, “You are in such an evil position, and Allah knows best ˹the truth of˺ what you claim.”",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 78,
+      "ayahArV1": "قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "ayahArV2": "قالوا يا ايها العزيز ان له ابا شيخا كبيرا فخذ احدنا مكانه انا نراك من المحسنين",
+      "ayahEn": "They appealed, “O Chief Minister! He has a very old father, so take one of us instead. We surely see you as one of the good-doers.”",
+      "meta": {
+        "page": 244,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 79,
+      "ayahArV1": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَـٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَـٰلِمُونَ",
+      "ayahArV2": "قال معاذ الله ان ناخذ الا من وجدنا متاعنا عنده انا اذا لظالمون",
+      "ayahEn": "Joseph responded, “Allah forbid that we should take other than the one with whom we found our property. Otherwise, we would surely be unjust.”",
+      "meta": {
+        "page": 245,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 80,
+      "ayahArV1": "فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ",
+      "ayahArV2": "فلما استياسوا منه خلصوا نجيا قال كبيرهم الم تعلموا ان اباكم قد اخذ عليكم موثقا من الله ومن قبل ما فرطتم في يوسف فلن ابرح الارض حتى ياذن لي ابي او يحكم الله لي وهو خير الحاكمين",
+      "ayahEn": "When they lost all hope in him, they spoke privately. The eldest of them said, “Do you not know that your father had taken a solemn oath by Allah from you, nor how you failed him regarding Joseph before? So I am not leaving this land until my father allows me to, or Allah decides for me. For He is the Best of Judges.",
+      "meta": {
+        "page": 245,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 81,
+      "ayahArV1": "ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَـٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَـٰفِظِينَ",
+      "ayahArV2": "ارجعوا الى ابيكم فقولوا يا ابانا ان ابنك سرق وما شهدنا الا بما علمنا وما كنا للغيب حافظين",
+      "ayahEn": "Return to your father and say, ‘O our father! Your son committed theft. We testify only to what we know. We could not guard against the unforeseen.",
+      "meta": {
+        "page": 245,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 82,
+      "ayahArV1": "وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَـٰدِقُونَ",
+      "ayahArV2": "واسال القرية التي كنا فيها والعير التي اقبلنا فيها وانا لصادقون",
+      "ayahEn": "Ask ˹the people of˺ the land where we were and the caravan we travelled with. We are certainly telling the truth.’”",
+      "meta": {
+        "page": 245,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 83,
+      "ayahArV1": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayahArV2": "قال بل سولت لكم انفسكم امرا فصبر جميل عسى الله ان ياتيني بهم جميعا انه هو العليم الحكيم",
+      "ayahEn": "He cried, “No! Your souls must have tempted you to do something ˹evil˺. So ˹I am left with nothing but˺ beautiful patience! I trust Allah will return them all to me. Surely He ˹alone˺ is the All-Knowing, All-Wise.”",
+      "meta": {
+        "page": 245,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 84,
+      "ayahArV1": "وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ",
+      "ayahArV2": "وتولى عنهم وقال يا اسفى على يوسف وابيضت عيناه من الحزن فهو كظيم",
+      "ayahEn": "He turned away from them, lamenting, “Alas, poor Joseph!” And his eyes turned white out of the grief he suppressed.",
+      "meta": {
+        "page": 245,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 85,
+      "ayahArV1": "قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ",
+      "ayahArV2": "قالوا تالله تفتا تذكر يوسف حتى تكون حرضا او تكون من الهالكين",
+      "ayahEn": "They said, “By Allah! You will not cease to remember Joseph until you lose your health or ˹even˺ your life.”",
+      "meta": {
+        "page": 245,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 86,
+      "ayahArV1": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayahArV2": "قال انما اشكو بثي وحزني الى الله واعلم من الله ما لا تعلمون",
+      "ayahEn": "He replied, “I complain of my anguish and sorrow only to Allah, and I know from Allah what you do not know.",
+      "meta": {
+        "page": 245,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 87,
+      "ayahArV1": "يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ",
+      "ayahArV2": "يا بني اذهبوا فتحسسوا من يوسف واخيه ولا تياسوا من روح الله انه لا يياس من روح الله الا القوم الكافرون",
+      "ayahEn": "O  my sons! Go and search ˹diligently˺ for Joseph and his brother. And do not lose hope in the mercy of Allah, for no one loses hope in Allah’s mercy except those with no faith.”",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 88,
+      "ayahArV1": "فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَـٰعَةٍ مُّزْجَىٰةٍ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ",
+      "ayahArV2": "فلما دخلوا عليه قالوا يا ايها العزيز مسنا واهلنا الضر وجئنا ببضاعة مزجاة فاوف لنا الكيل وتصدق علينا ان الله يجزي المتصدقين",
+      "ayahEn": "When they entered Joseph’s presence, they pleaded, “O Chief Minister! We and our family have been touched with hardship, and we have brought only a few worthless coins, but ˹please˺ give us our supplies in full and be charitable to us. Indeed, Allah rewards the charitable.”",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 89,
+      "ayahArV1": "قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَـٰهِلُونَ",
+      "ayahArV2": "قال هل علمتم ما فعلتم بيوسف واخيه اذ انتم جاهلون",
+      "ayahEn": "He asked, “Do you remember what you did to Joseph and his brother in your ignorance?”",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 90,
+      "ayahArV1": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَـٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayahArV2": "قالوا اانك لانت يوسف قال انا يوسف وهذا اخي قد من الله علينا انه من يتق ويصبر فان الله لا يضيع اجر المحسنين",
+      "ayahEn": "They replied ˹in shock˺, “Are you really Joseph?” He said, “I am Joseph, and here is my brother ˹Benjamin˺! Allah has truly been gracious to us. Surely whoever is mindful ˹of Allah˺ and patient, then certainly Allah never discounts the reward of the good-doers.”",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 91,
+      "ayahArV1": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+      "ayahArV2": "قالوا تالله لقد اثرك الله علينا وان كنا لخاطئين",
+      "ayahEn": "They admitted, “By Allah! Allah has truly preferred you over us, and we have surely been sinful.”",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 92,
+      "ayahArV1": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "ayahArV2": "قال لا تثريب عليكم اليوم يغفر الله لكم وهو ارحم الراحمين",
+      "ayahEn": "Joseph said, “There is no blame on you today. May Allah forgive you! He is the Most Merciful of the merciful!",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 93,
+      "ayahArV1": "ٱذْهَبُوا۟ بِقَمِيصِى هَـٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ",
+      "ayahArV2": "اذهبوا بقميصي هذا فالقوه على وجه ابي يات بصيرا واتوني باهلكم اجمعين",
+      "ayahEn": "Go with this shirt of mine and cast it over my father’s face, and he will regain his sight. Then come back to me with your whole family.”",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 94,
+      "ayahArV1": "وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ",
+      "ayahArV2": "ولما فصلت العير قال ابوهم اني لاجد ريح يوسف لولا ان تفندون",
+      "ayahEn": "When the caravan departed ˹from Egypt˺, their father said ˹to those around him˺, “You may think I am senile, but I certainly sense the smell of Joseph.”",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 95,
+      "ayahArV1": "قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَـٰلِكَ ٱلْقَدِيمِ",
+      "ayahArV2": "قالوا تالله انك لفي ضلالك القديم",
+      "ayahEn": "They replied, “By Allah! You are definitely still in your old delusion.”",
+      "meta": {
+        "page": 246,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 96,
+      "ayahArV1": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayahArV2": "فلما ان جاء البشير القاه على وجهه فارتد بصيرا قال الم اقل لكم اني اعلم من الله ما لا تعلمون",
+      "ayahEn": "But when the bearer of the good news arrived, he cast the shirt over Jacob’s face, so he regained his sight. Jacob then said ˹to his children˺, “Did I not tell you that I truly know from Allah what you do not know?”",
+      "meta": {
+        "page": 247,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 97,
+      "ayahArV1": "قَالُوا۟ يَـٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَـٰطِـِٔينَ",
+      "ayahArV2": "قالوا يا ابانا استغفر لنا ذنوبنا انا كنا خاطئين",
+      "ayahEn": "They begged, “O our father! Pray for the forgiveness of our sins. We have certainly been sinful.”",
+      "meta": {
+        "page": 247,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 98,
+      "ayahArV1": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "ayahArV2": "قال سوف استغفر لكم ربي انه هو الغفور الرحيم",
+      "ayahEn": "He said, “I will pray to my Lord for your forgiveness. He ˹alone˺ is indeed the All-Forgiving, Most Merciful.”",
+      "meta": {
+        "page": 247,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 99,
+      "ayahArV1": "فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ",
+      "ayahArV2": "فلما دخلوا على يوسف اوى اليه ابويه وقال ادخلوا مصر ان شاء الله امنين",
+      "ayahEn": "When they entered Joseph’s presence, he received his parents ˹graciously˺ and said, “Enter Egypt, Allah willing, in security.”",
+      "meta": {
+        "page": 247,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 100,
+      "ayahArV1": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا ۖ وَقَالَ يَـٰٓأَبَتِ هَـٰذَا تَأْوِيلُ رُءْيَـٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَـٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayahArV2": "ورفع ابويه على العرش وخروا له سجدا وقال يا ابت هذا تاويل رؤياي من قبل قد جعلها ربي حقا وقد احسن بي اذ اخرجني من السجن وجاء بكم من البدو من بعد ان نزغ الشيطان بيني وبين اخوتي ان ربي لطيف لما يشاء انه هو العليم الحكيم",
+      "ayahEn": "Then he raised his parents to the throne, and they all fell down in prostration to Joseph, who then said, “O my dear father! This is the interpretation of my old dream. My Lord has made it come true. He was truly kind to me when He freed me from prison, and brought you all from the desert after Satan had ignited rivalry between me and my siblings. Indeed my Lord is subtle in fulfilling what He wills. Surely He ˹alone˺ is the All-Knowing, All-Wise.”",
+      "meta": {
+        "page": 247,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 98,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 101,
+      "ayahArV1": "۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ",
+      "ayahArV2": "رب قد اتيتني من الملك وعلمتني من تاويل الاحاديث فاطر السماوات والارض انت وليي في الدنيا والاخرة توفني مسلما والحقني بالصالحين",
+      "ayahEn": "“My Lord! You have surely granted me authority and taught me the interpretation of dreams. ˹O˺ Originator of the heavens and the earth! You are my Guardian in this world and the Hereafter. Allow me to die as one who submits and join me with the righteous.”",
+      "meta": {
+        "page": 247,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 102,
+      "ayahArV1": "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+      "ayahArV2": "ذلك من انباء الغيب نوحيه اليك وما كنت لديهم اذ اجمعوا امرهم وهم يمكرون",
+      "ayahEn": "That is from the stories of the unseen which We reveal to you ˹O Prophet˺. You were not present when they ˹all˺ made up their minds, and when they plotted ˹against Joseph˺.",
+      "meta": {
+        "page": 247,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 103,
+      "ayahArV1": "وَمَآ أَكْثَرُ ٱلنَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ",
+      "ayahArV2": "وما اكثر الناس ولو حرصت بمؤمنين",
+      "ayahEn": "And most people will not believe—no matter how keen you are—",
+      "meta": {
+        "page": 247,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 104,
+      "ayahArV1": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "ayahArV2": "وما تسالهم عليه من اجر ان هو الا ذكر للعالمين",
+      "ayahEn": "even though you are not asking them for a reward for this ˹Quran˺. It is only a reminder to the whole world.",
+      "meta": {
+        "page": 248,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 105,
+      "ayahArV1": "وَكَأَيِّن مِّنْ ءَايَةٍ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+      "ayahArV2": "وكاين من اية في السماوات والارض يمرون عليها وهم عنها معرضون",
+      "ayahEn": "How many signs in the heavens and the earth do they pass by with indifference!",
+      "meta": {
+        "page": 248,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 106,
+      "ayahArV1": "وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ",
+      "ayahArV2": "وما يؤمن اكثرهم بالله الا وهم مشركون",
+      "ayahEn": "And most of them do not believe in Allah without associating others with Him ˹in worship˺.",
+      "meta": {
+        "page": 248,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 107,
+      "ayahArV1": "أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَـٰشِيَةٌ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "ayahArV2": "افامنوا ان تاتيهم غاشية من عذاب الله او تاتيهم الساعة بغتة وهم لا يشعرون",
+      "ayahEn": "Do they feel secure that an overwhelming torment from Allah will not overtake them, or that the Hour will not take them by surprise when they least expect ˹it˺?",
+      "meta": {
+        "page": 248,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 108,
+      "ayahArV1": "قُلْ هَـٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَـٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+      "ayahArV2": "قل هذه سبيلي ادعو الى الله على بصيرة انا ومن اتبعني وسبحان الله وما انا من المشركين",
+      "ayahEn": "Say, ˹O Prophet,˺ “This is my way. I invite to Allah with insight—I and those who follow me. Glory be to Allah, and I am not one of the polytheists.”",
+      "meta": {
+        "page": 248,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 109,
+      "ayahArV1": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ ۗ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ٱتَّقَوْا۟ ۗ أَفَلَا تَعْقِلُونَ",
+      "ayahArV2": "وما ارسلنا من قبلك الا رجالا نوحي اليهم من اهل القرى افلم يسيروا في الارض فينظروا كيف كان عاقبة الذين من قبلهم ولدار الاخرة خير للذين اتقوا افلا تعقلون",
+      "ayahEn": "We only sent before you ˹O Prophet˺ men inspired by Us from among the people of each society. Have the deniers not travelled through the land to see what was the end of those ˹destroyed˺ before them? And surely the ˹eternal˺ Home of the Hereafter is far better for those mindful ˹of Allah˺. Will you not then understand?",
+      "meta": {
+        "page": 248,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 110,
+      "ayahArV1": "حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+      "ayahArV2": "حتى اذا استياس الرسل وظنوا انهم قد كذبوا جاءهم نصرنا فنجي من نشاء ولا يرد باسنا عن القوم المجرمين",
+      "ayahEn": "And when the messengers despaired and their people thought the messengers had been denied help, Our help came to them ˹at last˺. We then saved whoever We willed, and Our punishment is never averted from the wicked people.",
+      "meta": {
+        "page": 248,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 111,
+      "ayahArV1": "لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayahArV2": "لقد كان في قصصهم عبرة لاولي الالباب ما كان حديثا يفترى ولكن تصديق الذي بين يديه وتفصيل كل شيء وهدى ورحمة لقوم يؤمنون",
+      "ayahEn": "In their stories there is truly a lesson for people of reason. This message cannot be a fabrication, rather ˹it is˺ a confirmation of previous revelation, a detailed explanation of all things, a guide, and a mercy for people of faith.",
+      "meta": {
+        "page": 248,
+        "juz": 13,
+        "hizb": 25,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    }
+  ]
+}

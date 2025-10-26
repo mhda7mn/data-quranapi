@@ -1,0 +1,820 @@
+{
+  "surahNo": 53,
+  "surahNameAr": "النجم",
+  "surahNameArabicLong": "سورة النجم",
+  "surahNameEn": "An-Najm",
+  "revelationPlace": "Mecca",
+  "totalAyat": 62,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+      "ayahArV2": "والنجم اذا هوى",
+      "ayahEn": "By the stars when they fade away!",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "ayahArV2": "ما ضل صاحبكم وما غوى",
+      "ayahEn": "Your fellow man is neither misguided nor astray.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+      "ayahArV2": "وما ينطق عن الهوى",
+      "ayahEn": "Nor does he speak of his own whims.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+      "ayahArV2": "ان هو الا وحي يوحى",
+      "ayahEn": "It is only a revelation sent down ˹to him˺.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+      "ayahArV2": "علمه شديد القوى",
+      "ayahEn": "He has been taught by one ˹angel˺ of mighty power",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "ayahArV2": "ذو مرة فاستوى",
+      "ayahEn": "and great perfection, who once rose to ˹his˺ true form",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+      "ayahArV2": "وهو بالافق الاعلى",
+      "ayahEn": "while on the highest point above the horizon",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "ayahArV2": "ثم دنا فتدلى",
+      "ayahEn": "then he approached ˹the Prophet˺, coming so close",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+      "ayahArV2": "فكان قاب قوسين او ادنى",
+      "ayahEn": "that he was only two arms-lengths away or even less.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+      "ayahArV2": "فاوحى الى عبده ما اوحى",
+      "ayahEn": "Then Allah revealed to His servant what He revealed ˹through Gabriel˺.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+      "ayahArV2": "ما كذب الفؤاد ما راى",
+      "ayahEn": "The ˹Prophet’s˺ heart did not doubt what he saw.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "ayahArV2": "افتمارونه على ما يرى",
+      "ayahEn": "How can you ˹O pagans˺ then dispute with him regarding what he saw?",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+      "ayahArV2": "ولقد راه نزلة اخرى",
+      "ayahEn": "And he certainly saw that ˹angel descend˺ a second time",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+      "ayahArV2": "عند سدرة المنتهى",
+      "ayahEn": "at the Lote Tree of the most extreme limit ˹in the seventh heaven˺—",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+      "ayahArV2": "عندها جنة الماوى",
+      "ayahEn": "near which is the Garden of ˹Eternal˺ Residence—",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ",
+      "ayahArV2": "اذ يغشى السدرة ما يغشى",
+      "ayahEn": "while the Lote Tree was overwhelmed with ˹heavenly˺ splendours!",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+      "ayahArV2": "ما زاغ البصر وما طغى",
+      "ayahEn": "The ˹Prophet’s˺ sight never wandered, nor did it overreach.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+      "ayahArV2": "لقد راى من ايات ربه الكبرى",
+      "ayahEn": "He certainly saw some of his Lord’s greatest signs.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+      "ayahArV2": "افرايتم اللات والعزى",
+      "ayahEn": "Now, have you considered ˹the idols of˺ Lât and ’Uzza",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+      "ayahArV2": "ومناة الثالثة الاخرى",
+      "ayahEn": "and the third one, Manât, as well?",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+      "ayahArV2": "الكم الذكر وله الانثى",
+      "ayahEn": "Do you ˹prefer to˺ have sons while ˹you attribute˺ to Him daughters?",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ",
+      "ayahArV2": "تلك اذا قسمة ضيزى",
+      "ayahEn": "Then this is ˹truly˺ a biased distribution!",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+      "ayahArV2": "ان هي الا اسماء سميتموها انتم واباؤكم ما انزل الله بها من سلطان ان يتبعون الا الظن وما تهوى الانفس ولقد جاءهم من ربهم الهدى",
+      "ayahEn": "These ˹idols˺ are mere names that you and your forefathers have made up—a practice Allah has never authorized. They follow nothing but ˹inherited˺ assumptions and whatever ˹their˺ souls desire, although ˹true˺ guidance has already come to them from their Lord.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+      "ayahArV2": "ام للانسان ما تمنى",
+      "ayahEn": "Or should every person ˹simply˺ have whatever ˹intercessors˺ they desire?",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+      "ayahArV2": "فلله الاخرة والاولى",
+      "ayahEn": "In fact, to Allah ˹alone˺ belongs this world and the next.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 210,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+      "ayahArV2": "وكم من ملك في السماوات لا تغني شفاعتهم شيئا الا من بعد ان ياذن الله لمن يشاء ويرضى",
+      "ayahEn": "˹Imagine˺ how many ˹noble˺ angels are in the heavens! ˹Even˺ their intercession would be of no benefit whatsoever, until Allah gives permission to whoever He wills and ˹only for the people He˺ approves.",
+      "meta": {
+        "page": 526,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ",
+      "ayahArV2": "ان الذين لا يؤمنون بالاخرة ليسمون الملائكة تسمية الانثى",
+      "ayahEn": "Indeed, those who do not believe in the Hereafter label angels as female",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+      "ayahArV2": "وما لهم به من علم ان يتبعون الا الظن وان الظن لا يغني من الحق شيئا",
+      "ayahEn": "although they have no knowledge ˹in support˺ of this. They follow nothing but ˹inherited˺ assumptions. And surely assumptions can in no way replace the truth.",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "ayahArV2": "فاعرض عن من تولى عن ذكرنا ولم يرد الا الحياة الدنيا",
+      "ayahEn": "So turn away ˹O Prophet˺ from whoever has shunned Our Reminder, only seeking the ˹fleeting˺ life of this world.",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ",
+      "ayahArV2": "ذلك مبلغهم من العلم ان ربك هو اعلم بمن ضل عن سبيله وهو اعلم بمن اهتدى",
+      "ayahEn": "This is the extent of their knowledge. Surely your Lord knows best who has strayed from His Way and who is ˹rightly˺ guided.",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 31,
+      "ayahArV1": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+      "ayahArV2": "ولله ما في السماوات وما في الارض ليجزي الذين اساءوا بما عملوا ويجزي الذين احسنوا بالحسنى",
+      "ayahEn": "To Allah ˹alone˺ belongs whatever is in the heavens and whatever is on the earth so that He may reward the evildoers according to what they did, and reward the good-doers with the finest reward—",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 32,
+      "ayahArV1": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "ayahArV2": "الذين يجتنبون كبائر الاثم والفواحش الا اللمم ان ربك واسع المغفرة هو اعلم بكم اذ انشاكم من الارض واذ انتم اجنة في بطون امهاتكم فلا تزكوا انفسكم هو اعلم بمن اتقى",
+      "ayahEn": "those who avoid major sins and shameful deeds, despite ˹stumbling on˺ minor sins. Surely your Lord is infinite in forgiveness. He knew well what would become of you as He created you from the earth and while you were ˹still˺ fetuses in the wombs of your mothers. So do not ˹falsely˺ elevate yourselves. He knows best who is ˹truly˺ righteous.",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 33,
+      "ayahArV1": "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ",
+      "ayahArV2": "افرايت الذي تولى",
+      "ayahEn": "Have you seen the one who turned away ˹from Islam,˺",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 34,
+      "ayahArV1": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+      "ayahArV2": "واعطى قليلا واكدى",
+      "ayahEn": "and ˹initially˺ paid a little ˹for his salvation˺, and then stopped?",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 35,
+      "ayahArV1": "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ",
+      "ayahArV2": "اعنده علم الغيب فهو يرى",
+      "ayahEn": "Does he have the knowledge of the unseen so that he sees ˹the Hereafter˺?",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 36,
+      "ayahArV1": "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ",
+      "ayahArV2": "ام لم ينبا بما في صحف موسى",
+      "ayahEn": "Or has he not been informed of what is in the Scripture of Moses",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 37,
+      "ayahArV1": "وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ",
+      "ayahArV2": "وابراهيم الذي وفى",
+      "ayahEn": "and ˹that of˺ Abraham, who ˹perfectly˺ fulfilled ˹his covenant˺?",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 38,
+      "ayahArV1": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+      "ayahArV2": "الا تزر وازرة وزر اخرى",
+      "ayahEn": "˹They state˺ that no soul burdened with sin will bear the burden of another",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 39,
+      "ayahArV1": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ",
+      "ayahArV2": "وان ليس للانسان الا ما سعى",
+      "ayahEn": "and that each person will only have what they endeavoured towards",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 40,
+      "ayahArV1": "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ",
+      "ayahArV2": "وان سعيه سوف يرى",
+      "ayahEn": "and that ˹the outcome of˺ their endeavours will be seen ˹in their record˺",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 41,
+      "ayahArV1": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "ayahArV2": "ثم يجزاه الجزاء الاوفى",
+      "ayahEn": "then they will be fully rewarded",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 42,
+      "ayahArV1": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ",
+      "ayahArV2": "وان الى ربك المنتهى",
+      "ayahEn": "and that to your Lord ˹alone˺ is the ultimate return ˹of all things˺.",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 43,
+      "ayahArV1": "وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+      "ayahArV2": "وانه هو اضحك وابكى",
+      "ayahEn": "Moreover, He is the One Who brings about joy and sadness.",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 44,
+      "ayahArV1": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا",
+      "ayahArV2": "وانه هو امات واحيا",
+      "ayahEn": "And He is the One Who gives life and causes death.",
+      "meta": {
+        "page": 527,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 45,
+      "ayahArV1": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+      "ayahArV2": "وانه خلق الزوجين الذكر والانثى",
+      "ayahEn": "And He created the pairs—males and females—",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 46,
+      "ayahArV1": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
+      "ayahArV2": "من نطفة اذا تمنى",
+      "ayahEn": "from a sperm-drop when it is emitted.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 47,
+      "ayahArV1": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+      "ayahArV2": "وان عليه النشاة الاخرى",
+      "ayahEn": "And it is upon Him to bring about re-creation.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 48,
+      "ayahArV1": "وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+      "ayahArV2": "وانه هو اغنى واقنى",
+      "ayahEn": "And He is the One Who enriches and impoverishes.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 49,
+      "ayahArV1": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+      "ayahArV2": "وانه هو رب الشعرى",
+      "ayahEn": "And He alone is the Lord of Sirius.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 50,
+      "ayahArV1": "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ",
+      "ayahArV2": "وانه اهلك عادا الاولى",
+      "ayahEn": "And He destroyed the first ˹people of˺ ’Ȃd",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 51,
+      "ayahArV1": "وَثَمُودَا۟ فَمَآ أَبْقَىٰ",
+      "ayahArV2": "وثمود فما ابقى",
+      "ayahEn": "and ˹then˺ Thamûd, sparing no one.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 52,
+      "ayahArV1": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ",
+      "ayahArV2": "وقوم نوح من قبل انهم كانوا هم اظلم واطغى",
+      "ayahEn": "And before ˹that He destroyed˺ the people of Noah, who were truly far worse in wrongdoing and transgression.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 53,
+      "ayahArV1": "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ",
+      "ayahArV2": "والمؤتفكة اهوى",
+      "ayahEn": "And ˹it was˺ He ˹Who˺ turned the cities ˹of Sodom and Gomorrah˺ upside down.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 54,
+      "ayahArV1": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "ayahArV2": "فغشاها ما غشى",
+      "ayahEn": "How overwhelming was what covered ˹them˺!",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 55,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "ayahArV2": "فباي الاء ربك تتمارى",
+      "ayahEn": "Now, which of your Lord’s favours will you dispute?",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 56,
+      "ayahArV1": "هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "ayahArV2": "هذا نذير من النذر الاولى",
+      "ayahEn": "This ˹Prophet˺ is a warner like earlier ones.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 57,
+      "ayahArV1": "أَزِفَتِ ٱلْـَٔازِفَةُ",
+      "ayahArV2": "ازفت الازفة",
+      "ayahEn": "The approaching ˹Hour˺ has drawn near.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 58,
+      "ayahArV1": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "ayahArV2": "ليس لها من دون الله كاشفة",
+      "ayahEn": "None but Allah can disclose it.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 59,
+      "ayahArV1": "أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+      "ayahArV2": "افمن هذا الحديث تعجبون",
+      "ayahEn": "Do you find this revelation astonishing",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 60,
+      "ayahArV1": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+      "ayahArV2": "وتضحكون ولا تبكون",
+      "ayahEn": "laughing ˹at it˺ and not weeping ˹in awe˺",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 61,
+      "ayahArV1": "وَأَنتُمْ سَـٰمِدُونَ",
+      "ayahArV2": "وانتم سامدون",
+      "ayahEn": "while persisting in heedlessness?",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 62,
+      "ayahArV1": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+      "ayahArV2": "فاسجدوا لله واعبدوا",
+      "ayahEn": "Instead, prostrate to Allah and worship ˹Him alone˺!",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": {
+          "id": 13,
+          "recommended": false,
+          "obligatory": true
+        }
+      }
+    }
+  ]
+}

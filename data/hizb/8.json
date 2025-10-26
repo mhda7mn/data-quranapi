@@ -1,0 +1,744 @@
+[
+  {
+    "surahNo": 3,
+    "ayahNo": 171,
+    "ayahArV1": "۞ يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ",
+    "ayahArV2": "يستبشرون بنعمة من الله وفضل وان الله لا يضيع اجر المؤمنين",
+    "ayahEn": "They are joyful for receiving Allah’s grace and bounty, and that Allah does not deny the reward of the believers.",
+    "meta": {
+      "page": 72,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 172,
+    "ayahArV1": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+    "ayahArV2": "الذين استجابوا لله والرسول من بعد ما اصابهم القرح للذين احسنوا منهم واتقوا اجر عظيم",
+    "ayahEn": "˹As for˺ those who responded to the call of Allah and His Messenger after their injury, those of them who did good and were mindful ˹of Allah˺ will have a great reward.",
+    "meta": {
+      "page": 72,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 173,
+    "ayahArV1": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+    "ayahArV2": "الذين قال لهم الناس ان الناس قد جمعوا لكم فاخشوهم فزادهم ايمانا وقالوا حسبنا الله ونعم الوكيل",
+    "ayahEn": "Those who were warned, “Your enemies have mobilized their forces against you, so fear them,” the warning only made them grow stronger in faith and they replied, “Allah ˹alone˺ is sufficient ˹as an aid˺ for us and ˹He˺ is the best Protector.”",
+    "meta": {
+      "page": 72,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 174,
+    "ayahArV1": "فَٱنقَلَبُوا۟ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ ۗ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+    "ayahArV2": "فانقلبوا بنعمة من الله وفضل لم يمسسهم سوء واتبعوا رضوان الله والله ذو فضل عظيم",
+    "ayahEn": "So they returned with Allah’s favours and grace, suffering no harm. For they sought to please Allah. And surely Allah is ˹the˺ Lord of infinite bounty.",
+    "meta": {
+      "page": 73,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 175,
+    "ayahArV1": "إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَـٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ",
+    "ayahArV2": "انما ذلكم الشيطان يخوف اولياءه فلا تخافوهم وخافون ان كنتم مؤمنين",
+    "ayahEn": "That ˹warning˺ was only ˹from˺ Satan, trying to prompt you to fear his followers. So do not fear them; fear Me if you are ˹true˺ believers.",
+    "meta": {
+      "page": 73,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 176,
+    "ayahArV1": "وَلَا يَحْزُنكَ ٱلَّذِينَ يُسَـٰرِعُونَ فِى ٱلْكُفْرِ ۚ إِنَّهُمْ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا ۗ يُرِيدُ ٱللَّهُ أَلَّا يَجْعَلَ لَهُمْ حَظًّا فِى ٱلْـَٔاخِرَةِ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+    "ayahArV2": "ولا يحزنك الذين يسارعون في الكفر انهم لن يضروا الله شيئا يريد الله الا يجعل لهم حظا في الاخرة ولهم عذاب عظيم",
+    "ayahEn": "˹O Prophet!˺ Do not grieve for those who race to disbelieve—surely they will not harm Allah in the least. It is Allah’s Will to disallow them a share in the Hereafter, and they will suffer a tremendous punishment.",
+    "meta": {
+      "page": 73,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 177,
+    "ayahArV1": "إِنَّ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْكُفْرَ بِٱلْإِيمَـٰنِ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "ayahArV2": "ان الذين اشتروا الكفر بالايمان لن يضروا الله شيئا ولهم عذاب اليم",
+    "ayahEn": "Those who trade belief for disbelief will never harm Allah in the least, and they will suffer a painful punishment.",
+    "meta": {
+      "page": 73,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 178,
+    "ayahArV1": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا نُمْلِى لَهُمْ خَيْرٌ لِّأَنفُسِهِمْ ۚ إِنَّمَا نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًا ۚ وَلَهُمْ عَذَابٌ مُّهِينٌ",
+    "ayahArV2": "ولا يحسبن الذين كفروا انما نملي لهم خير لانفسهم انما نملي لهم ليزدادوا اثما ولهم عذاب مهين",
+    "ayahEn": "Those who disbelieve should not think that living longer is good for them. They are only given more time to increase in sin, and they will suffer a humiliating punishment.",
+    "meta": {
+      "page": 73,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 179,
+    "ayahArV1": "مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ ۗ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَـٰكِنَّ ٱللَّهَ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ",
+    "ayahArV2": "ما كان الله ليذر المؤمنين على ما انتم عليه حتى يميز الخبيث من الطيب وما كان الله ليطلعكم على الغيب ولكن الله يجتبي من رسله من يشاء فامنوا بالله ورسله وان تؤمنوا وتتقوا فلكم اجر عظيم",
+    "ayahEn": "Allah would not leave the believers in the condition you were in, until He distinguished the good from the evil ˹among you˺. Nor would Allah ˹directly˺ reveal to you the unseen, but He chooses whoever He wills as a messenger. So believe in Allah and His messengers. And if you are faithful and mindful ˹of Allah˺, you will receive a great reward.",
+    "meta": {
+      "page": 73,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 180,
+    "ayahArV1": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم ۖ بَلْ هُوَ شَرٌّ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+    "ayahArV2": "ولا يحسبن الذين يبخلون بما اتاهم الله من فضله هو خيرا لهم بل هو شر لهم سيطوقون ما بخلوا به يوم القيامة ولله ميراث السماوات والارض والله بما تعملون خبير",
+    "ayahEn": "And do not let those who ˹greedily˺ withhold Allah’s bounties think it is good for them—in fact, it is bad for them! They will be leashed ˹by their necks˺ on the Day of Judgment with whatever ˹wealth˺ they used to withhold. And Allah is the ˹sole˺ inheritor of the heavens and the earth. And Allah is All-Aware of what you do.",
+    "meta": {
+      "page": 73,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 181,
+    "ayahArV1": "لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+    "ayahArV2": "لقد سمع الله قول الذين قالوا ان الله فقير ونحن اغنياء سنكتب ما قالوا وقتلهم الانبياء بغير حق ونقول ذوقوا عذاب الحريق",
+    "ayahEn": "Indeed, Allah has heard those ˹among the Jews˺ who said, “Allah is poor; we are rich!” We have certainly recorded their slurs and their killing of prophets unjustly. Then We will say, “Taste the torment of burning!",
+    "meta": {
+      "page": 74,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 182,
+    "ayahArV1": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ",
+    "ayahArV2": "ذلك بما قدمت ايديكم وان الله ليس بظلام للعبيد",
+    "ayahEn": "This is ˹the reward˺ for what your hands have done. And Allah is never unjust to ˹His˺ creation.”",
+    "meta": {
+      "page": 74,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 183,
+    "ayahArV1": "ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَـٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+    "ayahArV2": "الذين قالوا ان الله عهد الينا الا نؤمن لرسول حتى ياتينا بقربان تاكله النار قل قد جاءكم رسل من قبلي بالبينات وبالذي قلتم فلم قتلتموهم ان كنتم صادقين",
+    "ayahEn": "Those ˹are the same people˺ who say, “Allah has commanded us not to believe in any messenger unless he brings us an offering to be consumed by fire ˹from the sky˺.” Say, ˹O Prophet,˺ “Other prophets did in fact come to you before me with clear proofs and ˹even˺ what you demanded—why then did you kill them, if what you say is true?”",
+    "meta": {
+      "page": 74,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 184,
+    "ayahArV1": "فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ وَٱلْكِتَـٰبِ ٱلْمُنِيرِ",
+    "ayahArV2": "فان كذبوك فقد كذب رسل من قبلك جاءوا بالبينات والزبر والكتاب المنير",
+    "ayahEn": "If you are rejected by them, so too were messengers before you who came with clear proofs, divine Books, and enlightening Scriptures.",
+    "meta": {
+      "page": 74,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 185,
+    "ayahArV1": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ",
+    "ayahArV2": "كل نفس ذائقة الموت وانما توفون اجوركم يوم القيامة فمن زحزح عن النار وادخل الجنة فقد فاز وما الحياة الدنيا الا متاع الغرور",
+    "ayahEn": "Every soul will taste death. And you will only receive your full reward on the Day of Judgment. Whoever is spared from the Fire and is admitted into Paradise will ˹indeed˺ triumph, whereas the life of this world is no more than the delusion of enjoyment.",
+    "meta": {
+      "page": 74,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 29,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 186,
+    "ayahArV1": "۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+    "ayahArV2": "لتبلون في اموالكم وانفسكم ولتسمعن من الذين اوتوا الكتاب من قبلكم ومن الذين اشركوا اذى كثيرا وان تصبروا وتتقوا فان ذلك من عزم الامور",
+    "ayahEn": "You ˹believers˺ will surely be tested in your wealth and yourselves, and you will certainly hear many hurtful words from those who were given the Scripture before you and ˹from˺ the polytheists. But if you are patient and mindful ˹of Allah˺—surely this is a resolve to aspire to.",
+    "meta": {
+      "page": 74,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 187,
+    "ayahArV1": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ",
+    "ayahArV2": "واذ اخذ الله ميثاق الذين اوتوا الكتاب لتبيننه للناس ولا تكتمونه فنبذوه وراء ظهورهم واشتروا به ثمنا قليلا فبئس ما يشترون",
+    "ayahEn": "˹Remember, O  Prophet,˺ when Allah took the covenant of those who were given the Scripture to make it known to people and not hide it, yet they cast it behind their backs and traded it for a fleeting gain. What a miserable profit!",
+    "meta": {
+      "page": 75,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 188,
+    "ayahArV1": "لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "ayahArV2": "لا تحسبن الذين يفرحون بما اتوا ويحبون ان يحمدوا بما لم يفعلوا فلا تحسبنهم بمفازة من العذاب ولهم عذاب اليم",
+    "ayahEn": "Do not let those who rejoice in their misdeeds and love to take credit for what they have not done think they will escape torment. They will suffer a painful punishment.",
+    "meta": {
+      "page": 75,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 189,
+    "ayahArV1": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "ayahArV2": "ولله ملك السماوات والارض والله على كل شيء قدير",
+    "ayahEn": "To Allah ˹alone˺ belongs the kingdom of the heavens and the earth. And Allah is Most Capable of everything.",
+    "meta": {
+      "page": 75,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 190,
+    "ayahArV1": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ",
+    "ayahArV2": "ان في خلق السماوات والارض واختلاف الليل والنهار لايات لاولي الالباب",
+    "ayahEn": "Indeed, in the creation of the heavens and the earth and the alternation of the day and night there are signs for people of reason.",
+    "meta": {
+      "page": 75,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 191,
+    "ayahArV1": "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+    "ayahArV2": "الذين يذكرون الله قياما وقعودا وعلى جنوبهم ويتفكرون في خلق السماوات والارض ربنا ما خلقت هذا باطلا سبحانك فقنا عذاب النار",
+    "ayahEn": "˹They are˺ those who remember Allah while standing, sitting, and lying on their sides, and reflect on the creation of the heavens and the earth ˹and pray˺, “Our Lord! You have not created ˹all of˺ this without purpose. Glory be to You! Protect us from the torment of the Fire.",
+    "meta": {
+      "page": 75,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 192,
+    "ayahArV1": "رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ",
+    "ayahArV2": "ربنا انك من تدخل النار فقد اخزيته وما للظالمين من انصار",
+    "ayahEn": "Our Lord! Indeed, those You commit to the Fire will be ˹completely˺ disgraced! And the wrongdoers will have no helpers.",
+    "meta": {
+      "page": 75,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 193,
+    "ayahArV1": "رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ",
+    "ayahArV2": "ربنا اننا سمعنا مناديا ينادي للايمان ان امنوا بربكم فامنا ربنا فاغفر لنا ذنوبنا وكفر عنا سيئاتنا وتوفنا مع الابرار",
+    "ayahEn": "Our Lord! We have heard the caller to ˹true˺ belief, ˹proclaiming,˺ ‘Believe in your Lord ˹alone˺,’ so we believed. Our Lord! Forgive our sins, absolve us of our misdeeds, and allow us ˹each˺ to die as one of the virtuous.",
+    "meta": {
+      "page": 75,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 194,
+    "ayahArV1": "رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ",
+    "ayahArV2": "ربنا واتنا ما وعدتنا على رسلك ولا تخزنا يوم القيامة انك لا تخلف الميعاد",
+    "ayahEn": "Our Lord! Grant us what You have promised us through Your messengers and do not put us to shame on Judgment Day—for certainly You never fail in Your promise.”",
+    "meta": {
+      "page": 75,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 195,
+    "ayahArV1": "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ",
+    "ayahArV2": "فاستجاب لهم ربهم اني لا اضيع عمل عامل منكم من ذكر او انثى بعضكم من بعض فالذين هاجروا واخرجوا من ديارهم واوذوا في سبيلي وقاتلوا وقتلوا لاكفرن عنهم سيئاتهم ولادخلنهم جنات تجري من تحتها الانهار ثوابا من عند الله والله عنده حسن الثواب",
+    "ayahEn": "So their Lord responded to them: “I will never deny any of you—male or female—the reward of your deeds. Both are equal in reward. Those who migrated or were expelled from their homes, and were persecuted for My sake and fought and ˹some˺ were martyred—I will certainly forgive their sins and admit them into Gardens under which rivers flow, as a reward from Allah. And with Allah is the finest reward!”",
+    "meta": {
+      "page": 76,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 196,
+    "ayahArV1": "لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَـٰدِ",
+    "ayahArV2": "لا يغرنك تقلب الذين كفروا في البلاد",
+    "ayahEn": "Do not be deceived by the prosperity of the disbelievers throughout the land.",
+    "meta": {
+      "page": 76,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 197,
+    "ayahArV1": "مَتَـٰعٌ قَلِيلٌ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ",
+    "ayahArV2": "متاع قليل ثم ماواهم جهنم وبئس المهاد",
+    "ayahEn": "It is only a brief enjoyment. Then Hell will be their home—what an evil place to rest!",
+    "meta": {
+      "page": 76,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 198,
+    "ayahArV1": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ",
+    "ayahArV2": "لكن الذين اتقوا ربهم لهم جنات تجري من تحتها الانهار خالدين فيها نزلا من عند الله وما عند الله خير للابرار",
+    "ayahEn": "But those who are mindful of their Lord will be in Gardens under which rivers flow, to stay there forever—as an accommodation from Allah. And what is with Allah is best for the virtuous.",
+    "meta": {
+      "page": 76,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 199,
+    "ayahArV1": "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+    "ayahArV2": "وان من اهل الكتاب لمن يؤمن بالله وما انزل اليكم وما انزل اليهم خاشعين لله لا يشترون بايات الله ثمنا قليلا اولئك لهم اجرهم عند ربهم ان الله سريع الحساب",
+    "ayahEn": "Indeed, there are some among the People of the Book who truly believe in Allah and what has been revealed to you ˹believers˺ and what was revealed to them. They humble themselves before Allah—never trading Allah’s revelations for a fleeting gain. Their reward is with their Lord. Surely Allah is swift in reckoning.",
+    "meta": {
+      "page": 76,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 3,
+    "ayahNo": 200,
+    "ayahArV1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+    "ayahArV2": "يا ايها الذين امنوا اصبروا وصابروا ورابطوا واتقوا الله لعلكم تفلحون",
+    "ayahEn": "O believers! Patiently endure, persevere, stand on guard, and be mindful of Allah, so you may be successful.",
+    "meta": {
+      "page": 76,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 30,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 1,
+    "ayahArV1": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+    "ayahArV2": "يا ايها الناس اتقوا ربكم الذي خلقكم من نفس واحدة وخلق منها زوجها وبث منهما رجالا كثيرا ونساء واتقوا الله الذي تساءلون به والارحام ان الله كان عليكم رقيبا",
+    "ayahEn": "O humanity! Be mindful of your Lord Who created you from a single soul, and from it He created its mate, and through both He spread countless men and women. And be mindful of Allah—in Whose Name you appeal to one another—and ˹honour˺ family ties. Surely Allah is ever Watchful over you.",
+    "meta": {
+      "page": 77,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 2,
+    "ayahArV1": "وَءَاتُوا۟ ٱلْيَتَـٰمَىٰٓ أَمْوَٰلَهُمْ ۖ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ ۖ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ ۚ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا",
+    "ayahArV2": "واتوا اليتامى اموالهم ولا تتبدلوا الخبيث بالطيب ولا تاكلوا اموالهم الى اموالكم انه كان حوبا كبيرا",
+    "ayahEn": "Give orphans their wealth ˹when they reach maturity˺, and do not exchange your worthless possessions for their valuables, nor cheat them by mixing their wealth with your own. For this would indeed be a great sin.",
+    "meta": {
+      "page": 77,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 3,
+    "ayahArV1": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَـٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+    "ayahArV2": "وان خفتم الا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع فان خفتم الا تعدلوا فواحدة او ما ملكت ايمانكم ذلك ادنى الا تعولوا",
+    "ayahEn": "If you fear you might fail to give orphan women their ˹due˺ rights ˹if you were to marry them˺, then marry other women of your choice—two, three, or four. But if you are afraid you will fail to maintain justice, then ˹content yourselves with˺ one or those ˹bondwomen˺ in your possession. This way you are less likely to commit injustice.",
+    "meta": {
+      "page": 77,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 4,
+    "ayahArV1": "وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَـٰتِهِنَّ نِحْلَةً ۚ فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا",
+    "ayahArV2": "واتوا النساء صدقاتهن نحلة فان طبن لكم عن شيء منه نفسا فكلوه هنيئا مريئا",
+    "ayahEn": "Give women ˹you wed˺ their due dowries graciously. But if they waive some of it willingly, then you may enjoy it freely with a clear conscience.",
+    "meta": {
+      "page": 77,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 5,
+    "ayahArV1": "وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَـٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+    "ayahArV2": "ولا تؤتوا السفهاء اموالكم التي جعل الله لكم قياما وارزقوهم فيها واكسوهم وقولوا لهم قولا معروفا",
+    "ayahEn": "Do not entrust the incapable ˹among your dependants˺ with your wealth which Allah has made a means of support for you—but feed and clothe them from it, and speak to them kindly.",
+    "meta": {
+      "page": 77,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 6,
+    "ayahArV1": "وَٱبْتَلُوا۟ ٱلْيَتَـٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+    "ayahArV2": "وابتلوا اليتامى حتى اذا بلغوا النكاح فان انستم منهم رشدا فادفعوا اليهم اموالهم ولا تاكلوها اسرافا وبدارا ان يكبروا ومن كان غنيا فليستعفف ومن كان فقيرا فلياكل بالمعروف فاذا دفعتم اليهم اموالهم فاشهدوا عليهم وكفى بالله حسيبا",
+    "ayahEn": "Test ˹the competence of˺ the orphans until they reach a marriageable age. Then if you feel they are capable of sound judgment, return their wealth to them. And do not consume it wastefully and hastily before they grow up ˹to demand it˺. If the guardian is well-off, they should not take compensation; but if the guardian is poor, let them take a reasonable provision. When you give orphans back their property, call in witnesses. And sufficient is Allah as a ˹vigilant˺ Reckoner.",
+    "meta": {
+      "page": 77,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 7,
+    "ayahArV1": "لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَّفْرُوضًا",
+    "ayahArV2": "للرجال نصيب مما ترك الوالدان والاقربون وللنساء نصيب مما ترك الوالدان والاقربون مما قل منه او كثر نصيبا مفروضا",
+    "ayahEn": "For men there is a share in what their parents and close relatives leave, and for women there is a share in what their parents and close relatives leave—whether it is little or much. ˹These are˺ obligatory shares.",
+    "meta": {
+      "page": 78,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 8,
+    "ayahArV1": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+    "ayahArV2": "واذا حضر القسمة اولو القربى واليتامى والمساكين فارزقوهم منه وقولوا لهم قولا معروفا",
+    "ayahEn": "If ˹non-inheriting˺ relatives, orphans, or the needy are present at the time of distribution, offer them a ˹small˺ provision from it and speak to them kindly.",
+    "meta": {
+      "page": 78,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 9,
+    "ayahArV1": "وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَـٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا",
+    "ayahArV2": "وليخش الذين لو تركوا من خلفهم ذرية ضعافا خافوا عليهم فليتقوا الله وليقولوا قولا سديدا",
+    "ayahEn": "Let the guardians be as concerned ˹for the orphans˺ as they would if they were to ˹die and˺ leave ˹their own˺ helpless children behind. So let them be mindful of Allah and speak equitably.",
+    "meta": {
+      "page": 78,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 10,
+    "ayahArV1": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَـٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
+    "ayahArV2": "ان الذين ياكلون اموال اليتامى ظلما انما ياكلون في بطونهم نارا وسيصلون سعيرا",
+    "ayahEn": "Indeed, those who unjustly consume orphans’ wealth ˹in fact˺ consume nothing but fire into their bellies. And they will be burned in a blazing Hell!",
+    "meta": {
+      "page": 78,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 11,
+    "ayahArV1": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَـٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ ۚ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ ۚ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ۗ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِّنَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+    "ayahArV2": "يوصيكم الله في اولادكم للذكر مثل حظ الانثيين فان كن نساء فوق اثنتين فلهن ثلثا ما ترك وان كانت واحدة فلها النصف ولابويه لكل واحد منهما السدس مما ترك ان كان له ولد فان لم يكن له ولد وورثه ابواه فلامه الثلث فان كان له اخوة فلامه السدس من بعد وصية يوصي بها او دين اباؤكم وابناؤكم لا تدرون ايهم اقرب لكم نفعا فريضة من الله ان الله كان عليما حكيما",
+    "ayahEn": "Allah commands you regarding your children: the share of the male will be twice that of the female. If you leave only two ˹or more˺ females, their share is two-thirds of the estate. But if there is only one female, her share will be one-half. Each parent is entitled to one-sixth if you leave offspring. But if you are childless and your parents are the only heirs, then your mother will receive one-third. But if you leave siblings, then your mother will receive one-sixth—after the fulfilment of bequests and debts. ˹Be fair to˺ your parents and children, as you do not ˹fully˺ know who is more beneficial to you. ˹This is˺ an obligation from Allah. Surely Allah is All-Knowing, All-Wise.",
+    "meta": {
+      "page": 78,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 31,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 12,
+    "ayahArV1": "۞ وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ ۚ فَإِن كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَآ أَوْ دَيْنٍ ۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌ ۚ فَإِن كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم ۚ مِّنۢ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَآ أَوْ دَيْنٍ ۗ وَإِن كَانَ رَجُلٌ يُورَثُ كَلَـٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ ۚ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّ ۚ وَصِيَّةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَلِيمٌ",
+    "ayahArV2": "ولكم نصف ما ترك ازواجكم ان لم يكن لهن ولد فان كان لهن ولد فلكم الربع مما تركن من بعد وصية يوصين بها او دين ولهن الربع مما تركتم ان لم يكن لكم ولد فان كان لكم ولد فلهن الثمن مما تركتم من بعد وصية توصون بها او دين وان كان رجل يورث كلالة او امراة وله اخ او اخت فلكل واحد منهما السدس فان كانوا اكثر من ذلك فهم شركاء في الثلث من بعد وصية يوصى بها او دين غير مضار وصية من الله والله عليم حليم",
+    "ayahEn": "You will inherit half of what your wives leave if they are childless. But if they have children, then ˹your share is˺ one-fourth of the estate—after the fulfilment of bequests and debts. And your wives will inherit one-fourth of what you leave if you are childless. But if you have children, then your wives will receive one-eighth of your estate—after the fulfilment of bequests and debts. And if a man or a woman leaves neither parents nor children but only a brother or a sister ˹from their mother’s side˺, they will each inherit one-sixth, but if they are more than one, they ˹all˺ will share one-third of the estate—after the fulfilment of bequests and debts without harm ˹to the heirs˺. ˹This is˺ a commandment from Allah. And Allah is All-Knowing, Most Forbearing.",
+    "meta": {
+      "page": 79,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 13,
+    "ayahArV1": "تِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "ayahArV2": "تلك حدود الله ومن يطع الله ورسوله يدخله جنات تجري من تحتها الانهار خالدين فيها وذلك الفوز العظيم",
+    "ayahEn": "These ˹entitlements˺ are the limits set by Allah. Whoever obeys Allah and His Messenger will be admitted into Gardens under which rivers flow, to stay there forever. That is the ultimate triumph!",
+    "meta": {
+      "page": 79,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 14,
+    "ayahArV1": "وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَـٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ",
+    "ayahArV2": "ومن يعص الله ورسوله ويتعد حدوده يدخله نارا خالدا فيها وله عذاب مهين",
+    "ayahEn": "But whoever disobeys Allah and His Messenger and exceeds their limits will be cast into Hell, to stay there forever. And they will suffer a humiliating punishment.",
+    "meta": {
+      "page": 79,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 15,
+    "ayahArV1": "وَٱلَّـٰتِى يَأْتِينَ ٱلْفَـٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ ۖ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا",
+    "ayahArV2": "واللاتي ياتين الفاحشة من نسائكم فاستشهدوا عليهن اربعة منكم فان شهدوا فامسكوهن في البيوت حتى يتوفاهن الموت او يجعل الله لهن سبيلا",
+    "ayahEn": "˹As for˺ those of your women who commit illegal intercourse—call four witnesses from among yourselves. If they testify, confine the offenders to their homes until they die or Allah ordains a ˹different˺ way for them.",
+    "meta": {
+      "page": 80,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 16,
+    "ayahArV1": "وَٱلَّذَانِ يَأْتِيَـٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا ۖ فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ تَوَّابًا رَّحِيمًا",
+    "ayahArV2": "واللذان ياتيانها منكم فاذوهما فان تابا واصلحا فاعرضوا عنهما ان الله كان توابا رحيما",
+    "ayahEn": "And the two among you who commit this sin—discipline them. If they repent and mend their ways, relieve them. Surely Allah is ever Accepting of Repentance, Most Merciful.",
+    "meta": {
+      "page": 80,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 17,
+    "ayahArV1": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَـٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَـٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+    "ayahArV2": "انما التوبة على الله للذين يعملون السوء بجهالة ثم يتوبون من قريب فاولئك يتوب الله عليهم وكان الله عليما حكيما",
+    "ayahEn": "Allah only accepts the repentance of those who commit evil ignorantly ˹or recklessly˺ then repent soon after—Allah will pardon them. And Allah is All-Knowing, All-Wise.",
+    "meta": {
+      "page": 80,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 18,
+    "ayahArV1": "وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٔـٰنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُو۟لَـٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا",
+    "ayahArV2": "وليست التوبة للذين يعملون السيئات حتى اذا حضر احدهم الموت قال اني تبت الان ولا الذين يموتون وهم كفار اولئك اعتدنا لهم عذابا اليما",
+    "ayahEn": "However, repentance is not accepted from those who knowingly persist in sin until they start dying, and then cry, “Now I repent!” nor those who die as disbelievers. For them We have prepared a painful punishment.",
+    "meta": {
+      "page": 80,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 19,
+    "ayahArV1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
+    "ayahArV2": "يا ايها الذين امنوا لا يحل لكم ان ترثوا النساء كرها ولا تعضلوهن لتذهبوا ببعض ما اتيتموهن الا ان ياتين بفاحشة مبينة وعاشروهن بالمعروف فان كرهتموهن فعسى ان تكرهوا شيئا ويجعل الله فيه خيرا كثيرا",
+    "ayahEn": "O believers! It is not permissible for you to inherit women against their will or mistreat them to make them return some of the dowry ˹as a ransom for divorce˺—unless they are found guilty of adultery. Treat them fairly. If you happen to dislike them, you may hate something which Allah turns into a great blessing.",
+    "meta": {
+      "page": 80,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 20,
+    "ayahArV1": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا ۚ أَتَأْخُذُونَهُۥ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا",
+    "ayahArV2": "وان اردتم استبدال زوج مكان زوج واتيتم احداهن قنطارا فلا تاخذوا منه شيئا اتاخذونه بهتانا واثما مبينا",
+    "ayahEn": "If you desire to replace a wife with another and you have given the former ˹even˺ a stack of gold ˹as a dowry˺, do not take any of it back. Would you ˹still˺ take it unjustly and very sinfully?",
+    "meta": {
+      "page": 81,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 21,
+    "ayahArV1": "وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَـٰقًا غَلِيظًا",
+    "ayahArV2": "وكيف تاخذونه وقد افضى بعضكم الى بعض واخذن منكم ميثاقا غليظا",
+    "ayahEn": "And how could you take it back after having enjoyed each other intimately and she has taken from you a firm commitment?",
+    "meta": {
+      "page": 81,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 22,
+    "ayahArV1": "وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُۥ كَانَ فَـٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا",
+    "ayahArV2": "ولا تنكحوا ما نكح اباؤكم من النساء الا ما قد سلف انه كان فاحشة ومقتا وساء سبيلا",
+    "ayahEn": "Do not marry former wives of your fathers—except what was done previously. It was indeed a shameful, despicable, and evil practice.",
+    "meta": {
+      "page": 81,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 4,
+    "ayahNo": 23,
+    "ayahArV1": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَـٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّـٰتُكُمْ وَخَـٰلَـٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَـٰتُكُمُ ٱلَّـٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَـٰعَةِ وَأُمَّهَـٰتُ نِسَآئِكُمْ وَرَبَـٰٓئِبُكُمُ ٱلَّـٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّـٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَـٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَـٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+    "ayahArV2": "حرمت عليكم امهاتكم وبناتكم واخواتكم وعماتكم وخالاتكم وبنات الاخ وبنات الاخت وامهاتكم اللاتي ارضعنكم واخواتكم من الرضاعة وامهات نسائكم وربائبكم اللاتي في حجوركم من نسائكم اللاتي دخلتم بهن فان لم تكونوا دخلتم بهن فلا جناح عليكم وحلائل ابنائكم الذين من اصلابكم وان تجمعوا بين الاختين الا ما قد سلف ان الله كان غفورا رحيما",
+    "ayahEn": "˹Also˺ forbidden to you for marriage are your mothers, your daughters, your sisters, your paternal and maternal aunts, your brother’s daughters, your sister’s daughters, your foster-mothers, your foster-sisters, your mothers-in-law, your stepdaughters under your guardianship if you have consummated marriage with their mothers—but if you have not, then you can marry them—nor the wives of your own sons, nor two sisters together at the same time—except what was done previously. Surely Allah is All-Forgiving, Most Merciful.",
+    "meta": {
+      "page": 81,
+      "juz": 4,
+      "hizb": 8,
+      "hizbQuarter": 32,
+      "sajda": false
+    }
+  }
+]

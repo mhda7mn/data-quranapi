@@ -1,0 +1,1024 @@
+{
+  "surahNo": 55,
+  "surahNameAr": "الرحمن",
+  "surahNameArabicLong": "سورة الرحمن",
+  "surahNameEn": "Ar-Rahmaan",
+  "revelationPlace": "Madina",
+  "totalAyat": 78,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "ٱلرَّحْمَـٰنُ",
+      "ayahArV2": "الرحمن",
+      "ayahEn": "The Most Compassionate",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "عَلَّمَ ٱلْقُرْءَانَ",
+      "ayahArV2": "علم القران",
+      "ayahEn": "taught the Quran",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "خَلَقَ ٱلْإِنسَـٰنَ",
+      "ayahArV2": "خلق الانسان",
+      "ayahEn": "created humanity",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "عَلَّمَهُ ٱلْبَيَانَ",
+      "ayahArV2": "علمه البيان",
+      "ayahEn": "˹and˺ taught them speech.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "ayahArV2": "الشمس والقمر بحسبان",
+      "ayahEn": "The sun and the moon ˹travel˺ with precision.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "ayahArV2": "والنجم والشجر يسجدان",
+      "ayahEn": "The stars and the trees bow down ˹in submission˺.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "ayahArV2": "والسماء رفعها ووضع الميزان",
+      "ayahEn": "As for the sky, He raised it ˹high˺, and set the balance ˹of justice˺",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "ayahArV2": "الا تطغوا في الميزان",
+      "ayahEn": "so that you do not defraud the scales.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "ayahArV2": "واقيموا الوزن بالقسط ولا تخسروا الميزان",
+      "ayahEn": "Weigh with justice, and do not give short measure.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "ayahArV2": "والارض وضعها للانام",
+      "ayahEn": "He laid out the earth for all beings.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "ayahArV2": "فيها فاكهة والنخل ذات الاكمام",
+      "ayahEn": "In it are fruit, palm trees with date stalks",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "ayahArV2": "والحب ذو العصف والريحان",
+      "ayahEn": "and grain with husks, and aromatic plants.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you ˹humans and jinn˺ both deny?",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+      "ayahArV2": "خلق الانسان من صلصال كالفخار",
+      "ayahEn": "He created humankind from ˹sounding˺ clay like pottery",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+      "ayahArV2": "وخلق الجان من مارج من نار",
+      "ayahEn": "and created jinn from a ˹smokeless˺ flame of fire.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "ayahArV2": "رب المشرقين ورب المغربين",
+      "ayahEn": "˹He is˺ Lord of the two easts and the two wests.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "ayahArV2": "مرج البحرين يلتقيان",
+      "ayahEn": "He merges the two bodies of ˹fresh and salt˺ water",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "ayahArV2": "بينهما برزخ لا يبغيان",
+      "ayahEn": "yet between them is a barrier they never cross.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "ayahArV2": "يخرج منهما اللؤلؤ والمرجان",
+      "ayahEn": "Out of both ˹waters˺ come forth pearls and coral.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+      "ayahArV2": "وله الجوار المنشات في البحر كالاعلام",
+      "ayahEn": "To Him belong the ships with raised sails, sailing through the seas like mountains.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "ayahArV2": "كل من عليها فان",
+      "ayahEn": "Every being on earth is bound to perish.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "ayahArV2": "ويبقى وجه ربك ذو الجلال والاكرام",
+      "ayahEn": "Only your Lord Himself, full of Majesty and Honour, will remain ˹forever˺.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+      "ayahArV2": "يساله من في السماوات والارض كل يوم هو في شان",
+      "ayahEn": "All those in the heavens and the earth are dependent on Him. Day in and day out He has something to bring about.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 31,
+      "ayahArV1": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "ayahArV2": "سنفرغ لكم ايه الثقلان",
+      "ayahEn": "We will soon attend to you ˹for judgment˺, O  two multitudes ˹of jinn and humans˺!",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 32,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 33,
+      "ayahArV1": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+      "ayahArV2": "يا معشر الجن والانس ان استطعتم ان تنفذوا من اقطار السماوات والارض فانفذوا لا تنفذون الا بسلطان",
+      "ayahEn": "O  assembly of jinn and humans! If you can penetrate beyond the realms of the heavens and the earth, then do so. ˹But˺ you cannot do that without ˹Our˺ authority.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 34,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 35,
+      "ayahArV1": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+      "ayahArV2": "يرسل عليكما شواظ من نار ونحاس فلا تنتصران",
+      "ayahEn": "Flames of fire and ˹molten˺ copper will be sent against you, and you will not be able to defend one another.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 36,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 37,
+      "ayahArV1": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+      "ayahArV2": "فاذا انشقت السماء فكانت وردة كالدهان",
+      "ayahEn": "˹How horrible will it be˺ when the heavens will split apart, becoming rose-red like ˹burnt˺ oil!",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 38,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 39,
+      "ayahArV1": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+      "ayahArV2": "فيومئذ لا يسال عن ذنبه انس ولا جان",
+      "ayahEn": "On that Day there will be no need for any human or jinn to be asked about their sins.",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 40,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 532,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 41,
+      "ayahArV1": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "ayahArV2": "يعرف المجرمون بسيماهم فيؤخذ بالنواصي والاقدام",
+      "ayahEn": "The wicked will be recognized by their appearance, then will be seized by ˹their˺ forelocks and feet.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 42,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 43,
+      "ayahArV1": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "ayahArV2": "هذه جهنم التي يكذب بها المجرمون",
+      "ayahEn": "˹They will be told,˺ “This is the Hell which the wicked denied.”",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 44,
+      "ayahArV1": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+      "ayahArV2": "يطوفون بينها وبين حميم ان",
+      "ayahEn": "They will alternate between its flames and scalding water.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 45,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 46,
+      "ayahArV1": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "ayahArV2": "ولمن خاف مقام ربه جنتان",
+      "ayahEn": "And whoever is in awe of standing before their Lord will have two Gardens.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 47,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 48,
+      "ayahArV1": "ذَوَاتَآ أَفْنَانٍ",
+      "ayahArV2": "ذواتا افنان",
+      "ayahEn": "˹Both will be˺ with lush branches.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 49,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 50,
+      "ayahArV1": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "ayahArV2": "فيهما عينان تجريان",
+      "ayahEn": "In each ˹Garden˺ will be two flowing springs.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 51,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 52,
+      "ayahArV1": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+      "ayahArV2": "فيهما من كل فاكهة زوجان",
+      "ayahEn": "In each will be two types of every fruit.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 53,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 54,
+      "ayahArV1": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+      "ayahArV2": "متكئين على فرش بطائنها من استبرق وجنى الجنتين دان",
+      "ayahEn": "Those ˹believers˺ will recline on furnishings lined with rich brocade. And the fruit of both Gardens will hang within reach.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 55,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 56,
+      "ayahArV1": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "ayahArV2": "فيهن قاصرات الطرف لم يطمثهن انس قبلهم ولا جان",
+      "ayahEn": "In both ˹Gardens˺ will be maidens of modest gaze, who no human or jinn has ever touched before.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 57,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 58,
+      "ayahArV1": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "ayahArV2": "كانهن الياقوت والمرجان",
+      "ayahEn": "Those ˹maidens˺ will be ˹as elegant˺ as rubies and coral.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 59,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 60,
+      "ayahArV1": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "ayahArV2": "هل جزاء الاحسان الا الاحسان",
+      "ayahEn": "Is there any reward for goodness except goodness?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 61,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 62,
+      "ayahArV1": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "ayahArV2": "ومن دونهما جنتان",
+      "ayahEn": "And below these two ˹Gardens˺ will be two others.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 63,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 64,
+      "ayahArV1": "مُدْهَآمَّتَانِ",
+      "ayahArV2": "مدهامتان",
+      "ayahEn": "Both will be dark green.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 65,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 66,
+      "ayahArV1": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "ayahArV2": "فيهما عينان نضاختان",
+      "ayahEn": "In each will be two gushing springs.",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 67,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 533,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 68,
+      "ayahArV1": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "ayahArV2": "فيهما فاكهة ونخل ورمان",
+      "ayahEn": "In both will be fruit, palm trees, and pomegranates.",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 69,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 70,
+      "ayahArV1": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+      "ayahArV2": "فيهن خيرات حسان",
+      "ayahEn": "In all Gardens will be noble, pleasant mates.",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 71,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 72,
+      "ayahArV1": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+      "ayahArV2": "حور مقصورات في الخيام",
+      "ayahEn": "˹They will be˺ maidens with gorgeous eyes, reserved in pavilions.",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 73,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 74,
+      "ayahArV1": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "ayahArV2": "لم يطمثهن انس قبلهم ولا جان",
+      "ayahEn": "No human or jinn has ever touched these ˹maidens˺ before.",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 75,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 76,
+      "ayahArV1": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+      "ayahArV2": "متكئين على رفرف خضر وعبقري حسان",
+      "ayahEn": "All ˹believers˺ will be reclining on green cushions and splendid carpets.",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 77,
+      "ayahArV1": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "ayahArV2": "فباي الاء ربكما تكذبان",
+      "ayahEn": "Then which of your Lord’s favours will you both deny?",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 78,
+      "ayahArV1": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "ayahArV2": "تبارك اسم ربك ذي الجلال والاكرام",
+      "ayahEn": "Blessed is the Name of your Lord, full of Majesty and Honour.",
+      "meta": {
+        "page": 534,
+        "juz": 27,
+        "hizb": 54,
+        "hizbQuarter": 213,
+        "sajda": false
+      }
+    }
+  ]
+}

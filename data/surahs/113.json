@@ -1,0 +1,75 @@
+{
+  "surahNo": 113,
+  "surahNameAr": "الفلق",
+  "surahNameArabicLong": "سورة الفلق",
+  "surahNameEn": "Al-Falaq",
+  "revelationPlace": "Mecca",
+  "totalAyat": 5,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "ayahArV2": "قل اعوذ برب الفلق",
+      "ayahEn": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of the daybreak",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "مِن شَرِّ مَا خَلَقَ",
+      "ayahArV2": "من شر ما خلق",
+      "ayahEn": "from the evil of whatever He has created",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "ayahArV2": "ومن شر غاسق اذا وقب",
+      "ayahEn": "and from the evil of the night when it grows dark",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "ayahArV2": "ومن شر النفاثات في العقد",
+      "ayahEn": "and from the evil of those ˹witches casting spells by˺ blowing onto knots",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "ayahArV2": "ومن شر حاسد اذا حسد",
+      "ayahEn": "and from the evil of an envier when they envy.”",
+      "meta": {
+        "page": 604,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

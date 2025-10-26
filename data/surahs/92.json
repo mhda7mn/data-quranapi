@@ -1,0 +1,283 @@
+{
+  "surahNo": 92,
+  "surahNameAr": "الليل",
+  "surahNameArabicLong": "سورة الليل",
+  "surahNameEn": "Al-Lail",
+  "revelationPlace": "Mecca",
+  "totalAyat": 21,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "ayahArV2": "والليل اذا يغشى",
+      "ayahEn": "By the night when it covers",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "ayahArV2": "والنهار اذا تجلى",
+      "ayahEn": "and the day when it shines!",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "ayahArV2": "وما خلق الذكر والانثى",
+      "ayahEn": "And by ˹the One˺ Who created male and female!",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "ayahArV2": "ان سعيكم لشتى",
+      "ayahEn": "Surely the ends you strive for are diverse.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+      "ayahArV2": "فاما من اعطى واتقى",
+      "ayahEn": "As for the one who is charitable, mindful ˹of Allah˺",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+      "ayahArV2": "وصدق بالحسنى",
+      "ayahEn": "and ˹firmly˺ believes in the finest reward",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+      "ayahArV2": "فسنيسره لليسرى",
+      "ayahEn": "We will facilitate for them the Way of Ease.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+      "ayahArV2": "واما من بخل واستغنى",
+      "ayahEn": "And as for the one who is stingy, indifferent ˹to Allah˺",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+      "ayahArV2": "وكذب بالحسنى",
+      "ayahEn": "and ˹staunchly˺ denies the finest reward",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "ayahArV2": "فسنيسره للعسرى",
+      "ayahEn": "We will facilitate for them the path of hardship.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "ayahArV2": "وما يغني عنه ماله اذا تردى",
+      "ayahEn": "And their wealth will be of no benefit to them when they tumble ˹into Hell˺.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "ayahArV2": "ان علينا للهدى",
+      "ayahEn": "It is certainly upon Us ˹alone˺ to show ˹the way to˺ guidance.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+      "ayahArV2": "وان لنا للاخرة والاولى",
+      "ayahEn": "And surely to Us ˹alone˺ belong this life and the next.",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "ayahArV2": "فانذرتكم نارا تلظى",
+      "ayahEn": "And so I have warned you of a raging Fire",
+      "meta": {
+        "page": 595,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+      "ayahArV2": "لا يصلاها الا الاشقى",
+      "ayahEn": "in which none will burn except the most wretched—",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+      "ayahArV2": "الذي كذب وتولى",
+      "ayahEn": "who deny and turn away.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+      "ayahArV2": "وسيجنبها الاتقى",
+      "ayahEn": "But the righteous will be spared from it—",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "ayahArV2": "الذي يؤتي ماله يتزكى",
+      "ayahEn": "who donate ˹some of˺ their wealth only to purify themselves",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+      "ayahArV2": "وما لاحد عنده من نعمة تجزى",
+      "ayahEn": "not in return for someone’s favours",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "ayahArV2": "الا ابتغاء وجه ربه الاعلى",
+      "ayahEn": "but seeking the pleasure of their Lord, the Most High.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "وَلَسَوْفَ يَرْضَىٰ",
+      "ayahArV2": "ولسوف يرضى",
+      "ayahEn": "They will certainly be pleased.",
+      "meta": {
+        "page": 596,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 238,
+        "sajda": false
+      }
+    }
+  ]
+}

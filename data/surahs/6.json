@@ -1,0 +1,2155 @@
+{
+  "surahNo": 6,
+  "surahNameAr": "الأنعام",
+  "surahNameArabicLong": "سورة الأنعام",
+  "surahNameEn": "Al-An'aam",
+  "revelationPlace": "Mecca",
+  "totalAyat": 165,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+      "ayahArV2": "الحمد لله الذي خلق السماوات والارض وجعل الظلمات والنور ثم الذين كفروا بربهم يعدلون",
+      "ayahEn": "All praise is for Allah Who created the heavens and the earth and made darkness and light. Yet the disbelievers set up equals to their Lord ˹in worship˺.",
+      "meta": {
+        "page": 128,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا ۖ وَأَجَلٌ مُّسَمًّى عِندَهُۥ ۖ ثُمَّ أَنتُمْ تَمْتَرُونَ",
+      "ayahArV2": "هو الذي خلقكم من طين ثم قضى اجلا واجل مسمى عنده ثم انتم تمترون",
+      "ayahEn": "He is the One Who created you from clay, then appointed a term ˹for your death˺ and another known only to Him ˹for your resurrection˺—yet you continue to doubt!",
+      "meta": {
+        "page": 128,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَهُوَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَفِى ٱلْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+      "ayahArV2": "وهو الله في السماوات وفي الارض يعلم سركم وجهركم ويعلم ما تكسبون",
+      "ayahEn": "He is the Only True God in the heavens and the earth. He knows whatever you conceal and whatever you reveal, and knows whatever you do.",
+      "meta": {
+        "page": 128,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ",
+      "ayahArV2": "وما تاتيهم من اية من ايات ربهم الا كانوا عنها معرضين",
+      "ayahEn": "Whenever a sign comes to them from their Lord, they turn away from it.",
+      "meta": {
+        "page": 128,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "فَقَدْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayahArV2": "فقد كذبوا بالحق لما جاءهم فسوف ياتيهم انباء ما كانوا به يستهزئون",
+      "ayahEn": "They have indeed rejected the truth when it came to them, so they will soon face the consequences of their ridicule.",
+      "meta": {
+        "page": 128,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا ٱلْأَنْهَـٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+      "ayahArV2": "الم يروا كم اهلكنا من قبلهم من قرن مكناهم في الارض ما لم نمكن لكم وارسلنا السماء عليهم مدرارا وجعلنا الانهار تجري من تحتهم فاهلكناهم بذنوبهم وانشانا من بعدهم قرنا اخرين",
+      "ayahEn": "Have they not seen how many ˹disbelieving˺ peoples We destroyed before them? We had made them more established in the land than you. We sent down abundant rain for them and made rivers flow at their feet. Then We destroyed them for their sins and replaced them with other peoples.",
+      "meta": {
+        "page": 128,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَـٰبًا فِى قِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "ayahArV2": "ولو نزلنا عليك كتابا في قرطاس فلمسوه بايديهم لقال الذين كفروا ان هذا الا سحر مبين",
+      "ayahEn": "Had We sent down to you ˹O Prophet˺ a revelation in writing and they were to touch it with their own hands, the disbelievers would still have said, “This is nothing but pure magic!”",
+      "meta": {
+        "page": 128,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
+      "ayahArV2": "وقالوا لولا انزل عليه ملك ولو انزلنا ملكا لقضي الامر ثم لا ينظرون",
+      "ayahEn": "They say, “Why has no ˹visible˺ angel come with him?” Had We sent down an angel, the matter would have certainly been settled ˹at once˺, and they would have never been given more time ˹to repent˺.",
+      "meta": {
+        "page": 128,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "وَلَوْ جَعَلْنَـٰهُ مَلَكًا لَّجَعَلْنَـٰهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ",
+      "ayahArV2": "ولو جعلناه ملكا لجعلناه رجلا وللبسنا عليهم ما يلبسون",
+      "ayahEn": "And if We had sent an angel, We would have certainly made it ˹assume the form of˺ a man—leaving them more confused than they already are.",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayahArV2": "ولقد استهزئ برسل من قبلك فحاق بالذين سخروا منهم ما كانوا به يستهزئون",
+      "ayahEn": "˹Other˺ messengers had already been ridiculed before you ˹O Prophet˺, but those who mocked them were overtaken by what they used to ridicule.",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+      "ayahArV2": "قل سيروا في الارض ثم انظروا كيف كان عاقبة المكذبين",
+      "ayahEn": "Say, “Travel throughout the land and see the fate of the deniers.”",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "قُل لِّمَن مَّا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "ayahArV2": "قل لمن ما في السماوات والارض قل لله كتب على نفسه الرحمة ليجمعنكم الى يوم القيامة لا ريب فيه الذين خسروا انفسهم فهم لا يؤمنون",
+      "ayahEn": "Ask ˹them, O  Prophet˺, “To whom belongs everything in the heavens and the earth?” Say, “To Allah!” He has taken upon Himself to be Merciful. He will certainly gather ˹all of˺ you together for the Day of Judgment—about which there is no doubt. But those who have ruined themselves will never believe.",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 51,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "۞ وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayahArV2": "وله ما سكن في الليل والنهار وهو السميع العليم",
+      "ayahEn": "To Him belongs whatever exists in the day and night. And He is the All-Hearing, All-Knowing.",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+      "ayahArV2": "قل اغير الله اتخذ وليا فاطر السماوات والارض وهو يطعم ولا يطعم قل اني امرت ان اكون اول من اسلم ولا تكونن من المشركين",
+      "ayahEn": "Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayahArV2": "قل اني اخاف ان عصيت ربي عذاب يوم عظيم",
+      "ayahEn": "Say, “I truly fear—if I were to disobey my Lord—the torment of a tremendous Day.”",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "مَّن يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُۥ ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْمُبِينُ",
+      "ayahArV2": "من يصرف عنه يومئذ فقد رحمه وذلك الفوز المبين",
+      "ayahEn": "Whoever is spared the torment of that Day will have certainly been shown Allah’s mercy. And that is the absolute triumph.",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayahArV2": "وان يمسسك الله بضر فلا كاشف له الا هو وان يمسسك بخير فهو على كل شيء قدير",
+      "ayahEn": "If Allah touches you with harm, none can undo it except Him. And if He touches you with a blessing, He is Most Capable of everything.",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+      "ayahArV2": "وهو القاهر فوق عباده وهو الحكيم الخبير",
+      "ayahEn": "He reigns supreme over His creation. And He is the All-Wise, All-Aware.",
+      "meta": {
+        "page": 129,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَـٰدَةً ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَـٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "ayahArV2": "قل اي شيء اكبر شهادة قل الله شهيد بيني وبينكم واوحي الي هذا القران لانذركم به ومن بلغ ائنكم لتشهدون ان مع الله الهة اخرى قل لا اشهد قل انما هو اله واحد وانني بريء مما تشركون",
+      "ayahEn": "Ask ˹them, O  Prophet˺, “Who is the best witness?” Say, “Allah is! He is a Witness between me and you. And this Quran has been revealed to me so that, with it, I may warn you and whoever it reaches. Do you ˹pagans˺ testify that there are other gods besides Allah?” ˹Then˺ say, “I will never testify ˹to this˺!” ˹And˺ say, “There is only One God. And I totally reject whatever ˹idols˺ you associate with Him.”",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمُ ۘ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "ayahArV2": "الذين اتيناهم الكتاب يعرفونه كما يعرفون ابناءهم الذين خسروا انفسهم فهم لا يؤمنون",
+      "ayahEn": "Those to whom We gave the Scripture recognize him ˹to be a true prophet˺ as they recognize their own children. Those who have ruined themselves will never believe.",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+      "ayahArV2": "ومن اظلم ممن افترى على الله كذبا او كذب باياته انه لا يفلح الظالمون",
+      "ayahEn": "Who does more wrong than those who fabricate lies against Allah or deny His signs? Indeed, the wrongdoers will never succeed.",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ",
+      "ayahArV2": "ويوم نحشرهم جميعا ثم نقول للذين اشركوا اين شركاؤكم الذين كنتم تزعمون",
+      "ayahEn": "˹Consider˺ the Day We will gather them all together then ask those who associated others ˹with Allah in worship˺, “Where are those gods you used to claim?”",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّآ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ",
+      "ayahArV2": "ثم لم تكن فتنتهم الا ان قالوا والله ربنا ما كنا مشركين",
+      "ayahEn": "Their only argument will be: “By Allah, our Lord! We were never polytheists.”",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayahArV2": "انظر كيف كذبوا على انفسهم وضل عنهم ما كانوا يفترون",
+      "ayahEn": "See how they will lie about themselves and how those ˹gods˺ they fabricated will fail them!",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَـٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "ayahArV2": "ومنهم من يستمع اليك وجعلنا على قلوبهم اكنة ان يفقهوه وفي اذانهم وقرا وان يروا كل اية لا يؤمنوا بها حتى اذا جاءوك يجادلونك يقول الذين كفروا ان هذا الا اساطير الاولين",
+      "ayahEn": "There are some of them who ˹pretend to˺ listen to your recitation ˹of the Quran˺, but We have cast veils over their hearts—leaving them unable to comprehend it—and deafness in their ears. Even if they were to see every sign, they still would not believe in them. The disbelievers would ˹even˺ come to argue with you, saying, “This ˹Quran˺ is nothing but ancient fables!”",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "ayahArV2": "وهم ينهون عنه ويناون عنه وان يهلكون الا انفسهم وما يشعرون",
+      "ayahEn": "They turn others away from the Prophet and distance themselves as well. They ruin none but themselves, yet they fail to perceive it.",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَـٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَـٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "ayahArV2": "ولو ترى اذ وقفوا على النار فقالوا يا ليتنا نرد ولا نكذب بايات ربنا ونكون من المؤمنين",
+      "ayahEn": "If only you could see when they will be detained before the Fire! They will cry, “Oh! If only we could be sent back, we would never deny the signs of our Lord and we would ˹surely˺ be of the believers.”",
+      "meta": {
+        "page": 130,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+      "ayahArV2": "بل بدا لهم ما كانوا يخفون من قبل ولو ردوا لعادوا لما نهوا عنه وانهم لكاذبون",
+      "ayahEn": "But no! ˹They only say this˺ because the truth they used to hide will become all too clear to them. Even if they were to be sent back, they would certainly revert to what they were forbidden. Indeed they are liars!",
+      "meta": {
+        "page": 131,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "وَقَالُوٓا۟ إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+      "ayahArV2": "وقالوا ان هي الا حياتنا الدنيا وما نحن بمبعوثين",
+      "ayahEn": "They insisted, “There is nothing beyond this worldly life and we will never be resurrected.”",
+      "meta": {
+        "page": 131,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+      "ayahArV2": "ولو ترى اذ وقفوا على ربهم قال اليس هذا بالحق قالوا بلى وربنا قال فذوقوا العذاب بما كنتم تكفرون",
+      "ayahEn": "But if only you could see when they will be detained before their Lord! He will ask ˹them˺, “Is this ˹Hereafter˺ not the truth?” They will cry, “Absolutely, by our Lord!” He will say, “Then taste the punishment for your disbelief.”",
+      "meta": {
+        "page": 131,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 31,
+      "ayahArV1": "قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةً قَالُوا۟ يَـٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ",
+      "ayahArV2": "قد خسر الذين كذبوا بلقاء الله حتى اذا جاءتهم الساعة بغتة قالوا يا حسرتنا على ما فرطنا فيها وهم يحملون اوزارهم على ظهورهم الا ساء ما يزرون",
+      "ayahEn": "Losers indeed are those who deny the meeting with Allah until the Hour takes them by surprise, then they will cry, “Woe to us for having ignored this!” They will bear ˹the burden of˺ their sins on their backs. Evil indeed is their burden!",
+      "meta": {
+        "page": 131,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 32,
+      "ayahArV1": "وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَعِبٌ وَلَهْوٌ ۖ وَلَلدَّارُ ٱلْـَٔاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+      "ayahArV2": "وما الحياة الدنيا الا لعب ولهو وللدار الاخرة خير للذين يتقون افلا تعقلون",
+      "ayahEn": "This worldly life is no more than play and amusement, but far better is the ˹eternal˺ Home of the Hereafter for those mindful ˹of Allah˺. Will you not then understand?",
+      "meta": {
+        "page": 131,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 33,
+      "ayahArV1": "قَدْ نَعْلَمُ إِنَّهُۥ لَيَحْزُنُكَ ٱلَّذِى يَقُولُونَ ۖ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَـٰكِنَّ ٱلظَّـٰلِمِينَ بِـَٔايَـٰتِ ٱللَّهِ يَجْحَدُونَ",
+      "ayahArV2": "قد نعلم انه ليحزنك الذي يقولون فانهم لا يكذبونك ولكن الظالمين بايات الله يجحدون",
+      "ayahEn": "We certainly know that what they say grieves you ˹O Prophet˺. It is not your honesty they question—it is Allah’s signs that the wrongdoers deny.",
+      "meta": {
+        "page": 131,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 34,
+      "ayahArV1": "وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَـٰتِ ٱللَّهِ ۚ وَلَقَدْ جَآءَكَ مِن نَّبَإِى۟ ٱلْمُرْسَلِينَ",
+      "ayahArV2": "ولقد كذبت رسل من قبلك فصبروا على ما كذبوا واوذوا حتى اتاهم نصرنا ولا مبدل لكلمات الله ولقد جاءك من نبا المرسلين",
+      "ayahEn": "Indeed, messengers before you were rejected but patiently endured rejection and persecution until Our help came to them. And Allah’s promise ˹to help˺ is never broken. And you have already received some of the narratives of these messengers.",
+      "meta": {
+        "page": 131,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 35,
+      "ayahArV1": "وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ ٱلْجَـٰهِلِينَ",
+      "ayahArV2": "وان كان كبر عليك اعراضهم فان استطعت ان تبتغي نفقا في الارض او سلما في السماء فتاتيهم باية ولو شاء الله لجمعهم على الهدى فلا تكونن من الجاهلين",
+      "ayahEn": "If you find their denial unbearable, then build—if you can—a tunnel through the earth or stairs to the sky to bring them a ˹more compelling˺ sign. Had Allah so willed, He could have guided them all. So do not be one of those ignorant ˹of this fact˺.",
+      "meta": {
+        "page": 131,
+        "juz": 7,
+        "hizb": 13,
+        "hizbQuarter": 52,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 36,
+      "ayahArV1": "۞ إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+      "ayahArV2": "انما يستجيب الذين يسمعون والموتى يبعثهم الله ثم اليه يرجعون",
+      "ayahEn": "Only the attentive will respond ˹to your call˺. As for the dead, Allah will raise them up, then to Him they will ˹all˺ be returned.",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 37,
+      "ayahArV1": "وَقَالُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ ۚ قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةً وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayahArV2": "وقالوا لولا نزل عليه اية من ربه قل ان الله قادر على ان ينزل اية ولكن اكثرهم لا يعلمون",
+      "ayahEn": "They ask, “Why has no ˹other˺ sign been sent down to him from his Lord?” Say, ˹O Prophet,˺ “Allah certainly has the power to send down a sign”—though most of them do not know.",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 38,
+      "ayahArV1": "وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ وَلَا طَـٰٓئِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّآ أُمَمٌ أَمْثَالُكُم ۚ مَّا فَرَّطْنَا فِى ٱلْكِتَـٰبِ مِن شَىْءٍ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ",
+      "ayahArV2": "وما من دابة في الارض ولا طائر يطير بجناحيه الا امم امثالكم ما فرطنا في الكتاب من شيء ثم الى ربهم يحشرون",
+      "ayahEn": "All living beings roaming the earth and winged birds soaring in the sky are communities like yourselves. We have left nothing out of the Record. Then to their Lord they will be gathered all together.",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 39,
+      "ayahArV1": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا صُمٌّ وَبُكْمٌ فِى ٱلظُّلُمَـٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayahArV2": "والذين كذبوا باياتنا صم وبكم في الظلمات من يشا الله يضلله ومن يشا يجعله على صراط مستقيم",
+      "ayahEn": "Those who deny Our signs are ˹wilfully˺ deaf and dumb—lost in darkness. Allah leaves whoever He wills to stray and guides whoever He wills to the Straight Way.",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 40,
+      "ayahArV1": "قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ تَدْعُونَ إِن كُنتُمْ صَـٰدِقِينَ",
+      "ayahArV2": "قل ارايتكم ان اتاكم عذاب الله او اتتكم الساعة اغير الله تدعون ان كنتم صادقين",
+      "ayahEn": "Ask ˹them, O  Prophet˺, “Imagine if you were overwhelmed by Allah’s torment or the Hour—would you call upon any other than Allah ˹for help˺? ˹Answer me˺ if your claims are true!",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 41,
+      "ayahArV1": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ",
+      "ayahArV2": "بل اياه تدعون فيكشف ما تدعون اليه ان شاء وتنسون ما تشركون",
+      "ayahEn": "No! He is the only One you would call. And if He willed, He could remove the affliction that made you invoke Him. Only then will you forget whatever you associate with Him ˹in worship˺.”",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 42,
+      "ayahArV1": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَأَخَذْنَـٰهُم بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+      "ayahArV2": "ولقد ارسلنا الى امم من قبلك فاخذناهم بالباساء والضراء لعلهم يتضرعون",
+      "ayahEn": "Indeed, We have sent messengers before you ˹O Prophet˺ to other people who We put through suffering and adversity ˹for their denial˺, so perhaps they would be humbled.",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 43,
+      "ayahArV1": "فَلَوْلَآ إِذْ جَآءَهُم بَأْسُنَا تَضَرَّعُوا۟ وَلَـٰكِن قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayahArV2": "فلولا اذ جاءهم باسنا تضرعوا ولكن قست قلوبهم وزين لهم الشيطان ما كانوا يعملون",
+      "ayahEn": "Why did they not humble themselves when We made them suffer? Instead, their hearts were hardened, and Satan made their misdeeds appealing to them.",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 44,
+      "ayahArV1": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ حَتَّىٰٓ إِذَا فَرِحُوا۟ بِمَآ أُوتُوٓا۟ أَخَذْنَـٰهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ",
+      "ayahArV2": "فلما نسوا ما ذكروا به فتحنا عليهم ابواب كل شيء حتى اذا فرحوا بما اوتوا اخذناهم بغتة فاذا هم مبلسون",
+      "ayahEn": "When they became oblivious to warnings, We showered them with everything they desired. But just as they became prideful of what they were given, We seized them by surprise, then they instantly fell into despair!",
+      "meta": {
+        "page": 132,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 45,
+      "ayahArV1": "فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "ayahArV2": "فقطع دابر القوم الذين ظلموا والحمد لله رب العالمين",
+      "ayahEn": "So the wrongdoers were utterly uprooted. And all praise is for Allah—Lord of all worlds.",
+      "meta": {
+        "page": 133,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 46,
+      "ayahArV1": "قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَـٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَـٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ ثُمَّ هُمْ يَصْدِفُونَ",
+      "ayahArV2": "قل ارايتم ان اخذ الله سمعكم وابصاركم وختم على قلوبكم من اله غير الله ياتيكم به انظر كيف نصرف الايات ثم هم يصدفون",
+      "ayahEn": "Ask ˹them, O  Prophet˺, “Imagine if Allah were to take away your hearing or sight, or seal your hearts—who else other than Allah could restore it?” See ˹O Prophet˺ how We vary the signs, yet they still turn away.",
+      "meta": {
+        "page": 133,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 47,
+      "ayahArV1": "قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلظَّـٰلِمُونَ",
+      "ayahArV2": "قل ارايتكم ان اتاكم عذاب الله بغتة او جهرة هل يهلك الا القوم الظالمون",
+      "ayahEn": "Ask, “Imagine if Allah’s punishment were to overwhelm you with or without warning—who would be destroyed other than the wrongdoers?”",
+      "meta": {
+        "page": 133,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 48,
+      "ayahArV1": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۖ فَمَنْ ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayahArV2": "وما نرسل المرسلين الا مبشرين ومنذرين فمن امن واصلح فلا خوف عليهم ولا هم يحزنون",
+      "ayahEn": "We have sent messengers only as deliverers of good news and as warners. Whoever believes and does good, there will be no fear for them, nor will they grieve.",
+      "meta": {
+        "page": 133,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 49,
+      "ayahArV1": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا يَمَسُّهُمُ ٱلْعَذَابُ بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "ayahArV2": "والذين كذبوا باياتنا يمسهم العذاب بما كانوا يفسقون",
+      "ayahEn": "But those who deny Our signs will be afflicted with punishment for their rebelliousness.",
+      "meta": {
+        "page": 133,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 50,
+      "ayahArV1": "قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+      "ayahArV2": "قل لا اقول لكم عندي خزائن الله ولا اعلم الغيب ولا اقول لكم اني ملك ان اتبع الا ما يوحى الي قل هل يستوي الاعمى والبصير افلا تتفكرون",
+      "ayahEn": "Say, ˹O Prophet,˺ “I do not say to you that I possess Allah’s treasuries or know the unseen, nor do I claim to be an angel. I only follow what is revealed to me.” Say, “Are those blind ˹to the truth˺ equal to those who can see? Will you not then reflect?”",
+      "meta": {
+        "page": 133,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 51,
+      "ayahArV1": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِۦ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ",
+      "ayahArV2": "وانذر به الذين يخافون ان يحشروا الى ربهم ليس لهم من دونه ولي ولا شفيع لعلهم يتقون",
+      "ayahEn": "Warn with this ˹Quran˺ those who are awed by the prospect of being gathered before their Lord—when they will have no protector or intercessor besides Him—so perhaps they will be mindful ˹of Him˺.",
+      "meta": {
+        "page": 133,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 52,
+      "ayahArV1": "وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّـٰلِمِينَ",
+      "ayahArV2": "ولا تطرد الذين يدعون ربهم بالغداة والعشي يريدون وجهه ما عليك من حسابهم من شيء وما من حسابك عليهم من شيء فتطردهم فتكون من الظالمين",
+      "ayahEn": "˹O Prophet!˺ Do not dismiss those ˹poor believers˺ who invoke their Lord morning and evening, seeking His pleasure. You are not accountable for them whatsoever, nor are they accountable for you. So do not dismiss them, or you will be one of the wrongdoers.",
+      "meta": {
+        "page": 133,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 53,
+      "ayahArV1": "وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍ لِّيَقُولُوٓا۟ أَهَـٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّـٰكِرِينَ",
+      "ayahArV2": "وكذلك فتنا بعضهم ببعض ليقولوا اهؤلاء من الله عليهم من بيننا اليس الله باعلم بالشاكرين",
+      "ayahEn": "In this way We have tested some by means of others, so those ˹disbelievers˺ may say, “Has Allah favoured these ˹poor believers˺ out of all of us?” Does Allah not best recognize the grateful?",
+      "meta": {
+        "page": 134,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 54,
+      "ayahArV1": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَـٰتِنَا فَقُلْ سَلَـٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَـٰلَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌ رَّحِيمٌ",
+      "ayahArV2": "واذا جاءك الذين يؤمنون باياتنا فقل سلام عليكم كتب ربكم على نفسه الرحمة انه من عمل منكم سوءا بجهالة ثم تاب من بعده واصلح فانه غفور رحيم",
+      "ayahEn": "When the believers in Our revelations come to you, say, “Peace be upon you! Your Lord has taken upon Himself to be Merciful. Whoever among you commits evil ignorantly ˹or recklessly˺ then repents afterwards and mends their ways, then Allah is truly All-Forgiving, Most Merciful.”",
+      "meta": {
+        "page": 134,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 55,
+      "ayahArV1": "وَكَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ",
+      "ayahArV2": "وكذلك نفصل الايات ولتستبين سبيل المجرمين",
+      "ayahEn": "This is how We make Our signs clear, so the way of the wicked may become distinct.",
+      "meta": {
+        "page": 134,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 56,
+      "ayahArV1": "قُلْ إِنِّى نُهِيتُ أَنْ أَعْبُدَ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ ۚ قُل لَّآ أَتَّبِعُ أَهْوَآءَكُمْ ۙ قَدْ ضَلَلْتُ إِذًا وَمَآ أَنَا۠ مِنَ ٱلْمُهْتَدِينَ",
+      "ayahArV2": "قل اني نهيت ان اعبد الذين تدعون من دون الله قل لا اتبع اهواءكم قد ضللت اذا وما انا من المهتدين",
+      "ayahEn": "Say, ˹O Prophet,˺ “I have been forbidden to worship those you invoke besides Allah.” Say, “I will not follow your desires, for I then would certainly be astray and not one of those ˹rightly˺ guided.”",
+      "meta": {
+        "page": 134,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 57,
+      "ayahArV1": "قُلْ إِنِّى عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَـٰصِلِينَ",
+      "ayahArV2": "قل اني على بينة من ربي وكذبتم به ما عندي ما تستعجلون به ان الحكم الا لله يقص الحق وهو خير الفاصلين",
+      "ayahEn": "Say, ˹O Prophet,˺ “Indeed, I stand on a clear proof from my Lord—yet you have denied it. That ˹torment˺ you seek to hasten is not within my power. It is only Allah Who decides ˹its time˺. He declares the truth. And He is the Best of Judges.”",
+      "meta": {
+        "page": 134,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 58,
+      "ayahArV1": "قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ ۗ وَٱللَّهُ أَعْلَمُ بِٱلظَّـٰلِمِينَ",
+      "ayahArV2": "قل لو ان عندي ما تستعجلون به لقضي الامر بيني وبينكم والله اعلم بالظالمين",
+      "ayahEn": "Say ˹also˺, “If what you seek to hasten were within my power, the matter between us would have already been settled. But Allah knows the wrongdoers best.”",
+      "meta": {
+        "page": 134,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 53,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 59,
+      "ayahArV1": "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+      "ayahArV2": "وعنده مفاتح الغيب لا يعلمها الا هو ويعلم ما في البر والبحر وما تسقط من ورقة الا يعلمها ولا حبة في ظلمات الارض ولا رطب ولا يابس الا في كتاب مبين",
+      "ayahEn": "With Him are the keys of the unseen—no one knows them except Him. And He knows what is in the land and sea. Not even a leaf falls without His knowledge, nor a grain in the darkness of the earth or anything—green or dry—but is ˹written˺ in a perfect Record.",
+      "meta": {
+        "page": 134,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 60,
+      "ayahArV1": "وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌ مُّسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayahArV2": "وهو الذي يتوفاكم بالليل ويعلم ما جرحتم بالنهار ثم يبعثكم فيه ليقضى اجل مسمى ثم اليه مرجعكم ثم ينبئكم بما كنتم تعملون",
+      "ayahEn": "He is the One Who calls back your souls by night and knows what you do by day, then revives you daily to complete your appointed term. To Him is your ˹ultimate˺ return, then He will inform you of what you used to do.",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 61,
+      "ayahArV1": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۖ وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً حَتَّىٰٓ إِذَا جَآءَ أَحَدَكُمُ ٱلْمَوْتُ تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَا يُفَرِّطُونَ",
+      "ayahArV2": "وهو القاهر فوق عباده ويرسل عليكم حفظة حتى اذا جاء احدكم الموت توفته رسلنا وهم لا يفرطون",
+      "ayahEn": "He reigns supreme over all of His creation, and sends recording-angels, watching over you. When death comes to any of you, Our angels take their soul, never neglecting this duty.",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 62,
+      "ayahArV1": "ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۚ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَـٰسِبِينَ",
+      "ayahArV2": "ثم ردوا الى الله مولاهم الحق الا له الحكم وهو اسرع الحاسبين",
+      "ayahEn": "Then they are ˹all˺ returned to Allah—their True Master. Judgment is His ˹alone˺. And He is the Swiftest Reckoner.",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 63,
+      "ayahArV1": "قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ أَنجَىٰنَا مِنْ هَـٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ",
+      "ayahArV2": "قل من ينجيكم من ظلمات البر والبحر تدعونه تضرعا وخفية لئن انجانا من هذه لنكونن من الشاكرين",
+      "ayahEn": "Say, ˹O Prophet,˺ “Who rescues you from the darkest times on land and at sea? He ˹alone˺ you call upon with humility, openly and secretly: “If You rescue us from this, we will be ever grateful.”",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 64,
+      "ayahArV1": "قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ تُشْرِكُونَ",
+      "ayahArV2": "قل الله ينجيكم منها ومن كل كرب ثم انتم تشركون",
+      "ayahEn": "Say, “˹Only˺ Allah rescues you from this and any other distress, yet you associate others with Him ˹in worship˺.”",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 65,
+      "ayahArV1": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَفْقَهُونَ",
+      "ayahArV2": "قل هو القادر على ان يبعث عليكم عذابا من فوقكم او من تحت ارجلكم او يلبسكم شيعا ويذيق بعضكم باس بعض انظر كيف نصرف الايات لعلهم يفقهون",
+      "ayahEn": "Say, “He ˹alone˺ has the power to unleash upon you a torment from above or below you or split you into ˹conflicting˺ factions and make you taste the violence of one another.” See how We vary the signs, so perhaps they will comprehend.",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 66,
+      "ayahArV1": "وَكَذَّبَ بِهِۦ قَوْمُكَ وَهُوَ ٱلْحَقُّ ۚ قُل لَّسْتُ عَلَيْكُم بِوَكِيلٍ",
+      "ayahArV2": "وكذب به قومك وهو الحق قل لست عليكم بوكيل",
+      "ayahEn": "Still your people ˹O Prophet˺ have rejected this ˹Quran˺, although it is the truth. Say, “I am not a keeper over you.”",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 67,
+      "ayahArV1": "لِّكُلِّ نَبَإٍ مُّسْتَقَرٌّ ۚ وَسَوْفَ تَعْلَمُونَ",
+      "ayahArV2": "لكل نبا مستقر وسوف تعلمون",
+      "ayahEn": "Every ˹destined˺ matter has a ˹set˺ time to transpire. And you will soon come to know.",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 68,
+      "ayahArV1": "وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَـٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦ ۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَـٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "ayahArV2": "واذا رايت الذين يخوضون في اياتنا فاعرض عنهم حتى يخوضوا في حديث غيره واما ينسينك الشيطان فلا تقعد بعد الذكرى مع القوم الظالمين",
+      "ayahEn": "And when you come across those who ridicule Our revelations, do not sit with them unless they engage in a different topic. Should Satan make you forget, then once you remember, do not ˹continue to˺ sit with the wrongdoing people.",
+      "meta": {
+        "page": 135,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 69,
+      "ayahArV1": "وَمَا عَلَى ٱلَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَلَـٰكِن ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayahArV2": "وما على الذين يتقون من حسابهم من شيء ولكن ذكرى لعلهم يتقون",
+      "ayahEn": "Those mindful ˹of Allah˺ will not be accountable for those ˹who ridicule it˺ whatsoever—their duty is to advise, so perhaps the ridiculers will abstain.",
+      "meta": {
+        "page": 136,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 70,
+      "ayahArV1": "وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّ وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+      "ayahArV2": "وذر الذين اتخذوا دينهم لعبا ولهوا وغرتهم الحياة الدنيا وذكر به ان تبسل نفس بما كسبت ليس لها من دون الله ولي ولا شفيع وان تعدل كل عدل لا يؤخذ منها اولئك الذين ابسلوا بما كسبوا لهم شراب من حميم وعذاب اليم بما كانوا يكفرون",
+      "ayahEn": "And leave those who take this faith ˹of Islam˺ as mere play and amusement and are deluded by ˹their˺ worldly life. Yet remind them by this ˹Quran˺, so no one should be ruined for their misdeeds. They will have no protector or intercessor other than Allah. Even if they were to offer every ˹possible˺ ransom, none will be accepted from them. Those are the ones who will be ruined for their misdeeds. They will have a boiling drink and painful punishment for their disbelief.",
+      "meta": {
+        "page": 136,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 71,
+      "ayahArV1": "قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَـٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَـٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَـٰلَمِينَ",
+      "ayahArV2": "قل اندعو من دون الله ما لا ينفعنا ولا يضرنا ونرد على اعقابنا بعد اذ هدانا الله كالذي استهوته الشياطين في الارض حيران له اصحاب يدعونه الى الهدى ائتنا قل ان هدى الله هو الهدى وامرنا لنسلم لرب العالمين",
+      "ayahEn": "Ask ˹them, O  Prophet˺, “Should we invoke, other than Allah, those ˹idols˺ which cannot benefit or harm us, and turn back to disbelief after Allah has guided us? ˹If we do so, we will be˺ like those disoriented by devils in the wilderness, while their companions call them to guidance, ˹saying˺, ‘Come to us!’ Say, ˹O Prophet,˺ “Allah’s guidance is the ˹only˺ true guidance. And we are commanded to submit to the Lord of all worlds",
+      "meta": {
+        "page": 136,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 72,
+      "ayahArV1": "وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ ۚ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayahArV2": "وان اقيموا الصلاة واتقوه وهو الذي اليه تحشرون",
+      "ayahEn": "establish prayer, and be mindful of Him. To Him you will all be gathered together.",
+      "meta": {
+        "page": 136,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 73,
+      "ayahArV1": "وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ وَيَوْمَ يَقُولُ كُن فَيَكُونُ ۚ قَوْلُهُ ٱلْحَقُّ ۚ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+      "ayahArV2": "وهو الذي خلق السماوات والارض بالحق ويوم يقول كن فيكون قوله الحق وله الملك يوم ينفخ في الصور عالم الغيب والشهادة وهو الحكيم الخبير",
+      "ayahEn": "He is the One Who created the heavens and the earth in truth. On the Day ˹of Judgment˺ He will say, ‘Be!’ And there will be! His command is truth. All authority is His ˹alone˺ on the Day the Trumpet will be blown. He is the Knower of all—seen or unseen. And He is the All-Wise, All-Aware.”",
+      "meta": {
+        "page": 136,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 54,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 74,
+      "ayahArV1": "۞ وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "ayahArV2": "واذ قال ابراهيم لابيه ازر اتتخذ اصناما الهة اني اراك وقومك في ضلال مبين",
+      "ayahEn": "And ˹remember˺ when Abraham said to his father, Ȃzar, “Do you take idols as gods? It is clear to me that you and your people are entirely misguided.”",
+      "meta": {
+        "page": 137,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 75,
+      "ayahArV1": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+      "ayahArV2": "وكذلك نري ابراهيم ملكوت السماوات والارض وليكون من الموقنين",
+      "ayahEn": "We also showed Abraham the wonders of the heavens and the earth, so he would be sure in faith.",
+      "meta": {
+        "page": 137,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 76,
+      "ayahArV1": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا ۖ قَالَ هَـٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْـَٔافِلِينَ",
+      "ayahArV2": "فلما جن عليه الليل راى كوكبا قال هذا ربي فلما افل قال لا احب الافلين",
+      "ayahEn": "When the night grew dark upon him, he saw a star and said, “This is my Lord!” But when it set, he said, “I do not love things that set.”",
+      "meta": {
+        "page": 137,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 77,
+      "ayahArV1": "فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًا قَالَ هَـٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ",
+      "ayahArV2": "فلما راى القمر بازغا قال هذا ربي فلما افل قال لئن لم يهدني ربي لاكونن من القوم الضالين",
+      "ayahEn": "Then when he saw the moon rising, he said, “This one is my Lord!” But when it disappeared, he said, “If my Lord does not guide me, I will certainly be one of the misguided people.”",
+      "meta": {
+        "page": 137,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 78,
+      "ayahArV1": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةً قَالَ هَـٰذَا رَبِّى هَـٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَـٰقَوْمِ إِنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "ayahArV2": "فلما راى الشمس بازغة قال هذا ربي هذا اكبر فلما افلت قال يا قوم اني بريء مما تشركون",
+      "ayahEn": "Then when he saw the sun shining, he said, “This must be my Lord—it is the greatest!” But again when it set, he declared, “O my people! I totally reject whatever you associate ˹with Allah in worship˺.",
+      "meta": {
+        "page": 137,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 79,
+      "ayahArV1": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+      "ayahArV2": "اني وجهت وجهي للذي فطر السماوات والارض حنيفا وما انا من المشركين",
+      "ayahEn": "I have turned my face towards the One Who has originated the heavens and the earth—being upright—and I am not one of the polytheists.”",
+      "meta": {
+        "page": 137,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 80,
+      "ayahArV1": "وَحَآجَّهُۥ قَوْمُهُۥ ۚ قَالَ أَتُحَـٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ ۚ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًٔا ۗ وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ",
+      "ayahArV2": "وحاجه قومه قال اتحاجوني في الله وقد هدان ولا اخاف ما تشركون به الا ان يشاء ربي شيئا وسع ربي كل شيء علما افلا تتذكرون",
+      "ayahEn": "And his people argued with him. He responded, “Are you arguing with me about Allah, while He has guided me? I am not afraid of whatever ˹idols˺ you associate with Him—˹none can harm me,˺ unless my Lord so wills. My Lord encompasses everything in ˹His˺ knowledge. Will you not be mindful?",
+      "meta": {
+        "page": 137,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 81,
+      "ayahArV1": "وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَـٰنًا ۚ فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayahArV2": "وكيف اخاف ما اشركتم ولا تخافون انكم اشركتم بالله ما لم ينزل به عليكم سلطانا فاي الفريقين احق بالامن ان كنتم تعلمون",
+      "ayahEn": "And how should I fear your associate-gods, while you have no fear in associating ˹others˺ with Allah—a practice He has never authorized? Which side has more right to security? ˹Tell me˺ if you really know!”",
+      "meta": {
+        "page": 137,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 82,
+      "ayahArV1": "ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَـٰنَهُم بِظُلْمٍ أُو۟لَـٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ",
+      "ayahArV2": "الذين امنوا ولم يلبسوا ايمانهم بظلم اولئك لهم الامن وهم مهتدون",
+      "ayahEn": "It is ˹only˺ those who are faithful and do not tarnish their faith with falsehood who are guaranteed security and are ˹rightly˺ guided.",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 83,
+      "ayahArV1": "وَتِلْكَ حُجَّتُنَآ ءَاتَيْنَـٰهَآ إِبْرَٰهِيمَ عَلَىٰ قَوْمِهِۦ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+      "ayahArV2": "وتلك حجتنا اتيناها ابراهيم على قومه نرفع درجات من نشاء ان ربك حكيم عليم",
+      "ayahEn": "This was the argument We gave Abraham against his people. We elevate in rank whoever We please. Surely your Lord is All-Wise, All-Knowing.",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 84,
+      "ayahArV1": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَـٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَـٰرُونَ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayahArV2": "ووهبنا له اسحاق ويعقوب كلا هدينا ونوحا هدينا من قبل ومن ذريته داوود وسليمان وايوب ويوسف وموسى وهارون وكذلك نجزي المحسنين",
+      "ayahEn": "And We blessed him with Isaac and Jacob. We guided them all as We previously guided Noah and those among his descendants: David, Solomon, Job, Joseph, Moses, and Aaron. This is how We reward the good-doers.",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 85,
+      "ayahArV1": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+      "ayahArV2": "وزكريا ويحيى وعيسى والياس كل من الصالحين",
+      "ayahEn": "Likewise, ˹We guided˺ Zachariah, John, Jesus, and Elias, who were all of the righteous.",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 86,
+      "ayahArV1": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
+      "ayahArV2": "واسماعيل واليسع ويونس ولوطا وكلا فضلنا على العالمين",
+      "ayahEn": "˹We also guided˺ Ishmael, Elisha, Jonah, and Lot, favouring each over other people ˹of their time˺.",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 87,
+      "ayahArV1": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّـٰتِهِمْ وَإِخْوَٰنِهِمْ ۖ وَٱجْتَبَيْنَـٰهُمْ وَهَدَيْنَـٰهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayahArV2": "ومن ابائهم وذرياتهم واخوانهم واجتبيناهم وهديناهم الى صراط مستقيم",
+      "ayahEn": "And ˹We favoured˺ some of their forefathers, their descendants, and their brothers. We chose them and guided them to the Straight Path.",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 88,
+      "ayahArV1": "ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَلَوْ أَشْرَكُوا۟ لَحَبِطَ عَنْهُم مَّا كَانُوا۟ يَعْمَلُونَ",
+      "ayahArV2": "ذلك هدى الله يهدي به من يشاء من عباده ولو اشركوا لحبط عنهم ما كانوا يعملون",
+      "ayahEn": "This is Allah’s guidance with which He guides whoever He wills of His servants. Had they associated others with Him ˹in worship˺, their ˹good˺ deeds would have been wasted.",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 89,
+      "ayahArV1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَـٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًا لَّيْسُوا۟ بِهَا بِكَـٰفِرِينَ",
+      "ayahArV2": "اولئك الذين اتيناهم الكتاب والحكم والنبوة فان يكفر بها هؤلاء فقد وكلنا بها قوما ليسوا بها بكافرين",
+      "ayahEn": "Those were the ones to whom We gave the Scripture, wisdom, and prophethood. But if these ˹pagans˺ disbelieve in this ˹message˺, then We have already entrusted it to a people who will never disbelieve in it.",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 90,
+      "ayahArV1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَـٰلَمِينَ",
+      "ayahArV2": "اولئك الذين هدى الله فبهداهم اقتده قل لا اسالكم عليه اجرا ان هو الا ذكرى للعالمين",
+      "ayahEn": "These ˹prophets˺ were ˹rightly˺ guided by Allah, so follow their guidance. Say, “I ask no reward of you for this ˹Quran˺—it is a reminder to the whole world.”",
+      "meta": {
+        "page": 138,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 91,
+      "ayahArV1": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَـٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ",
+      "ayahArV2": "وما قدروا الله حق قدره اذ قالوا ما انزل الله على بشر من شيء قل من انزل الكتاب الذي جاء به موسى نورا وهدى للناس تجعلونه قراطيس تبدونها وتخفون كثيرا وعلمتم ما لم تعلموا انتم ولا اباؤكم قل الله ثم ذرهم في خوضهم يلعبون",
+      "ayahEn": "And they have not shown Allah His proper reverence when they said, “Allah has revealed nothing to any human being.” Say, ˹O Prophet,˺ “Who then revealed the Book brought forth by Moses as a light and guidance for people, which you split into separate sheets—revealing some and hiding much? You have been taught ˹through this Quran˺ what neither you nor your forefathers knew.” Say, ˹O Prophet,˺ “Allah ˹revealed it˺!” Then leave them to amuse themselves with falsehood.",
+      "meta": {
+        "page": 139,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 92,
+      "ayahArV1": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ يُؤْمِنُونَ بِهِۦ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "ayahArV2": "وهذا كتاب انزلناه مبارك مصدق الذي بين يديه ولتنذر ام القرى ومن حولها والذين يؤمنون بالاخرة يؤمنون به وهم على صلاتهم يحافظون",
+      "ayahEn": "This is a blessed Book which We have revealed—confirming what came before it—so you may warn the Mother of Cities and everyone around it. Those who believe in the Hereafter ˹truly˺ believe in it and guard their prayers.",
+      "meta": {
+        "page": 139,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 93,
+      "ayahArV1": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَـٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَـٰتِهِۦ تَسْتَكْبِرُونَ",
+      "ayahArV2": "ومن اظلم ممن افترى على الله كذبا او قال اوحي الي ولم يوح اليه شيء ومن قال سانزل مثل ما انزل الله ولو ترى اذ الظالمون في غمرات الموت والملائكة باسطو ايديهم اخرجوا انفسكم اليوم تجزون عذاب الهون بما كنتم تقولون على الله غير الحق وكنتم عن اياته تستكبرون",
+      "ayahEn": "Who does more wrong than the one who fabricates lies against Allah or claims, “I have received revelations!”—although nothing was revealed to them—or the one who says, “I can reveal the like of Allah’s revelations!”? If you ˹O Prophet˺ could only see the wrongdoers in the throes of death while the angels are stretching out their hands ˹saying˺, “Give up your souls! Today you will be rewarded with the torment of disgrace for telling lies about Allah and for being arrogant towards His revelations!”",
+      "meta": {
+        "page": 139,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 94,
+      "ayahArV1": "وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَـٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَـٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَـٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ",
+      "ayahArV2": "ولقد جئتمونا فرادى كما خلقناكم اول مرة وتركتم ما خولناكم وراء ظهوركم وما نرى معكم شفعاءكم الذين زعمتم انهم فيكم شركاء لقد تقطع بينكم وضل عنكم ما كنتم تزعمون",
+      "ayahEn": "˹Today˺ you have come back to Us all alone as We created you the first time—leaving behind everything We have provided you with. We do not see your intercessors with you—those you claimed were Allah’s partners ˹in worship˺. All your ties have been broken and all your claims have let you down.”",
+      "meta": {
+        "page": 139,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 55,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 95,
+      "ayahArV1": "۞ إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۚ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+      "ayahArV2": "ان الله فالق الحب والنوى يخرج الحي من الميت ومخرج الميت من الحي ذلكم الله فانى تؤفكون",
+      "ayahEn": "Indeed, Allah is the One Who causes seeds and fruit stones to sprout. He brings forth the living from the dead and the dead from the living. That is Allah! How can you then be deluded ˹from the truth˺?",
+      "meta": {
+        "page": 140,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 96,
+      "ayahArV1": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayahArV2": "فالق الاصباح وجعل الليل سكنا والشمس والقمر حسبانا ذلك تقدير العزيز العليم",
+      "ayahEn": "He causes the dawn to break, and has made the night for rest and ˹made˺ the sun and the moon ˹to travel˺ with precision. That is the design of the Almighty, All-Knowing.",
+      "meta": {
+        "page": 140,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 97,
+      "ayahArV1": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهْتَدُوا۟ بِهَا فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "ayahArV2": "وهو الذي جعل لكم النجوم لتهتدوا بها في ظلمات البر والبحر قد فصلنا الايات لقوم يعلمون",
+      "ayahEn": "And He is the One Who has made the stars as your guide through the darkness of land and sea. We have already made the signs clear for people who know.",
+      "meta": {
+        "page": 140,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 98,
+      "ayahArV1": "وَهُوَ ٱلَّذِىٓ أَنشَأَكُم مِّن نَّفْسٍ وَٰحِدَةٍ فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَفْقَهُونَ",
+      "ayahArV2": "وهو الذي انشاكم من نفس واحدة فمستقر ومستودع قد فصلنا الايات لقوم يفقهون",
+      "ayahEn": "And He is the One Who originated you all from a single soul, then assigned you a place to live and another to ˹be laid to˺ rest. We have already made the signs clear for people who comprehend.",
+      "meta": {
+        "page": 140,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 99,
+      "ayahArV1": "وَهُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ نَبَاتَ كُلِّ شَىْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّـٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۗ ٱنظُرُوٓا۟ إِلَىٰ ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَيَنْعِهِۦٓ ۚ إِنَّ فِى ذَٰلِكُمْ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayahArV2": "وهو الذي انزل من السماء ماء فاخرجنا به نبات كل شيء فاخرجنا منه خضرا نخرج منه حبا متراكبا ومن النخل من طلعها قنوان دانية وجنات من اعناب والزيتون والرمان مشتبها وغير متشابه انظروا الى ثمره اذا اثمر وينعه ان في ذلكم لايات لقوم يؤمنون",
+      "ayahEn": "And He is the One Who sends down rain from the sky—causing all kinds of plants to grow—producing green stalks from which We bring forth clustered grain. And from palm trees come clusters of dates hanging within reach. ˹There are˺ also gardens of grapevines, olives, and pomegranates, similar ˹in shape˺ but dissimilar ˹in taste˺. Look at their fruit as it yields and ripens! Indeed, in these are signs for people who believe.",
+      "meta": {
+        "page": 140,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 100,
+      "ayahArV1": "وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ ٱلْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا۟ لَهُۥ بَنِينَ وَبَنَـٰتٍۭ بِغَيْرِ عِلْمٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَصِفُونَ",
+      "ayahArV2": "وجعلوا لله شركاء الجن وخلقهم وخرقوا له بنين وبنات بغير علم سبحانه وتعالى عما يصفون",
+      "ayahEn": "Yet they associate the jinn with Allah ˹in worship˺, even though He created them, and they falsely attribute to Him sons and daughters out of ignorance. Glorified and Exalted is He above what they claim!",
+      "meta": {
+        "page": 140,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 101,
+      "ayahArV1": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٌ وَلَمْ تَكُن لَّهُۥ صَـٰحِبَةٌ ۖ وَخَلَقَ كُلَّ شَىْءٍ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayahArV2": "بديع السماوات والارض انى يكون له ولد ولم تكن له صاحبة وخلق كل شيء وهو بكل شيء عليم",
+      "ayahEn": "˹He is˺ the Originator of the heavens and earth. How could He have children when He has no mate? He created all things and has ˹perfect˺ knowledge of everything.",
+      "meta": {
+        "page": 140,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 102,
+      "ayahArV1": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ خَـٰلِقُ كُلِّ شَىْءٍ فَٱعْبُدُوهُ ۚ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+      "ayahArV2": "ذلكم الله ربكم لا اله الا هو خالق كل شيء فاعبدوه وهو على كل شيء وكيل",
+      "ayahEn": "That is Allah—your Lord! There is no god ˹worthy of worship˺ except Him. ˹He is˺ the Creator of all things, so worship Him ˹alone˺. And He is the Maintainer of everything.",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 103,
+      "ayahArV1": "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+      "ayahArV2": "لا تدركه الابصار وهو يدرك الابصار وهو اللطيف الخبير",
+      "ayahEn": "No vision can encompass Him, but He encompasses all vision. For He is the Most Subtle, All-Aware.",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 104,
+      "ayahArV1": "قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍ",
+      "ayahArV2": "قد جاءكم بصائر من ربكم فمن ابصر فلنفسه ومن عمي فعليها وما انا عليكم بحفيظ",
+      "ayahEn": "Indeed, there have come to you insights from your Lord. So whoever chooses to see, it is for their own good. But whoever chooses to be blind, it is to their own loss. And I am not a keeper over you.",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 105,
+      "ayahArV1": "وَكَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍ يَعْلَمُونَ",
+      "ayahArV2": "وكذلك نصرف الايات وليقولوا درست ولنبينه لقوم يعلمون",
+      "ayahEn": "And so We vary our signs to the extent that they will say, “You have studied ˹previous scriptures˺,” and We make this ˹Quran˺ clear for people who know.",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 106,
+      "ayahArV1": "ٱتَّبِعْ مَآ أُوحِىَ إِلَيْكَ مِن رَّبِّكَ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ",
+      "ayahArV2": "اتبع ما اوحي اليك من ربك لا اله الا هو واعرض عن المشركين",
+      "ayahEn": "˹O Prophet!˺ Follow what is revealed to you from your Lord—there is no god ˹worthy of worship˺ except Him—and turn away from the polytheists.",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 107,
+      "ayahArV1": "وَلَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكُوا۟ ۗ وَمَا جَعَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ",
+      "ayahArV2": "ولو شاء الله ما اشركوا وما جعلناك عليهم حفيظا وما انت عليهم بوكيل",
+      "ayahEn": "Had Allah willed, they would not have been polytheists. We have not appointed you as their keeper, nor are you their maintainer.",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 108,
+      "ayahArV1": "وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayahArV2": "ولا تسبوا الذين يدعون من دون الله فيسبوا الله عدوا بغير علم كذلك زينا لكل امة عملهم ثم الى ربهم مرجعهم فينبئهم بما كانوا يعملون",
+      "ayahEn": "˹O believers!˺ Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance. This is how We have made each people’s deeds appealing to them. Then to their Lord is their return, and He will inform them of what they used to do.",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 109,
+      "ayahArV1": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ",
+      "ayahArV2": "واقسموا بالله جهد ايمانهم لئن جاءتهم اية ليؤمنن بها قل انما الايات عند الله وما يشعركم انها اذا جاءت لا يؤمنون",
+      "ayahEn": "They swear by Allah their most solemn oaths that if a sign were to come to them, they would certainly believe in it. Say, ˹O Prophet,˺ “Signs are only with Allah.” What will make you ˹believers˺ realize that even if a sign were to come to them, they still would not believe?",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 110,
+      "ayahArV1": "وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَـٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+      "ayahArV2": "ونقلب افئدتهم وابصارهم كما لم يؤمنوا به اول مرة ونذرهم في طغيانهم يعمهون",
+      "ayahEn": "We turn their hearts and eyes away ˹from the truth˺ as they refused to believe at first, leaving them to wander blindly in their defiance.",
+      "meta": {
+        "page": 141,
+        "juz": 7,
+        "hizb": 14,
+        "hizbQuarter": 56,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 111,
+      "ayahArV1": "۞ وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ ٱلْمَلَـٰٓئِكَةَ وَكَلَّمَهُمُ ٱلْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَىْءٍ قُبُلًا مَّا كَانُوا۟ لِيُؤْمِنُوٓا۟ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَـٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+      "ayahArV2": "ولو اننا نزلنا اليهم الملائكة وكلمهم الموتى وحشرنا عليهم كل شيء قبلا ما كانوا ليؤمنوا الا ان يشاء الله ولكن اكثرهم يجهلون",
+      "ayahEn": "Even if We had sent them the angels, made the dead speak to them, and assembled before their own eyes every sign ˹they demanded˺, they still would not have believed—unless Allah so willed. But most of them are ignorant ˹of this˺.",
+      "meta": {
+        "page": 142,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 112,
+      "ayahArV1": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيَـٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "ayahArV2": "وكذلك جعلنا لكل نبي عدوا شياطين الانس والجن يوحي بعضهم الى بعض زخرف القول غرورا ولو شاء ربك ما فعلوه فذرهم وما يفترون",
+      "ayahEn": "And so We have made for every prophet enemies—devilish humans and jinn—whispering to one another with elegant words of deception. Had it been your Lord’s Will, they would not have done such a thing. So leave them and their deceit",
+      "meta": {
+        "page": 142,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 113,
+      "ayahArV1": "وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ",
+      "ayahArV2": "ولتصغى اليه افئدة الذين لا يؤمنون بالاخرة وليرضوه وليقترفوا ما هم مقترفون",
+      "ayahEn": "so that the hearts of those who disbelieve in the Hereafter may be receptive to it, be pleased with it, and be persistent in their evil pursuits.",
+      "meta": {
+        "page": 142,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 114,
+      "ayahArV1": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَـٰبَ مُفَصَّلًا ۚ وَٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌ مِّن رَّبِّكَ بِٱلْحَقِّ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "ayahArV2": "افغير الله ابتغي حكما وهو الذي انزل اليكم الكتاب مفصلا والذين اتيناهم الكتاب يعلمون انه منزل من ربك بالحق فلا تكونن من الممترين",
+      "ayahEn": "˹Say, O  Prophet,˺ “Should I seek a judge other than Allah while He is the One Who has revealed for you the Book ˹with the truth˺ perfectly explained?” Those who were given the Scripture know that it has been revealed ˹to you˺ from your Lord in truth. So do not be one of those who doubt.",
+      "meta": {
+        "page": 142,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 115,
+      "ayahArV1": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayahArV2": "وتمت كلمت ربك صدقا وعدلا لا مبدل لكلماته وهو السميع العليم",
+      "ayahEn": "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All- Knowing.",
+      "meta": {
+        "page": 142,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 116,
+      "ayahArV1": "وَإِن تُطِعْ أَكْثَرَ مَن فِى ٱلْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+      "ayahArV2": "وان تطع اكثر من في الارض يضلوك عن سبيل الله ان يتبعون الا الظن وان هم الا يخرصون",
+      "ayahEn": "˹O Prophet!˺ If you were to obey most of those on earth, they would lead you away from Allah’s Way. They follow nothing but assumptions and do nothing but lie.",
+      "meta": {
+        "page": 142,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 117,
+      "ayahArV1": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "ayahArV2": "ان ربك هو اعلم من يضل عن سبيله وهو اعلم بالمهتدين",
+      "ayahEn": "Indeed, your Lord knows best who has strayed from His Way and who is ˹rightly˺ guided.",
+      "meta": {
+        "page": 142,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 118,
+      "ayahArV1": "فَكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ إِن كُنتُم بِـَٔايَـٰتِهِۦ مُؤْمِنِينَ",
+      "ayahArV2": "فكلوا مما ذكر اسم الله عليه ان كنتم باياته مؤمنين",
+      "ayahEn": "So eat only of what is slaughtered in Allah’s Name if you truly believe in His revelations.",
+      "meta": {
+        "page": 142,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 119,
+      "ayahArV1": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ ۗ وَإِنَّ كَثِيرًا لَّيُضِلُّونَ بِأَهْوَآئِهِم بِغَيْرِ عِلْمٍ ۗ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِٱلْمُعْتَدِينَ",
+      "ayahArV2": "وما لكم الا تاكلوا مما ذكر اسم الله عليه وقد فصل لكم ما حرم عليكم الا ما اضطررتم اليه وان كثيرا ليضلون باهوائهم بغير علم ان ربك هو اعلم بالمعتدين",
+      "ayahEn": "Why should you not eat of what is slaughtered in Allah’s Name when He has already explained to you what He has forbidden to you—except when compelled by necessity? Many ˹deviants˺ certainly mislead others by their whims out of ignorance. Surely your Lord knows the transgressors best.",
+      "meta": {
+        "page": 143,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 120,
+      "ayahArV1": "وَذَرُوا۟ ظَـٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ ۚ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+      "ayahArV2": "وذروا ظاهر الاثم وباطنه ان الذين يكسبون الاثم سيجزون بما كانوا يقترفون",
+      "ayahEn": "Shun all sin—open and secret. Indeed, those who commit sin will be punished for what they earn.",
+      "meta": {
+        "page": 143,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 121,
+      "ayahArV1": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ ۗ وَإِنَّ ٱلشَّيَـٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَـٰدِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+      "ayahArV2": "ولا تاكلوا مما لم يذكر اسم الله عليه وانه لفسق وان الشياطين ليوحون الى اوليائهم ليجادلوكم وان اطعتموهم انكم لمشركون",
+      "ayahEn": "Do not eat of what is not slaughtered in Allah’s Name. For that would certainly be ˹an act of˺ disobedience. Surely the devils whisper to their ˹human˺ associates to argue with you. If you were to obey them, then you ˹too˺ would be polytheists.",
+      "meta": {
+        "page": 143,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 122,
+      "ayahArV1": "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَـٰهُ وَجَعَلْنَا لَهُۥ نُورًا يَمْشِى بِهِۦ فِى ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِى ٱلظُّلُمَـٰتِ لَيْسَ بِخَارِجٍ مِّنْهَا ۚ كَذَٰلِكَ زُيِّنَ لِلْكَـٰفِرِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayahArV2": "اومن كان ميتا فاحييناه وجعلنا له نورا يمشي به في الناس كمن مثله في الظلمات ليس بخارج منها كذلك زين للكافرين ما كانوا يعملون",
+      "ayahEn": "Can those who had been dead, to whom We gave life and a light with which they can walk among people, be compared to those in complete darkness from which they can never emerge? That is how the misdeeds of the disbelievers have been made appealing to them.",
+      "meta": {
+        "page": 143,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 123,
+      "ayahArV1": "وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَـٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ",
+      "ayahArV2": "وكذلك جعلنا في كل قرية اكابر مجرميها ليمكروا فيها وما يمكرون الا بانفسهم وما يشعرون",
+      "ayahEn": "And so We have placed in every society the most wicked to conspire in it. Yet they plot only against themselves, but they fail to perceive it.",
+      "meta": {
+        "page": 143,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 124,
+      "ayahArV1": "وَإِذَا جَآءَتْهُمْ ءَايَةٌ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ",
+      "ayahArV2": "واذا جاءتهم اية قالوا لن نؤمن حتى نؤتى مثل ما اوتي رسل الله الله اعلم حيث يجعل رسالته سيصيب الذين اجرموا صغار عند الله وعذاب شديد بما كانوا يمكرون",
+      "ayahEn": "Whenever a sign comes to them, they say, “We will never believe until we receive what Allah’s messengers received.” Allah knows best where to place His message. The wicked will soon be overwhelmed by humiliation from Allah and a severe punishment for their evil plots.",
+      "meta": {
+        "page": 143,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 125,
+      "ayahArV1": "فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ",
+      "ayahArV2": "فمن يرد الله ان يهديه يشرح صدره للاسلام ومن يرد ان يضله يجعل صدره ضيقا حرجا كانما يصعد في السماء كذلك يجعل الله الرجس على الذين لا يؤمنون",
+      "ayahEn": "Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky. This is how Allah dooms those who disbelieve.",
+      "meta": {
+        "page": 144,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 126,
+      "ayahArV1": "وَهَـٰذَا صِرَٰطُ رَبِّكَ مُسْتَقِيمًا ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَذَّكَّرُونَ",
+      "ayahArV2": "وهذا صراط ربك مستقيما قد فصلنا الايات لقوم يذكرون",
+      "ayahEn": "That is your Lord’s Path—perfectly straight. We have already made the signs clear to those who are mindful.",
+      "meta": {
+        "page": 144,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 57,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 127,
+      "ayahArV1": "۞ لَهُمْ دَارُ ٱلسَّلَـٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayahArV2": "لهم دار السلام عند ربهم وهو وليهم بما كانوا يعملون",
+      "ayahEn": "They will have the Home of Peace with their Lord, Who will be their Guardian because of what they used to do.",
+      "meta": {
+        "page": 144,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 128,
+      "ayahArV1": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا يَـٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَـٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+      "ayahArV2": "ويوم يحشرهم جميعا يا معشر الجن قد استكثرتم من الانس وقال اولياؤهم من الانس ربنا استمتع بعضنا ببعض وبلغنا اجلنا الذي اجلت لنا قال النار مثواكم خالدين فيها الا ما شاء الله ان ربك حكيم عليم",
+      "ayahEn": "˹Consider˺ the Day He will gather them ˹all˺ together and say, “O assembly of jinn! You misled humans in great numbers.” And their human associates will say, “Our Lord! We benefited from each other’s company, but now we have reached the term which You appointed for us.” ˹Then˺ He will say, “The Fire is your home, yours to stay in forever, except whoever Allah wills to spare.” Surely your Lord is All-Wise, All-Knowing.",
+      "meta": {
+        "page": 144,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 129,
+      "ayahArV1": "وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّـٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "ayahArV2": "وكذلك نولي بعض الظالمين بعضا بما كانوا يكسبون",
+      "ayahEn": "This is how We make the wrongdoers ˹destructive˺ allies of one another because of their misdeeds.",
+      "meta": {
+        "page": 144,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 130,
+      "ayahArV1": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَـٰفِرِينَ",
+      "ayahArV2": "يا معشر الجن والانس الم ياتكم رسل منكم يقصون عليكم اياتي وينذرونكم لقاء يومكم هذا قالوا شهدنا على انفسنا وغرتهم الحياة الدنيا وشهدوا على انفسهم انهم كانوا كافرين",
+      "ayahEn": "˹Allah will ask,˺ “O assembly of jinn and humans! Did messengers not come from among you, proclaiming My revelations and warning you of the coming of this Day of yours?” They will say, “We confess against ourselves!” For they have been deluded by ˹their˺ worldly life. And they will testify against themselves that they were disbelievers.",
+      "meta": {
+        "page": 144,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 131,
+      "ayahArV1": "ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَـٰفِلُونَ",
+      "ayahArV2": "ذلك ان لم يكن ربك مهلك القرى بظلم واهلها غافلون",
+      "ayahEn": "This ˹sending of the messengers˺ is because your Lord would never destroy a society for their wrongdoing while its people are unaware ˹of the truth˺.",
+      "meta": {
+        "page": 144,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 132,
+      "ayahArV1": "وَلِكُلٍّ دَرَجَـٰتٌ مِّمَّا عَمِلُوا۟ ۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا يَعْمَلُونَ",
+      "ayahArV2": "ولكل درجات مما عملوا وما ربك بغافل عما يعملون",
+      "ayahEn": "They will each be assigned ranks according to their deeds. And your Lord is not unaware of what they do.",
+      "meta": {
+        "page": 145,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 133,
+      "ayahArV1": "وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ",
+      "ayahArV2": "وربك الغني ذو الرحمة ان يشا يذهبكم ويستخلف من بعدكم ما يشاء كما انشاكم من ذرية قوم اخرين",
+      "ayahEn": "Your Lord is the Self-Sufficient, Full of Mercy. If He wills, He can do away with you and replace you with whoever He wills, just as He produced you from the offspring of other people.",
+      "meta": {
+        "page": 145,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 134,
+      "ayahArV1": "إِنَّ مَا تُوعَدُونَ لَـَٔاتٍ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+      "ayahArV2": "ان ما توعدون لات وما انتم بمعجزين",
+      "ayahEn": "Indeed, what you have been promised will certainly come to pass. And you will have no escape.",
+      "meta": {
+        "page": 145,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 135,
+      "ayahArV1": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُۥ عَـٰقِبَةُ ٱلدَّارِ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+      "ayahArV2": "قل يا قوم اعملوا على مكانتكم اني عامل فسوف تعلمون من تكون له عاقبة الدار انه لا يفلح الظالمون",
+      "ayahEn": "Say, ˹O Prophet,˺ “O my people! Persist in your ways, for I ˹too˺ will persist in mine. You will soon know who will fare best in the end. Indeed, the wrongdoers will never succeed.”",
+      "meta": {
+        "page": 145,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 136,
+      "ayahArV1": "وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَـٰمِ نَصِيبًا فَقَالُوا۟ هَـٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَـٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ",
+      "ayahArV2": "وجعلوا لله مما ذرا من الحرث والانعام نصيبا فقالوا هذا لله بزعمهم وهذا لشركائنا فما كان لشركائهم فلا يصل الى الله وما كان لله فهو يصل الى شركائهم ساء ما يحكمون",
+      "ayahEn": "The pagans set aside for Allah a share of the crops and cattle He created, saying, “This ˹portion˺ is for Allah,” so they claim, “and this ˹one˺ for our associate-gods.” Yet the portion of their associate-gods is not shared with Allah while Allah’s portion is shared with their associate-gods. What unfair judgment!",
+      "meta": {
+        "page": 145,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 137,
+      "ayahArV1": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَـٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "ayahArV2": "وكذلك زين لكثير من المشركين قتل اولادهم شركاؤهم ليردوهم وليلبسوا عليهم دينهم ولو شاء الله ما فعلوه فذرهم وما يفترون",
+      "ayahEn": "Likewise, the pagans’ evil associates have made it appealing to them to kill their own children—only leading to their destruction as well as confusion in their faith. Had it been Allah’s Will, they would not have done such a thing. So leave them and their falsehood.",
+      "meta": {
+        "page": 145,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 138,
+      "ayahArV1": "وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ",
+      "ayahArV2": "وقالوا هذه انعام وحرث حجر لا يطعمها الا من نشاء بزعمهم وانعام حرمت ظهورها وانعام لا يذكرون اسم الله عليها افتراء عليه سيجزيهم بما كانوا يفترون",
+      "ayahEn": "They say, “These cattle and crops are reserved—none may eat them except those we permit,” so they claim. Some other cattle are exempted from labour and others are not slaughtered in Allah’s Name—falsely attributing lies to Him. He will repay them for their lies.",
+      "meta": {
+        "page": 146,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 139,
+      "ayahArV1": "وَقَالُوا۟ مَا فِى بُطُونِ هَـٰذِهِ ٱلْأَنْعَـٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+      "ayahArV2": "وقالوا ما في بطون هذه الانعام خالصة لذكورنا ومحرم على ازواجنا وان يكن ميتة فهم فيه شركاء سيجزيهم وصفهم انه حكيم عليم",
+      "ayahEn": "They ˹also˺ say, “The offspring of this cattle is reserved for our males and forbidden to our females; but if it is stillborn, they may all share it.” He will repay them for their falsehood. Surely He is All-Wise, All-Knowing.",
+      "meta": {
+        "page": 146,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 140,
+      "ayahArV1": "قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَـٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ ۚ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ",
+      "ayahArV2": "قد خسر الذين قتلوا اولادهم سفها بغير علم وحرموا ما رزقهم الله افتراء على الله قد ضلوا وما كانوا مهتدين",
+      "ayahEn": "Lost indeed are those who have murdered their own children foolishly out of ignorance and have forbidden what Allah has provided for them—falsely attributing lies to Allah. They have certainly strayed and are not ˹rightly˺ guided.",
+      "meta": {
+        "page": 146,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 58,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 141,
+      "ayahArV1": "۞ وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّـٰتٍ مَّعْرُوشَـٰتٍ وَغَيْرَ مَعْرُوشَـٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَـٰبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۚ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ ۖ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayahArV2": "وهو الذي انشا جنات معروشات وغير معروشات والنخل والزرع مختلفا اكله والزيتون والرمان متشابها وغير متشابه كلوا من ثمره اذا اثمر واتوا حقه يوم حصاده ولا تسرفوا انه لا يحب المسرفين",
+      "ayahEn": "He is the One Who produces gardens—both cultivated and wild—and palm trees, crops of different flavours, olives, and pomegranates—similar ˹in shape˺, but dissimilar ˹in taste˺. Eat of the fruit they bear and pay the dues at harvest, but do not waste. Surely He does not like the wasteful.",
+      "meta": {
+        "page": 146,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 142,
+      "ayahArV1": "وَمِنَ ٱلْأَنْعَـٰمِ حَمُولَةً وَفَرْشًا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "ayahArV2": "ومن الانعام حمولة وفرشا كلوا مما رزقكم الله ولا تتبعوا خطوات الشيطان انه لكم عدو مبين",
+      "ayahEn": "Some cattle are fit for labour, others are too small. Eat of what Allah has provided for you and do not follow Satan’s footsteps. Certainly, he is your sworn enemy.",
+      "meta": {
+        "page": 146,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 143,
+      "ayahArV1": "ثَمَـٰنِيَةَ أَزْوَٰجٍ ۖ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ",
+      "ayahArV2": "ثمانية ازواج من الضان اثنين ومن المعز اثنين قل الذكرين حرم ام الانثيين اما اشتملت عليه ارحام الانثيين نبئوني بعلم ان كنتم صادقين",
+      "ayahEn": "˹Allah has created˺ four pairs: a pair of sheep and a pair of goats—ask ˹them, O  Prophet˺, “Has He forbidden ˹to you˺ the two males or the two females or what is in the wombs of the two females? Tell me with knowledge, if what you say is true.”—",
+      "meta": {
+        "page": 147,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 144,
+      "ayahArV1": "وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَـٰذَا ۚ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "ayahArV2": "ومن الابل اثنين ومن البقر اثنين قل الذكرين حرم ام الانثيين اما اشتملت عليه ارحام الانثيين ام كنتم شهداء اذ وصاكم الله بهذا فمن اظلم ممن افترى على الله كذبا ليضل الناس بغير علم ان الله لا يهدي القوم الظالمين",
+      "ayahEn": "and a pair of camels and a pair of oxen. Ask ˹them˺, “Has He forbidden ˹to you˺ the two males or the two females or what is in the wombs of the two females? Or were you present when Allah gave you this commandment?” Who does more wrong than those who fabricate lies against Allah to mislead others without ˹any˺ knowledge? Surely Allah does not guide the wrongdoing people.",
+      "meta": {
+        "page": 147,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 145,
+      "ayahArV1": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+      "ayahArV2": "قل لا اجد في ما اوحي الي محرما على طاعم يطعمه الا ان يكون ميتة او دما مسفوحا او لحم خنزير فانه رجس او فسقا اهل لغير الله به فمن اضطر غير باغ ولا عاد فان ربك غفور رحيم",
+      "ayahEn": "Say, ˹O Prophet,˺ “I do not find in what has been revealed to me anything forbidden to eat except carrion, running blood, swine—which is impure—or a sinful offering in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—then surely your Lord is All-Forgiving, Most Merciful.”",
+      "meta": {
+        "page": 147,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 146,
+      "ayahArV1": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ۚ ذَٰلِكَ جَزَيْنَـٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَـٰدِقُونَ",
+      "ayahArV2": "وعلى الذين هادوا حرمنا كل ذي ظفر ومن البقر والغنم حرمنا عليهم شحومهما الا ما حملت ظهورهما او الحوايا او ما اختلط بعظم ذلك جزيناهم ببغيهم وانا لصادقون",
+      "ayahEn": "For those who are Jewish, We forbade every animal with undivided hoofs and the fat of oxen and sheep except what is joined to their backs or intestines or mixed with bone. In this way We rewarded them for their violations. And We are certainly truthful.",
+      "meta": {
+        "page": 147,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 147,
+      "ayahArV1": "فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍ وَٰسِعَةٍ وَلَا يُرَدُّ بَأْسُهُۥ عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+      "ayahArV2": "فان كذبوك فقل ربكم ذو رحمة واسعة ولا يرد باسه عن القوم المجرمين",
+      "ayahEn": "But if they deny you ˹O Prophet˺, say, “Your Lord is infinite in mercy, yet His punishment will not be averted from the wicked people.”",
+      "meta": {
+        "page": 148,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 148,
+      "ayahArV1": "سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ",
+      "ayahArV2": "سيقول الذين اشركوا لو شاء الله ما اشركنا ولا اباؤنا ولا حرمنا من شيء كذلك كذب الذين من قبلهم حتى ذاقوا باسنا قل هل عندكم من علم فتخرجوه لنا ان تتبعون الا الظن وان انتم الا تخرصون",
+      "ayahEn": "The polytheists will argue, “Had it been Allah’s Will, neither we nor our forefathers would have associated others with Him ˹in worship˺ or made anything unlawful.” Likewise, those before them rejected the truth until they tasted Our punishment. Ask ˹them, O  Prophet˺, “Do you have any knowledge that you can produce for us? Surely you follow nothing but ˹false˺ assumptions and you do nothing but lie.”",
+      "meta": {
+        "page": 148,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 149,
+      "ayahArV1": "قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَـٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ",
+      "ayahArV2": "قل فلله الحجة البالغة فلو شاء لهداكم اجمعين",
+      "ayahEn": "Say, “Allah has the most conclusive argument. Had it been His Will, He would have easily imposed guidance upon all of you.”",
+      "meta": {
+        "page": 148,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 150,
+      "ayahArV1": "قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَـٰذَا ۖ فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ",
+      "ayahArV2": "قل هلم شهداءكم الذين يشهدون ان الله حرم هذا فان شهدوا فلا تشهد معهم ولا تتبع اهواء الذين كذبوا باياتنا والذين لا يؤمنون بالاخرة وهم بربهم يعدلون",
+      "ayahEn": "Say, ˹O Prophet,˺ “Bring your witnesses who can testify that Allah has forbidden this.” If they ˹falsely˺ testify, do not testify with them. And do not follow the desires of those who deny Our proofs, disbelieve in the Hereafter, and set up equals with their Lord.",
+      "meta": {
+        "page": 148,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 59,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 151,
+      "ayahArV1": "۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayahArV2": "قل تعالوا اتل ما حرم ربكم عليكم الا تشركوا به شيئا وبالوالدين احسانا ولا تقتلوا اولادكم من املاق نحن نرزقكم واياهم ولا تقربوا الفواحش ما ظهر منها وما بطن ولا تقتلوا النفس التي حرم الله الا بالحق ذلكم وصاكم به لعلكم تعقلون",
+      "ayahEn": "Say, ˹O Prophet,˺ “Come! Let me recite to you what your Lord has forbidden to you: do not associate others with Him ˹in worship˺. ˹Do not fail to˺ honour your parents. Do not kill your children for fear of poverty. We provide for you and for them. Do not come near indecencies, openly or secretly. Do not take a ˹human˺ life—made sacred by Allah—except with ˹legal˺ right. This is what He has commanded you, so perhaps you will understand.",
+      "meta": {
+        "page": 148,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 152,
+      "ayahArV1": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ ۖ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayahArV2": "ولا تقربوا مال اليتيم الا بالتي هي احسن حتى يبلغ اشده واوفوا الكيل والميزان بالقسط لا نكلف نفسا الا وسعها واذا قلتم فاعدلوا ولو كان ذا قربى وبعهد الله اوفوا ذلكم وصاكم به لعلكم تذكرون",
+      "ayahEn": "And do not come near the wealth of the orphan—unless intending to enhance it—until they attain maturity. Give full measure and weigh with justice. We never require of any soul more than what it can afford. Whenever you speak, maintain justice—even regarding a close relative. And fulfil your covenant with Allah. This is what He has commanded you, so perhaps you will be mindful.",
+      "meta": {
+        "page": 149,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 153,
+      "ayahArV1": "وَأَنَّ هَـٰذَا صِرَٰطِى مُسْتَقِيمًا فَٱتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ",
+      "ayahArV2": "وان هذا صراطي مستقيما فاتبعوه ولا تتبعوا السبل فتفرق بكم عن سبيله ذلكم وصاكم به لعلكم تتقون",
+      "ayahEn": "Indeed, that is My Path—perfectly straight. So follow it and do not follow other ways, for they will lead you away from His Way. This is what He has commanded you, so perhaps you will be conscious ˹of Allah˺.”",
+      "meta": {
+        "page": 149,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 154,
+      "ayahArV1": "ثُمَّ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ وَتَفْصِيلًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لَّعَلَّهُم بِلِقَآءِ رَبِّهِمْ يُؤْمِنُونَ",
+      "ayahArV2": "ثم اتينا موسى الكتاب تماما على الذي احسن وتفصيلا لكل شيء وهدى ورحمة لعلهم بلقاء ربهم يؤمنون",
+      "ayahEn": "Additionally, We gave Moses the Scripture, completing the favour upon those who do good, detailing everything, and as a guide and a mercy, so perhaps they would be certain of the meeting with their Lord.",
+      "meta": {
+        "page": 149,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 155,
+      "ayahArV1": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayahArV2": "وهذا كتاب انزلناه مبارك فاتبعوه واتقوا لعلكم ترحمون",
+      "ayahEn": "This is a blessed Book We have revealed. So follow it and be mindful ˹of Allah˺, so you may be shown mercy.",
+      "meta": {
+        "page": 149,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 156,
+      "ayahArV1": "أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَـٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَـٰفِلِينَ",
+      "ayahArV2": "ان تقولوا انما انزل الكتاب على طائفتين من قبلنا وان كنا عن دراستهم لغافلين",
+      "ayahEn": "You ˹pagans˺ can no longer say, “Scriptures were only revealed to two groups before us and we were unaware of their teachings.”",
+      "meta": {
+        "page": 149,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 157,
+      "ayahArV1": "أَوْ تَقُولُوا۟ لَوْ أَنَّآ أُنزِلَ عَلَيْنَا ٱلْكِتَـٰبُ لَكُنَّآ أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَآءَكُم بَيِّنَةٌ مِّن رَّبِّكُمْ وَهُدًى وَرَحْمَةٌ ۚ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِـَٔايَـٰتِ ٱللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ ءَايَـٰتِنَا سُوٓءَ ٱلْعَذَابِ بِمَا كَانُوا۟ يَصْدِفُونَ",
+      "ayahArV2": "او تقولوا لو انا انزل علينا الكتاب لكنا اهدى منهم فقد جاءكم بينة من ربكم وهدى ورحمة فمن اظلم ممن كذب بايات الله وصدف عنها سنجزي الذين يصدفون عن اياتنا سوء العذاب بما كانوا يصدفون",
+      "ayahEn": "Nor can you say, “If only the Scriptures had been revealed to us, we would have been better guided than they.” Now there has come to you from your Lord a clear proof—a guide and mercy. Who then does more wrong than those who deny Allah’s revelations and turn away from them? We will reward those who turn away from Our revelations with a dreadful punishment for turning away.",
+      "meta": {
+        "page": 149,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 158,
+      "ayahArV1": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَـٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَـٰتِ رَبِّكَ ۗ يَوْمَ يَأْتِى بَعْضُ ءَايَـٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَـٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَـٰنِهَا خَيْرًا ۗ قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "ayahArV2": "هل ينظرون الا ان تاتيهم الملائكة او ياتي ربك او ياتي بعض ايات ربك يوم ياتي بعض ايات ربك لا ينفع نفسا ايمانها لم تكن امنت من قبل او كسبت في ايمانها خيرا قل انتظروا انا منتظرون",
+      "ayahEn": "Are they awaiting the coming of the angels, or your Lord ˹Himself˺, or some of your Lord’s ˹major˺ signs? On the Day your Lord’s signs arrive, belief will not benefit those who did not believe earlier or those who did no good through their faith. Say, “Keep waiting! We too are waiting.”",
+      "meta": {
+        "page": 150,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 159,
+      "ayahArV1": "إِنَّ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًا لَّسْتَ مِنْهُمْ فِى شَىْءٍ ۚ إِنَّمَآ أَمْرُهُمْ إِلَى ٱللَّهِ ثُمَّ يُنَبِّئُهُم بِمَا كَانُوا۟ يَفْعَلُونَ",
+      "ayahArV2": "ان الذين فرقوا دينهم وكانوا شيعا لست منهم في شيء انما امرهم الى الله ثم ينبئهم بما كانوا يفعلون",
+      "ayahEn": "Indeed, you ˹O Prophet˺ are not responsible whatsoever for those who have divided their faith and split into sects. Their judgment rests only with Allah. And He will inform them of what they used to do.",
+      "meta": {
+        "page": 150,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 160,
+      "ayahArV1": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+      "ayahArV2": "من جاء بالحسنة فله عشر امثالها ومن جاء بالسيئة فلا يجزى الا مثلها وهم لا يظلمون",
+      "ayahEn": "Whoever comes with a good deed will be rewarded tenfold. But whoever comes with a bad deed will be punished for only one. None will be wronged.",
+      "meta": {
+        "page": 150,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 161,
+      "ayahArV1": "قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ دِينًا قِيَمًا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+      "ayahArV2": "قل انني هداني ربي الى صراط مستقيم دينا قيما ملة ابراهيم حنيفا وما كان من المشركين",
+      "ayahEn": "Say, ˹O Prophet,˺ “Surely my Lord has guided me to the Straight Path, a perfect way, the faith of Abraham, the upright, who was not one of the polytheists.”",
+      "meta": {
+        "page": 150,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 162,
+      "ayahArV1": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "ayahArV2": "قل ان صلاتي ونسكي ومحياي ومماتي لله رب العالمين",
+      "ayahEn": "Say, “Surely my prayer, my worship, my life, and my death are all for Allah—Lord of all worlds.",
+      "meta": {
+        "page": 150,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 163,
+      "ayahArV1": "لَا شَرِيكَ لَهُۥ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا۠ أَوَّلُ ٱلْمُسْلِمِينَ",
+      "ayahArV2": "لا شريك له وبذلك امرت وانا اول المسلمين",
+      "ayahEn": "He has no partner. So I am commanded, and so I am the first to submit.”",
+      "meta": {
+        "page": 150,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 164,
+      "ayahArV1": "قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayahArV2": "قل اغير الله ابغي ربا وهو رب كل شيء ولا تكسب كل نفس الا عليها ولا تزر وازرة وزر اخرى ثم الى ربكم مرجعكم فينبئكم بما كنتم فيه تختلفون",
+      "ayahEn": "Say, ˹O Prophet,˺ “Should I seek a lord other than Allah while He is the Lord of everything?” No one will reap except what they sow. No soul burdened with sin will bear the burden of another. Then to your Lord is your return, and He will inform you of your differences.",
+      "meta": {
+        "page": 150,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 165,
+      "ayahArV1": "وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَـٰتٍ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۗ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌۢ",
+      "ayahArV2": "وهو الذي جعلكم خلائف الارض ورفع بعضكم فوق بعض درجات ليبلوكم في ما اتاكم ان ربك سريع العقاب وانه لغفور رحيم",
+      "ayahEn": "He is the One Who has placed you as successors on earth and elevated some of you in rank over others, so He may test you with what He has given you. Surely your Lord is swift in punishment, but He is certainly All-Forgiving, Most Merciful.",
+      "meta": {
+        "page": 150,
+        "juz": 8,
+        "hizb": 15,
+        "hizbQuarter": 60,
+        "sajda": false
+      }
+    }
+  ]
+}

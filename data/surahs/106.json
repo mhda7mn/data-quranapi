@@ -1,0 +1,62 @@
+{
+  "surahNo": 106,
+  "surahNameAr": "قريش",
+  "surahNameArabicLong": "سورة قريش",
+  "surahNameEn": "Quraish",
+  "revelationPlace": "Mecca",
+  "totalAyat": 4,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "لِإِيلَـٰفِ قُرَيْشٍ",
+      "ayahArV2": "لايلاف قريش",
+      "ayahEn": "˹At least˺ for ˹the favour of˺ making Quraysh habitually secure—",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "ayahArV2": "ايلافهم رحلة الشتاء والصيف",
+      "ayahEn": "secure in their trading caravan ˹to Yemen˺ in the winter and ˹Syria˺ in the summer—",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "ayahArV2": "فليعبدوا رب هذا البيت",
+      "ayahEn": "let them worship the Lord of this ˹Sacred˺ House",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "ayahArV2": "الذي اطعمهم من جوع وامنهم من خوف",
+      "ayahEn": "Who has fed them against hunger and made them secure against fear.",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

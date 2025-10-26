@@ -1,0 +1,153 @@
+{
+  "surahNo": 100,
+  "surahNameAr": "العاديات",
+  "surahNameArabicLong": "سورة العاديات",
+  "surahNameEn": "Al-Aadiyaat",
+  "revelationPlace": "Mecca",
+  "totalAyat": 11,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "ayahArV2": "والعاديات ضبحا",
+      "ayahEn": "’ By the galloping, panting horses",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "ayahArV2": "فالموريات قدحا",
+      "ayahEn": "striking sparks of fire ˹with their hoofs˺",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "ayahArV2": "فالمغيرات صبحا",
+      "ayahEn": "launching raids at dawn",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "ayahArV2": "فاثرن به نقعا",
+      "ayahEn": "stirring up ˹clouds of˺ dust",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "ayahArV2": "فوسطن به جمعا",
+      "ayahEn": "and penetrating into the heart of enemy lines!",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "ayahArV2": "ان الانسان لربه لكنود",
+      "ayahEn": "Surely humankind is ungrateful to their Lord—",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "ayahArV2": "وانه على ذلك لشهيد",
+      "ayahEn": "and they certainly attest to this—",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "ayahArV2": "وانه لحب الخير لشديد",
+      "ayahEn": "and they are truly extreme in their love of ˹worldly˺ gains.",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "ayahArV2": "افلا يعلم اذا بعثر ما في القبور",
+      "ayahEn": "Do they not know that when the contents of the graves will be spilled out",
+      "meta": {
+        "page": 599,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "ayahArV2": "وحصل ما في الصدور",
+      "ayahEn": "and the secrets of the hearts will be laid bare—",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "ayahArV2": "ان ربهم بهم يومئذ لخبير",
+      "ayahEn": "surely their Lord is All-Aware of them on that Day.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

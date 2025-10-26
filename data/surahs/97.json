@@ -1,0 +1,75 @@
+{
+  "surahNo": 97,
+  "surahNameAr": "القدر",
+  "surahNameArabicLong": "سورة القدر",
+  "surahNameEn": "Al-Qadr",
+  "revelationPlace": "Mecca",
+  "totalAyat": 5,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "ayahArV2": "انا انزلناه في ليلة القدر",
+      "ayahEn": "Indeed, ˹it is˺ We ˹Who˺ sent this ˹Quran˺ down on the Night of Glory.",
+      "meta": {
+        "page": 598,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "ayahArV2": "وما ادراك ما ليلة القدر",
+      "ayahEn": "And what will make you realize what the Night of Glory is?",
+      "meta": {
+        "page": 598,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "ayahArV2": "ليلة القدر خير من الف شهر",
+      "ayahEn": "The Night of Glory is better than a thousand months.",
+      "meta": {
+        "page": 598,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "ayahArV2": "تنزل الملائكة والروح فيها باذن ربهم من كل امر",
+      "ayahEn": "That night the angels and the ˹holy˺ spirit descend, by the permission of their Lord, for every ˹decreed˺ matter.",
+      "meta": {
+        "page": 598,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "ayahArV2": "سلام هي حتى مطلع الفجر",
+      "ayahEn": "It is all peace until the break of dawn.",
+      "meta": {
+        "page": 598,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    }
+  ]
+}

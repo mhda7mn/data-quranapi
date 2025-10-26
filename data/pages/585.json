@@ -1,0 +1,590 @@
+[
+  {
+    "surahNo": 80,
+    "ayahNo": 1,
+    "ayahArV1": "عَبَسَ وَتَوَلَّىٰٓ",
+    "ayahArV2": "عبس وتولى",
+    "ayahEn": "He frowned and turned ˹his attention˺ away",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 2,
+    "ayahArV1": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+    "ayahArV2": "ان جاءه الاعمى",
+    "ayahEn": "˹simply˺ because the blind man came to him ˹interrupting˺.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 3,
+    "ayahArV1": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+    "ayahArV2": "وما يدريك لعله يزكى",
+    "ayahEn": "You never know ˹O Prophet˺, perhaps he may be purified",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 4,
+    "ayahArV1": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+    "ayahArV2": "او يذكر فتنفعه الذكرى",
+    "ayahEn": "or he may be mindful, benefitting from the reminder.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 5,
+    "ayahArV1": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+    "ayahArV2": "اما من استغنى",
+    "ayahEn": "As for the one who was indifferent",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 6,
+    "ayahArV1": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+    "ayahArV2": "فانت له تصدى",
+    "ayahEn": "you gave him your ˹undivided˺ attention",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 7,
+    "ayahArV1": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+    "ayahArV2": "وما عليك الا يزكى",
+    "ayahEn": "even though you are not to blame if he would not be purified.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 8,
+    "ayahArV1": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+    "ayahArV2": "واما من جاءك يسعى",
+    "ayahEn": "But as for the one who came to you, eager ˹to learn˺",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 9,
+    "ayahArV1": "وَهُوَ يَخْشَىٰ",
+    "ayahArV2": "وهو يخشى",
+    "ayahEn": "being in awe ˹of Allah˺",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 10,
+    "ayahArV1": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+    "ayahArV2": "فانت عنه تلهى",
+    "ayahEn": "you were inattentive to him.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 11,
+    "ayahArV1": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+    "ayahArV2": "كلا انها تذكرة",
+    "ayahEn": "But no! This ˹revelation˺ is truly a reminder.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 12,
+    "ayahArV1": "فَمَن شَآءَ ذَكَرَهُۥ",
+    "ayahArV2": "فمن شاء ذكره",
+    "ayahEn": "So let whoever wills be mindful of it.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 13,
+    "ayahArV1": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+    "ayahArV2": "في صحف مكرمة",
+    "ayahEn": "It is ˹written˺ on pages held in honour—",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 14,
+    "ayahArV1": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+    "ayahArV2": "مرفوعة مطهرة",
+    "ayahEn": "highly esteemed, purified—",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 15,
+    "ayahArV1": "بِأَيْدِى سَفَرَةٍ",
+    "ayahArV2": "بايدي سفرة",
+    "ayahEn": "by the hands of angel-scribes",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 16,
+    "ayahArV1": "كِرَامٍۭ بَرَرَةٍ",
+    "ayahArV2": "كرام بررة",
+    "ayahEn": "honourable and virtuous.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 17,
+    "ayahArV1": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
+    "ayahArV2": "قتل الانسان ما اكفره",
+    "ayahEn": "Condemned are ˹disbelieving˺ humans! How ungrateful they are ˹to Allah˺!",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 18,
+    "ayahArV1": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+    "ayahArV2": "من اي شيء خلقه",
+    "ayahEn": "From what substance did He create them?",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 19,
+    "ayahArV1": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+    "ayahArV2": "من نطفة خلقه فقدره",
+    "ayahEn": "He created them from a sperm-drop, and ordained their development.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 20,
+    "ayahArV1": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+    "ayahArV2": "ثم السبيل يسره",
+    "ayahEn": "Then He makes the way easy for them",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 21,
+    "ayahArV1": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+    "ayahArV2": "ثم اماته فاقبره",
+    "ayahEn": "then causes them to die and be buried.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 22,
+    "ayahArV1": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+    "ayahArV2": "ثم اذا شاء انشره",
+    "ayahEn": "Then when He wills, He will resurrect them.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 23,
+    "ayahArV1": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+    "ayahArV2": "كلا لما يقض ما امره",
+    "ayahEn": "But no! They have failed to comply with what He ordered.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 24,
+    "ayahArV1": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
+    "ayahArV2": "فلينظر الانسان الى طعامه",
+    "ayahEn": "Let people then consider their food:",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 25,
+    "ayahArV1": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+    "ayahArV2": "انا صببنا الماء صبا",
+    "ayahEn": "how We pour down rain in abundance",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 26,
+    "ayahArV1": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+    "ayahArV2": "ثم شققنا الارض شقا",
+    "ayahEn": "and meticulously split the earth open ˹for sprouts˺",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 27,
+    "ayahArV1": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+    "ayahArV2": "فانبتنا فيها حبا",
+    "ayahEn": "causing grain to grow in it",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 28,
+    "ayahArV1": "وَعِنَبًا وَقَضْبًا",
+    "ayahArV2": "وعنبا وقضبا",
+    "ayahEn": "as well as grapes and greens",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 29,
+    "ayahArV1": "وَزَيْتُونًا وَنَخْلًا",
+    "ayahArV2": "وزيتونا ونخلا",
+    "ayahEn": "and olives and palm trees",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 30,
+    "ayahArV1": "وَحَدَآئِقَ غُلْبًا",
+    "ayahArV2": "وحدائق غلبا",
+    "ayahEn": "and dense orchards",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 31,
+    "ayahArV1": "وَفَـٰكِهَةً وَأَبًّا",
+    "ayahArV2": "وفاكهة وابا",
+    "ayahEn": "and fruit and fodder—",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 32,
+    "ayahArV1": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+    "ayahArV2": "متاعا لكم ولانعامكم",
+    "ayahEn": "all as ˹a means of˺ sustenance for you and your animals.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 33,
+    "ayahArV1": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+    "ayahArV2": "فاذا جاءت الصاخة",
+    "ayahEn": "Then, when the Deafening Blast comes to pass—",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 34,
+    "ayahArV1": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+    "ayahArV2": "يوم يفر المرء من اخيه",
+    "ayahEn": "on that Day every person will flee from their own siblings",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 35,
+    "ayahArV1": "وَأُمِّهِۦ وَأَبِيهِ",
+    "ayahArV2": "وامه وابيه",
+    "ayahEn": "and ˹even˺ their mother and father",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 36,
+    "ayahArV1": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
+    "ayahArV2": "وصاحبته وبنيه",
+    "ayahEn": "and ˹even˺ their spouse and children.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 37,
+    "ayahArV1": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+    "ayahArV2": "لكل امرئ منهم يومئذ شان يغنيه",
+    "ayahEn": "For then everyone will have enough concern of their own.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 38,
+    "ayahArV1": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+    "ayahArV2": "وجوه يومئذ مسفرة",
+    "ayahEn": "On that Day ˹some˺ faces will be bright",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 39,
+    "ayahArV1": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+    "ayahArV2": "ضاحكة مستبشرة",
+    "ayahEn": "laughing and rejoicing",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 40,
+    "ayahArV1": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+    "ayahArV2": "ووجوه يومئذ عليها غبرة",
+    "ayahEn": "while ˹other˺ faces will be dusty",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 41,
+    "ayahArV1": "تَرْهَقُهَا قَتَرَةٌ",
+    "ayahArV2": "ترهقها قترة",
+    "ayahEn": "cast in gloom—",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 80,
+    "ayahNo": 42,
+    "ayahArV1": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+    "ayahArV2": "اولئك هم الكفرة الفجرة",
+    "ayahEn": "those are the disbelievers, the ˹wicked˺ sinners.",
+    "meta": {
+      "page": 585,
+      "juz": 30,
+      "hizb": 59,
+      "hizbQuarter": 234,
+      "sajda": false
+    }
+  }
+]

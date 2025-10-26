@@ -1,0 +1,90 @@
+[
+  {
+    "surahNo": 22,
+    "ayahNo": 73,
+    "ayahArV1": "يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ ۚ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ ۖ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ",
+    "ayahArV2": "يا ايها الناس ضرب مثل فاستمعوا له ان الذين تدعون من دون الله لن يخلقوا ذبابا ولو اجتمعوا له وان يسلبهم الذباب شيئا لا يستنقذوه منه ضعف الطالب والمطلوب",
+    "ayahEn": "O humanity! A lesson is set forth, so listen to it ˹carefully˺: those ˹idols˺ you invoke besides Allah can never create ˹so much as˺ a fly, even if they ˹all˺ were to come together for that. And if a fly were to snatch anything away from them, they cannot ˹even˺ retrieve it from the fly. How powerless are those who invoke and those invoked!",
+    "meta": {
+      "page": 341,
+      "juz": 17,
+      "hizb": 34,
+      "hizbQuarter": 136,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 22,
+    "ayahNo": 74,
+    "ayahArV1": "مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ",
+    "ayahArV2": "ما قدروا الله حق قدره ان الله لقوي عزيز",
+    "ayahEn": "They have not shown Allah the reverence He deserves. Surely Allah is All-Powerful, Almighty.",
+    "meta": {
+      "page": 341,
+      "juz": 17,
+      "hizb": 34,
+      "hizbQuarter": 136,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 22,
+    "ayahNo": 75,
+    "ayahArV1": "ٱللَّهُ يَصْطَفِى مِنَ ٱلْمَلَـٰٓئِكَةِ رُسُلًا وَمِنَ ٱلنَّاسِ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+    "ayahArV2": "الله يصطفي من الملائكة رسلا ومن الناس ان الله سميع بصير",
+    "ayahEn": "Allah selects messengers from both angels and people, for Allah is truly All-Hearing, All-Seeing.",
+    "meta": {
+      "page": 341,
+      "juz": 17,
+      "hizb": 34,
+      "hizbQuarter": 136,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 22,
+    "ayahNo": 76,
+    "ayahArV1": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+    "ayahArV2": "يعلم ما بين ايديهم وما خلفهم والى الله ترجع الامور",
+    "ayahEn": "He knows what is ahead of them and what is behind them. And to Allah ˹all˺ matters will be returned ˹for judgment˺.",
+    "meta": {
+      "page": 341,
+      "juz": 17,
+      "hizb": 34,
+      "hizbQuarter": 136,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 22,
+    "ayahNo": 77,
+    "ayahArV1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩",
+    "ayahArV2": "يا ايها الذين امنوا اركعوا واسجدوا واعبدوا ربكم وافعلوا الخير لعلكم تفلحون",
+    "ayahEn": "O believers! Bow down, prostrate yourselves, worship your Lord, and do ˹what is˺ good so that you may be successful.",
+    "meta": {
+      "page": 341,
+      "juz": 17,
+      "hizb": 34,
+      "hizbQuarter": 136,
+      "sajda": {
+        "id": 7,
+        "recommended": true,
+        "obligatory": false
+      }
+    }
+  },
+  {
+    "surahNo": 22,
+    "ayahNo": 78,
+    "ayahArV1": "وَجَـٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ ۚ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ ۚ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَـٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ ۚ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ ۖ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+    "ayahArV2": "وجاهدوا في الله حق جهاده هو اجتباكم وما جعل عليكم في الدين من حرج ملة ابيكم ابراهيم هو سماكم المسلمين من قبل وفي هذا ليكون الرسول شهيدا عليكم وتكونوا شهداء على الناس فاقيموا الصلاة واتوا الزكاة واعتصموا بالله هو مولاكم فنعم المولى ونعم النصير",
+    "ayahEn": "Strive for ˹the cause of˺ Allah in the way He deserves, for ˹it is˺ He ˹Who˺ has chosen you, and laid upon you no hardship in the religion—the way of your forefather Abraham. ˹It is Allah˺ Who named you ‘the ones who submit’ ˹in the˺ earlier ˹Scriptures˺ and in this ˹Quran˺, so that the Messenger may be a witness over you, and that you may be witnesses over humanity. So establish prayer, pay alms-tax, and hold fast to Allah. He ˹alone˺ is your Guardian. What an excellent Guardian, and what an excellent Helper!",
+    "meta": {
+      "page": 341,
+      "juz": 17,
+      "hizb": 34,
+      "hizbQuarter": 136,
+      "sajda": false
+    }
+  }
+]

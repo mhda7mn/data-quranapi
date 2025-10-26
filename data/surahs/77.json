@@ -1,0 +1,660 @@
+{
+  "surahNo": 77,
+  "surahNameAr": "المرسلات",
+  "surahNameArabicLong": "سورة المرسلات",
+  "surahNameEn": "Al-Mursalaat",
+  "revelationPlace": "Mecca",
+  "totalAyat": 50,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+      "ayahArV2": "والمرسلات عرفا",
+      "ayahEn": "By those ˹winds˺ sent forth successively",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+      "ayahArV2": "فالعاصفات عصفا",
+      "ayahEn": "and those blowing violently",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+      "ayahArV2": "والناشرات نشرا",
+      "ayahEn": "and those scattering ˹rainclouds˺ widely!",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+      "ayahArV2": "فالفارقات فرقا",
+      "ayahEn": "And ˹by˺ those ˹angels˺ fully distinguishing ˹truth from falsehood˺",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+      "ayahArV2": "فالملقيات ذكرا",
+      "ayahEn": "and those delivering revelation",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "عُذْرًا أَوْ نُذْرًا",
+      "ayahArV2": "عذرا او نذرا",
+      "ayahEn": "ending excuses and giving warnings.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "ayahArV2": "انما توعدون لواقع",
+      "ayahEn": "Surely, what you are promised will come to pass.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "ayahArV2": "فاذا النجوم طمست",
+      "ayahEn": "So when the stars are put out",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "ayahArV2": "واذا السماء فرجت",
+      "ayahEn": "and the sky is torn apart",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "ayahArV2": "واذا الجبال نسفت",
+      "ayahEn": "and the mountains are blown away",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "ayahArV2": "واذا الرسل اقتت",
+      "ayahEn": "and the messengers’ time ˹to testify˺ comes up—",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "ayahArV2": "لاي يوم اجلت",
+      "ayahEn": "for which Day has all this been set?",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "لِيَوْمِ ٱلْفَصْلِ",
+      "ayahArV2": "ليوم الفصل",
+      "ayahEn": "For the Day of ˹Final˺ Decision!",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "ayahArV2": "وما ادراك ما يوم الفصل",
+      "ayahEn": "And what will make you realize what the Day of Decision is?",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "ayahArV2": "الم نهلك الاولين",
+      "ayahEn": "Did We not destroy earlier disbelievers?",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+      "ayahArV2": "ثم نتبعهم الاخرين",
+      "ayahEn": "And We will make the later disbelievers follow them.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "ayahArV2": "كذلك نفعل بالمجرمين",
+      "ayahEn": "This is how We deal with the wicked.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "ayahArV2": "الم نخلقكم من ماء مهين",
+      "ayahEn": "Did We not create you from a humble fluid",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "ayahArV2": "فجعلناه في قرار مكين",
+      "ayahEn": "placing it in a secure place",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "ayahArV2": "الى قدر معلوم",
+      "ayahEn": "until an appointed time?",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+      "ayahArV2": "فقدرنا فنعم القادرون",
+      "ayahEn": "We ˹perfectly˺ ordained ˹its development˺. How excellent are We in doing so!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "ayahArV2": "الم نجعل الارض كفاتا",
+      "ayahEn": "Have We not made the earth a lodging",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "أَحْيَآءً وَأَمْوَٰتًا",
+      "ayahArV2": "احياء وامواتا",
+      "ayahEn": "for the living and the dead",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+      "ayahArV2": "وجعلنا فيها رواسي شامخات واسقيناكم ماء فراتا",
+      "ayahEn": "and placed upon it towering, firm mountains, and given you fresh water to drink?",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "ayahArV2": "انطلقوا الى ما كنتم به تكذبون",
+      "ayahEn": "˹The disbelievers will be told,˺ “Proceed into that ˹Fire˺ which you used to deny!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+      "ayahArV2": "انطلقوا الى ظل ذي ثلاث شعب",
+      "ayahEn": "Proceed into the shade ˹of smoke˺ which rises in three columns",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 31,
+      "ayahArV1": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "ayahArV2": "لا ظليل ولا يغني من اللهب",
+      "ayahEn": "providing neither coolness nor shelter from the flames.",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 32,
+      "ayahArV1": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "ayahArV2": "انها ترمي بشرر كالقصر",
+      "ayahEn": "Indeed, it hurls sparks ˹as big˺ as huge castles",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 33,
+      "ayahArV1": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+      "ayahArV2": "كانه جمالت صفر",
+      "ayahEn": "and ˹as dark˺ as black camels.”",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 34,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 35,
+      "ayahArV1": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "ayahArV2": "هذا يوم لا ينطقون",
+      "ayahEn": "On that Day they will not ˹be in a position to˺ speak",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 36,
+      "ayahArV1": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "ayahArV2": "ولا يؤذن لهم فيعتذرون",
+      "ayahEn": "nor will they be permitted to offer excuses.",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 37,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 38,
+      "ayahArV1": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+      "ayahArV2": "هذا يوم الفصل جمعناكم والاولين",
+      "ayahEn": "˹They will be told by Allah,˺ “This is the Day of ˹Final˺ Decision: We have gathered you along with earlier disbelievers ˹for punishment˺.",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 39,
+      "ayahArV1": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "ayahArV2": "فان كان لكم كيد فكيدون",
+      "ayahEn": "So if you have a scheme ˹to save yourselves˺, then use it against Me.”",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 40,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 41,
+      "ayahArV1": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+      "ayahArV2": "ان المتقين في ظلال وعيون",
+      "ayahEn": "Indeed, the righteous will be amid ˹cool˺ shade and springs",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 42,
+      "ayahArV1": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "ayahArV2": "وفواكه مما يشتهون",
+      "ayahEn": "and any fruit they desire.",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 43,
+      "ayahArV1": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayahArV2": "كلوا واشربوا هنيئا بما كنتم تعملون",
+      "ayahEn": "˹They will be told,˺ “Eat and drink happily for what you used to do.”",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 44,
+      "ayahArV1": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayahArV2": "انا كذلك نجزي المحسنين",
+      "ayahEn": "Surely this is how We reward the good-doers.",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 45,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "˹But˺ woe on that Day to the deniers!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 46,
+      "ayahArV1": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "ayahArV2": "كلوا وتمتعوا قليلا انكم مجرمون",
+      "ayahEn": "“Eat and enjoy yourselves for a little while, ˹for˺ you are truly wicked.”",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 47,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 48,
+      "ayahArV1": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "ayahArV2": "واذا قيل لهم اركعوا لا يركعون",
+      "ayahEn": "When it is said to them, “Bow down ˹before Allah,” they do not bow.",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 49,
+      "ayahArV1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "ayahArV2": "ويل يومئذ للمكذبين",
+      "ayahEn": "Woe on that Day to the deniers!",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 50,
+      "ayahArV1": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "ayahArV2": "فباي حديث بعده يؤمنون",
+      "ayahEn": "So what message after this ˹Quran˺ would they believe in?",
+      "meta": {
+        "page": 581,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    }
+  ]
+}

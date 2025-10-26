@@ -1,0 +1,75 @@
+{
+  "surahNo": 111,
+  "surahNameAr": "المسد",
+  "surahNameArabicLong": "سورة المسد",
+  "surahNameEn": "Al-Masad",
+  "revelationPlace": "Mecca",
+  "totalAyat": 5,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "ayahArV2": "تبت يدا ابي لهب وتب",
+      "ayahEn": "May the hands of Abu Lahab perish, and he ˹himself˺ perish!",
+      "meta": {
+        "page": 603,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "ayahArV2": "ما اغنى عنه ماله وما كسب",
+      "ayahEn": "Neither his wealth nor ˹worldly˺ gains will benefit him.",
+      "meta": {
+        "page": 603,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "ayahArV2": "سيصلى نارا ذات لهب",
+      "ayahEn": "He will burn in a flaming Fire",
+      "meta": {
+        "page": 603,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "ayahArV2": "وامراته حمالة الحطب",
+      "ayahEn": "and ˹so will˺ his wife, the carrier of ˹thorny˺ kindling",
+      "meta": {
+        "page": 603,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "ayahArV2": "في جيدها حبل من مسد",
+      "ayahEn": "around her neck will be a rope of palm-fibre.",
+      "meta": {
+        "page": 603,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

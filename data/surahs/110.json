@@ -1,0 +1,49 @@
+{
+  "surahNo": 110,
+  "surahNameAr": "النصر",
+  "surahNameArabicLong": "سورة النصر",
+  "surahNameEn": "An-Nasr",
+  "revelationPlace": "Madina",
+  "totalAyat": 3,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "ayahArV2": "اذا جاء نصر الله والفتح",
+      "ayahEn": "When Allah’s ˹ultimate˺ help comes and the victory ˹over Mecca is achieved˺",
+      "meta": {
+        "page": 603,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "ayahArV2": "ورايت الناس يدخلون في دين الله افواجا",
+      "ayahEn": "and you ˹O Prophet˺ see the people embracing Allah’s Way in crowds",
+      "meta": {
+        "page": 603,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "ayahArV2": "فسبح بحمد ربك واستغفره انه كان توابا",
+      "ayahEn": "then glorify the praises of your Lord and seek His forgiveness, for certainly He is ever Accepting of Repentance.",
+      "meta": {
+        "page": 603,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

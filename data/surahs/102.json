@@ -1,0 +1,114 @@
+{
+  "surahNo": 102,
+  "surahNameAr": "التكاثر",
+  "surahNameArabicLong": "سورة التكاثر",
+  "surahNameEn": "At-Takaathur",
+  "revelationPlace": "Mecca",
+  "totalAyat": 8,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "ayahArV2": "الهاكم التكاثر",
+      "ayahEn": "Competition for more ˹gains˺ diverts you ˹from Allah˺",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "ayahArV2": "حتى زرتم المقابر",
+      "ayahEn": "until you end up in ˹your˺ graves.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "ayahArV2": "كلا سوف تعلمون",
+      "ayahEn": "But no! You will soon come to know.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "ayahArV2": "ثم كلا سوف تعلمون",
+      "ayahEn": "Again, no! You will soon come to know.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "ayahArV2": "كلا لو تعلمون علم اليقين",
+      "ayahEn": "Indeed, if you were to know ˹your fate˺ with certainty, ˹you would have acted differently˺.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "ayahArV2": "لترون الجحيم",
+      "ayahEn": "˹But˺ you will surely see the Hellfire.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "ayahArV2": "ثم لترونها عين اليقين",
+      "ayahEn": "Again, you will surely see it with the eye of certainty.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "ayahArV2": "ثم لتسالن يومئذ عن النعيم",
+      "ayahEn": "Then, on that Day, you will definitely be questioned about ˹your worldly˺ pleasures.",
+      "meta": {
+        "page": 600,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

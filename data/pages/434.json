@@ -1,0 +1,128 @@
+[
+  {
+    "surahNo": 34,
+    "ayahNo": 49,
+    "ayahArV1": "قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَـٰطِلُ وَمَا يُعِيدُ",
+    "ayahArV2": "قل جاء الحق وما يبدئ الباطل وما يعيد",
+    "ayahEn": "Say, “The truth has come, and falsehood will vanish, never to return.”",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 34,
+    "ayahNo": 50,
+    "ayahArV1": "قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌ قَرِيبٌ",
+    "ayahArV2": "قل ان ضللت فانما اضل على نفسي وان اهتديت فبما يوحي الي ربي انه سميع قريب",
+    "ayahEn": "Say, “If I am astray, the loss is only mine. And if I am guided, it is ˹only˺ because of what my Lord reveals to me. He is indeed All-Hearing, Ever Near.”",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 34,
+    "ayahNo": 51,
+    "ayahArV1": "وَلَوْ تَرَىٰٓ إِذْ فَزِعُوا۟ فَلَا فَوْتَ وَأُخِذُوا۟ مِن مَّكَانٍ قَرِيبٍ",
+    "ayahArV2": "ولو ترى اذ فزعوا فلا فوت واخذوا من مكان قريب",
+    "ayahEn": "If only you could see when they will be horrified with no escape ˹on Judgment Day˺! And they will be seized from a nearby place.",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 34,
+    "ayahNo": 52,
+    "ayahArV1": "وَقَالُوٓا۟ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانٍۭ بَعِيدٍ",
+    "ayahArV2": "وقالوا امنا به وانى لهم التناوش من مكان بعيد",
+    "ayahEn": "They will ˹then˺ cry, “We do ˹now˺ believe in it ˹all˺.” But how could they ˹possibly˺ attain faith from a place so far-off ˹from the world˺",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 34,
+    "ayahNo": 53,
+    "ayahArV1": "وَقَدْ كَفَرُوا۟ بِهِۦ مِن قَبْلُ ۖ وَيَقْذِفُونَ بِٱلْغَيْبِ مِن مَّكَانٍۭ بَعِيدٍ",
+    "ayahArV2": "وقد كفروا به من قبل ويقذفون بالغيب من مكان بعيد",
+    "ayahEn": "while they had already rejected it before, guessing blindly from a place ˹equally˺ far-away ˹from the Hereafter˺?",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 34,
+    "ayahNo": 54,
+    "ayahArV1": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا۟ فِى شَكٍّ مُّرِيبٍۭ",
+    "ayahArV2": "وحيل بينهم وبين ما يشتهون كما فعل باشياعهم من قبل انهم كانوا في شك مريب",
+    "ayahEn": "They will be sealed off from whatever they desire, as was done to their counterparts before. Indeed, they were ˹all˺ in alarming doubt.",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 35,
+    "ayahNo": 1,
+    "ayahArV1": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "ayahArV2": "الحمد لله فاطر السماوات والارض جاعل الملائكة رسلا اولي اجنحة مثنى وثلاث ورباع يزيد في الخلق ما يشاء ان الله على كل شيء قدير",
+    "ayahEn": "All praise is for Allah, the Originator of the heavens and the earth, Who made angels ˹as His˺ messengers with wings—two, three, or four. He increases in creation whatever He wills. Surely Allah is Most Capable of everything.",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 35,
+    "ayahNo": 2,
+    "ayahArV1": "مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "ayahArV2": "ما يفتح الله للناس من رحمة فلا ممسك لها وما يمسك فلا مرسل له من بعده وهو العزيز الحكيم",
+    "ayahEn": "Whatever mercy Allah opens up for people, none can withhold it. And whatever He withholds, none but Him can release it. For He is the Almighty, All-Wise.",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  },
+  {
+    "surahNo": 35,
+    "ayahNo": 3,
+    "ayahArV1": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَـٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+    "ayahArV2": "يا ايها الناس اذكروا نعمت الله عليكم هل من خالق غير الله يرزقكم من السماء والارض لا اله الا هو فانى تؤفكون",
+    "ayahEn": "O humanity! Remember Allah’s favours upon you. Is there any creator other than Allah who provides for you from the heavens and the earth? There is no god ˹worthy of worship˺ except Him. How can you then be deluded ˹from the truth˺?",
+    "meta": {
+      "page": 434,
+      "juz": 22,
+      "hizb": 44,
+      "hizbQuarter": 174,
+      "sajda": false
+    }
+  }
+]

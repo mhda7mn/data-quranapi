@@ -1,0 +1,725 @@
+{
+  "surahNo": 54,
+  "surahNameAr": "القمر",
+  "surahNameArabicLong": "سورة القمر",
+  "surahNameEn": "Al-Qamar",
+  "revelationPlace": "Mecca",
+  "totalAyat": 55,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+      "ayahArV2": "اقتربت الساعة وانشق القمر",
+      "ayahEn": "The Hour has drawn near and the moon was split ˹in two˺.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ",
+      "ayahArV2": "وان يروا اية يعرضوا ويقولوا سحر مستمر",
+      "ayahEn": "Yet, whenever they see a sign, they turn away, saying, “Same old magic!”",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ",
+      "ayahArV2": "وكذبوا واتبعوا اهواءهم وكل امر مستقر",
+      "ayahEn": "They rejected ˹the truth˺ and followed their own desires—and every matter will be settled—",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ",
+      "ayahArV2": "ولقد جاءهم من الانباء ما فيه مزدجر",
+      "ayahEn": "even though the stories ˹of destroyed nations˺ that have already come to them are a sufficient deterrent.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ",
+      "ayahArV2": "حكمة بالغة فما تغن النذر",
+      "ayahEn": "˹This Quran is˺ profound ˹in˺ wisdom, but warnings are of no benefit ˹to them˺.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ",
+      "ayahArV2": "فتول عنهم يوم يدع الداع الى شيء نكر",
+      "ayahEn": "So turn away from them ˹O Prophet˺. ˹And wait for˺ the Day ˹when˺ the caller will summon ˹them˺ for something horrifying.",
+      "meta": {
+        "page": 528,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ",
+      "ayahArV2": "خشعا ابصارهم يخرجون من الاجداث كانهم جراد منتشر",
+      "ayahEn": "With eyes downcast, they will come forth from the graves as if they were swarming locusts",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ",
+      "ayahArV2": "مهطعين الى الداع يقول الكافرون هذا يوم عسر",
+      "ayahEn": "rushing towards the caller. The disbelievers will cry, “This is a difficult Day!”",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 211,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ",
+      "ayahArV2": "كذبت قبلهم قوم نوح فكذبوا عبدنا وقالوا مجنون وازدجر",
+      "ayahEn": "Before them, the people of Noah denied ˹the truth˺ and rejected Our servant, calling ˹him˺ insane. And he was intimidated.",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ",
+      "ayahArV2": "فدعا ربه اني مغلوب فانتصر",
+      "ayahEn": "So he cried out to his Lord, “I am helpless, so help ˹me˺!”",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ",
+      "ayahArV2": "ففتحنا ابواب السماء بماء منهمر",
+      "ayahEn": "So We opened the gates of the sky with pouring rain",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ",
+      "ayahArV2": "وفجرنا الارض عيونا فالتقى الماء على امر قد قدر",
+      "ayahEn": "and caused the earth to burst with springs, so the waters met for a fate already set.",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ",
+      "ayahArV2": "وحملناه على ذات الواح ودسر",
+      "ayahEn": "We carried him on that ˹Ark made˺ of planks and nails",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+      "ayahArV2": "تجري باعيننا جزاء لمن كان كفر",
+      "ayahEn": "sailing under Our ˹watchful˺ Eyes—a ˹fair˺ punishment on behalf of the one ˹they˺ denied.",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "وَلَقَد تَّرَكْنَـٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ",
+      "ayahArV2": "ولقد تركناها اية فهل من مدكر",
+      "ayahEn": "We certainly left this as a sign. So is there anyone who will be mindful?",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "ayahArV2": "فكيف كان عذابي ونذر",
+      "ayahEn": "Then how ˹dreadful˺ were My punishment and warnings!",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayahArV2": "ولقد يسرنا القران للذكر فهل من مدكر",
+      "ayahEn": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "ayahArV2": "كذبت عاد فكيف كان عذابي ونذر",
+      "ayahEn": "’Ȃd ˹also˺ rejected ˹the truth˺. Then how ˹dreadful˺ were My punishment and warnings!",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ",
+      "ayahArV2": "انا ارسلنا عليهم ريحا صرصرا في يوم نحس مستمر",
+      "ayahEn": "Indeed, We sent against them a furious wind, on a day of unrelenting misery",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ",
+      "ayahArV2": "تنزع الناس كانهم اعجاز نخل منقعر",
+      "ayahEn": "that snatched people up, leaving them like trunks of uprooted palm trees.",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "ayahArV2": "فكيف كان عذابي ونذر",
+      "ayahEn": "Then how ˹dreadful˺ were My punishment and warnings!",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayahArV2": "ولقد يسرنا القران للذكر فهل من مدكر",
+      "ayahEn": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+      "ayahArV2": "كذبت ثمود بالنذر",
+      "ayahEn": "Thamûd rejected the warnings ˹as well˺",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَـٰلٍ وَسُعُرٍ",
+      "ayahArV2": "فقالوا ابشرا منا واحدا نتبعه انا اذا لفي ضلال وسعر",
+      "ayahEn": "arguing, “How can we follow one ˹average˺ human being from among us? We would then truly be misguided and insane.",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ",
+      "ayahArV2": "االقي الذكر عليه من بيننا بل هو كذاب اشر",
+      "ayahEn": "Has the revelation been sent down ˹only˺ to him out of ˹all of˺ us? In fact, he is a boastful liar.”",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ",
+      "ayahArV2": "سيعلمون غدا من الكذاب الاشر",
+      "ayahEn": "˹It was revealed to Ṣâliḥ,˺ “They will soon know who the boastful liar is.",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+      "ayahArV2": "انا مرسلو الناقة فتنة لهم فارتقبهم واصطبر",
+      "ayahEn": "We are sending the she-camel as a test for them. So watch them ˹closely˺, and have patience.",
+      "meta": {
+        "page": 529,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ",
+      "ayahArV2": "ونبئهم ان الماء قسمة بينهم كل شرب محتضر",
+      "ayahEn": "And tell them that the ˹drinking˺ water must be divided between them ˹and her˺, each taking a turn to drink ˹every other day˺.”",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+      "ayahArV2": "فنادوا صاحبهم فتعاطى فعقر",
+      "ayahEn": "But they roused a companion of theirs, so he dared to kill ˹her˺.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "ayahArV2": "فكيف كان عذابي ونذر",
+      "ayahEn": "Then how ˹dreadful˺ were My punishment and warnings!",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 31,
+      "ayahArV1": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+      "ayahArV2": "انا ارسلنا عليهم صيحة واحدة فكانوا كهشيم المحتظر",
+      "ayahEn": "Indeed, We sent against them ˹only˺ one ˹mighty˺ blast, leaving them like the twigs of fence-builders.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 32,
+      "ayahArV1": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayahArV2": "ولقد يسرنا القران للذكر فهل من مدكر",
+      "ayahEn": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 33,
+      "ayahArV1": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+      "ayahArV2": "كذبت قوم لوط بالنذر",
+      "ayahEn": "The people of Lot ˹also˺ rejected the warnings.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 34,
+      "ayahArV1": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَـٰهُم بِسَحَرٍ",
+      "ayahArV2": "انا ارسلنا عليهم حاصبا الا ال لوط نجيناهم بسحر",
+      "ayahEn": "We unleashed upon them a storm of stones. As for ˹the believers of˺ Lot’s family, We delivered them before dawn",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 35,
+      "ayahArV1": "نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+      "ayahArV2": "نعمة من عندنا كذلك نجزي من شكر",
+      "ayahEn": "as a blessing from Us. This is how We reward whoever gives thanks.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 36,
+      "ayahArV1": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "ayahArV2": "ولقد انذرهم بطشتنا فتماروا بالنذر",
+      "ayahEn": "He had already warned them of Our ˹crushing˺ blow but they disputed the warnings.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 37,
+      "ayahArV1": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "ayahArV2": "ولقد راودوه عن ضيفه فطمسنا اعينهم فذوقوا عذابي ونذر",
+      "ayahEn": "And they even demanded his angel-guests from him, so We blinded their eyes. ˹And they were told,˺ “Taste then My punishment and warnings!”",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 38,
+      "ayahArV1": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+      "ayahArV2": "ولقد صبحهم بكرة عذاب مستقر",
+      "ayahEn": "And indeed, by the early morning they were overwhelmed by an unrelenting torment.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 39,
+      "ayahArV1": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "ayahArV2": "فذوقوا عذابي ونذر",
+      "ayahEn": "˹Again they were told,˺ “Taste now My punishment and warnings!”",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 40,
+      "ayahArV1": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayahArV2": "ولقد يسرنا القران للذكر فهل من مدكر",
+      "ayahEn": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 41,
+      "ayahArV1": "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+      "ayahArV2": "ولقد جاء ال فرعون النذر",
+      "ayahEn": "And indeed, the warnings ˹also˺ came to the people of Pharaoh.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 42,
+      "ayahArV1": "كَذَّبُوا۟ بِـَٔايَـٰتِنَا كُلِّهَا فَأَخَذْنَـٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ",
+      "ayahArV2": "كذبوا باياتنا كلها فاخذناهم اخذ عزيز مقتدر",
+      "ayahEn": "˹But˺ they rejected all of Our signs, so We seized them with the ˹crushing˺ grip of the Almighty, Most Powerful.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 43,
+      "ayahArV1": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ",
+      "ayahArV2": "اكفاركم خير من اولئكم ام لكم براءة في الزبر",
+      "ayahEn": "Now, are you ˹Meccan˺ disbelievers superior to those ˹destroyed peoples˺? Or have you ˹been granted˺ immunity ˹from punishment˺ in divine Books?",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 44,
+      "ayahArV1": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ",
+      "ayahArV2": "ام يقولون نحن جميع منتصر",
+      "ayahEn": "Or do they say, “We are all ˹a˺ united ˹front˺, bound to prevail.”?",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 45,
+      "ayahArV1": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+      "ayahArV2": "سيهزم الجمع ويولون الدبر",
+      "ayahEn": "˹Soon˺ their united front will be defeated and ˹forced to˺ flee.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 46,
+      "ayahArV1": "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+      "ayahArV2": "بل الساعة موعدهم والساعة ادهى وامر",
+      "ayahEn": "Better yet, the Hour is their appointed time—and the Hour will be most catastrophic and most bitter.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 47,
+      "ayahArV1": "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ",
+      "ayahArV2": "ان المجرمين في ضلال وسعر",
+      "ayahEn": "Indeed, the wicked are ˹entrenched˺ in misguidance, and ˹are bound for˺ blazes.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 48,
+      "ayahArV1": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+      "ayahArV2": "يوم يسحبون في النار على وجوههم ذوقوا مس سقر",
+      "ayahEn": "On the Day they will be dragged into the Fire on their faces, ˹they will be told,˺ “Taste the touch of Hell!”",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 49,
+      "ayahArV1": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍ",
+      "ayahArV2": "انا كل شيء خلقناه بقدر",
+      "ayahEn": "Indeed, We have created everything, perfectly preordained.",
+      "meta": {
+        "page": 530,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 50,
+      "ayahArV1": "وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ",
+      "ayahArV2": "وما امرنا الا واحدة كلمح بالبصر",
+      "ayahEn": "Our command is but a single word, done in the blink of an eye.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 51,
+      "ayahArV1": "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayahArV2": "ولقد اهلكنا اشياعكم فهل من مدكر",
+      "ayahEn": "We have already destroyed the likes of you. So will any ˹of you˺ be mindful?",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 52,
+      "ayahArV1": "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ",
+      "ayahArV2": "وكل شيء فعلوه في الزبر",
+      "ayahEn": "Everything they have done is ˹listed˺ in ˹their˺ records.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 53,
+      "ayahArV1": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ",
+      "ayahArV2": "وكل صغير وكبير مستطر",
+      "ayahEn": "Every matter, small and large, is written ˹precisely˺.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 54,
+      "ayahArV1": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ",
+      "ayahArV2": "ان المتقين في جنات ونهر",
+      "ayahEn": "Indeed, the righteous will be amid Gardens and rivers",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 55,
+      "ayahArV1": "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ",
+      "ayahArV2": "في مقعد صدق عند مليك مقتدر",
+      "ayahEn": "at the Seat of Honour in the presence of the Most Powerful Sovereign.",
+      "meta": {
+        "page": 531,
+        "juz": 27,
+        "hizb": 53,
+        "hizbQuarter": 212,
+        "sajda": false
+      }
+    }
+  ]
+}

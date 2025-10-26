@@ -1,0 +1,413 @@
+{
+  "surahNo": 76,
+  "surahNameAr": "الانسان",
+  "surahNameArabicLong": "سورة الانسان",
+  "surahNameEn": "Al-Insaan",
+  "revelationPlace": "Madina",
+  "totalAyat": 31,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
+      "ayahArV2": "هل اتى على الانسان حين من الدهر لم يكن شيئا مذكورا",
+      "ayahEn": "Is there not a period of time when each human is nothing yet worth mentioning?",
+      "meta": {
+        "page": 578,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+      "ayahArV2": "انا خلقنا الانسان من نطفة امشاج نبتليه فجعلناه سميعا بصيرا",
+      "ayahEn": "˹For˺ indeed, We ˹alone˺ created humans from a drop of mixed fluids, ˹in order˺ to test them, so We made them hear and see.",
+      "meta": {
+        "page": 578,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+      "ayahArV2": "انا هديناه السبيل اما شاكرا واما كفورا",
+      "ayahEn": "We already showed them the Way, whether they ˹choose to˺ be grateful or ungrateful.",
+      "meta": {
+        "page": 578,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا",
+      "ayahArV2": "انا اعتدنا للكافرين سلاسل واغلالا وسعيرا",
+      "ayahEn": "Indeed, We have prepared for the disbelievers chains, shackles, and a blazing Fire.",
+      "meta": {
+        "page": 578,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا",
+      "ayahArV2": "ان الابرار يشربون من كاس كان مزاجها كافورا",
+      "ayahEn": "Indeed, the virtuous will have a drink ˹of pure wine˺—flavoured with camphor—",
+      "meta": {
+        "page": 578,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 6,
+      "ayahArV1": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
+      "ayahArV2": "عينا يشرب بها عباد الله يفجرونها تفجيرا",
+      "ayahEn": "˹from˺ a spring where Allah’s servants will drink, flowing at their will.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 7,
+      "ayahArV1": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+      "ayahArV2": "يوفون بالنذر ويخافون يوما كان شره مستطيرا",
+      "ayahEn": "They ˹are those who˺ fulfil ˹their˺ vows and fear a Day of sweeping horror",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 8,
+      "ayahArV1": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "ayahArV2": "ويطعمون الطعام على حبه مسكينا ويتيما واسيرا",
+      "ayahEn": "and give food—despite their desire for it—to the poor, the orphan, and the captive",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 9,
+      "ayahArV1": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "ayahArV2": "انما نطعمكم لوجه الله لا نريد منكم جزاء ولا شكورا",
+      "ayahEn": "˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 10,
+      "ayahArV1": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+      "ayahArV2": "انا نخاف من ربنا يوما عبوسا قمطريرا",
+      "ayahEn": "We fear from our Lord a horribly distressful Day.”",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 11,
+      "ayahArV1": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةً وَسُرُورًا",
+      "ayahArV2": "فوقاهم الله شر ذلك اليوم ولقاهم نضرة وسرورا",
+      "ayahEn": "So Allah will deliver them from the horror of that Day, and grant them radiance and joy",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 12,
+      "ayahArV1": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+      "ayahArV2": "وجزاهم بما صبروا جنة وحريرا",
+      "ayahEn": "and reward them for their perseverance with a Garden ˹in Paradise˺ and ˹garments of˺ silk.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 13,
+      "ayahArV1": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا",
+      "ayahArV2": "متكئين فيها على الارائك لا يرون فيها شمسا ولا زمهريرا",
+      "ayahEn": "There they will be reclining on ˹canopied˺ couches, never seeing scorching heat or bitter cold.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 14,
+      "ayahArV1": "وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا",
+      "ayahArV2": "ودانية عليهم ظلالها وذللت قطوفها تذليلا",
+      "ayahEn": "The Garden’s shade will be right above them, and its fruit will be made very easy to reach.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 15,
+      "ayahArV1": "وَيُطَافُ عَلَيْهِم بِـَٔانِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا۠",
+      "ayahArV2": "ويطاف عليهم بانية من فضة واكواب كانت قواريرا",
+      "ayahEn": "They will be waited on with silver vessels and cups of crystal—",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 16,
+      "ayahArV1": "قَوَارِيرَا۟ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+      "ayahArV2": "قوارير من فضة قدروها تقديرا",
+      "ayahEn": "crystalline silver, filled precisely as desired.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 17,
+      "ayahArV1": "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+      "ayahArV2": "ويسقون فيها كاسا كان مزاجها زنجبيلا",
+      "ayahEn": "And they will be given a drink ˹of pure wine˺ flavoured with ginger",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 18,
+      "ayahArV1": "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا",
+      "ayahArV2": "عينا فيها تسمى سلسبيلا",
+      "ayahEn": "from a spring there, called Salsabîl.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 231,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 19,
+      "ayahArV1": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+      "ayahArV2": "ويطوف عليهم ولدان مخلدون اذا رايتهم حسبتهم لؤلؤا منثورا",
+      "ayahEn": "They will be waited on by eternal youths. If you saw them, you would think they were scattered pearls.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 20,
+      "ayahArV1": "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا",
+      "ayahArV2": "واذا رايت ثم رايت نعيما وملكا كبيرا",
+      "ayahEn": "And if you looked around, you would see ˹indescribable˺ bliss and a vast kingdom.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 21,
+      "ayahArV1": "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+      "ayahArV2": "عاليهم ثياب سندس خضر واستبرق وحلوا اساور من فضة وسقاهم ربهم شرابا طهورا",
+      "ayahEn": "The virtuous will be ˹dressed˺ in garments of fine green silk and rich brocade, and adorned with bracelets of silver, and their Lord will give them a purifying drink.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 22,
+      "ayahArV1": "إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+      "ayahArV2": "ان هذا كان لكم جزاء وكان سعيكم مشكورا",
+      "ayahEn": "˹And they will be told,˺ “All this is surely a reward for you. Your striving has been appreciated.”",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 23,
+      "ayahArV1": "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا",
+      "ayahArV2": "انا نحن نزلنا عليك القران تنزيلا",
+      "ayahEn": "Indeed, it is We Who have revealed the Quran to you ˹O Prophet˺ in stages.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 24,
+      "ayahArV1": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "ayahArV2": "فاصبر لحكم ربك ولا تطع منهم اثما او كفورا",
+      "ayahEn": "So be patient with your Lord’s decree, and do not yield to any evildoer or ˹staunch˺ disbeliever from among them.",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 25,
+      "ayahArV1": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا",
+      "ayahArV2": "واذكر اسم ربك بكرة واصيلا",
+      "ayahEn": "˹Always˺ remember the Name of your Lord morning and evening",
+      "meta": {
+        "page": 579,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 26,
+      "ayahArV1": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "ayahArV2": "ومن الليل فاسجد له وسبحه ليلا طويلا",
+      "ayahEn": "and prostrate before Him during part of the night, and glorify Him long at night.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 27,
+      "ayahArV1": "إِنَّ هَـٰٓؤُلَآءِ يُحِبُّونَ ٱلْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ يَوْمًا ثَقِيلًا",
+      "ayahArV2": "ان هؤلاء يحبون العاجلة ويذرون وراءهم يوما ثقيلا",
+      "ayahEn": "Surely those ˹pagans˺ love this fleeting world, ˹totally˺ neglecting a weighty Day ahead of them.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 28,
+      "ayahArV1": "نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَـٰلَهُمْ تَبْدِيلًا",
+      "ayahArV2": "نحن خلقناهم وشددنا اسرهم واذا شئنا بدلنا امثالهم تبديلا",
+      "ayahEn": "It is We Who created them and perfected their ˹physical˺ form. But if We will, We can easily replace them with others.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 29,
+      "ayahArV1": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+      "ayahArV2": "ان هذه تذكرة فمن شاء اتخذ الى ربه سبيلا",
+      "ayahEn": "Surely this is a reminder. So let whoever wills take the ˹Right˺ Way to their Lord.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 30,
+      "ayahArV1": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayahArV2": "وما تشاءون الا ان يشاء الله ان الله كان عليما حكيما",
+      "ayahEn": "But you cannot will ˹to do so˺ unless Allah wills. Indeed, Allah is All-Knowing, All-Wise.",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 31,
+      "ayahArV1": "يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا",
+      "ayahArV2": "يدخل من يشاء في رحمته والظالمين اعد لهم عذابا اليما",
+      "ayahEn": "He admits whoever He wills into His mercy. As for the wrongdoers, He has prepared for them a painful punishment",
+      "meta": {
+        "page": 580,
+        "juz": 29,
+        "hizb": 58,
+        "hizbQuarter": 232,
+        "sajda": false
+      }
+    }
+  ]
+}

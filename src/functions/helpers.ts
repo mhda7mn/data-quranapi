@@ -128,7 +128,7 @@ export const getAyahTafseerFromAPI = async (
 
 	for (let id in tafseerId) {
 		const response = await fetch(
-			`${baseAPILink}/${id}/${surahNumber}/${ayahNumber}`
+			`${baseAPILink}/${tafseerId[id]}/${surahNumber}/${ayahNumber}`
 		);
 
 		const data: any = await response.json();

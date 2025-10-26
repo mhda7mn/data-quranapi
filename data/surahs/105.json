@@ -1,0 +1,75 @@
+{
+  "surahNo": 105,
+  "surahNameAr": "الفيل",
+  "surahNameArabicLong": "سورة الفيل",
+  "surahNameEn": "Al-Fil",
+  "revelationPlace": "Mecca",
+  "totalAyat": 5,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "ayahArV2": "الم تر كيف فعل ربك باصحاب الفيل",
+      "ayahEn": "Have you not seen ˹O Prophet˺ how your Lord dealt with the Army of the Elephant?",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "ayahArV2": "الم يجعل كيدهم في تضليل",
+      "ayahEn": "Did He not frustrate their scheme?",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "ayahArV2": "وارسل عليهم طيرا ابابيل",
+      "ayahEn": "For He sent against them flocks of birds",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 4,
+      "ayahArV1": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "ayahArV2": "ترميهم بحجارة من سجيل",
+      "ayahEn": "that pelted them with stones of baked clay",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 5,
+      "ayahArV1": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "ayahArV2": "فجعلهم كعصف ماكول",
+      "ayahEn": "leaving them like chewed up straw.",
+      "meta": {
+        "page": 601,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}

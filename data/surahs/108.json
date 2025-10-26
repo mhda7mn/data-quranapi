@@ -1,0 +1,49 @@
+{
+  "surahNo": 108,
+  "surahNameAr": "الكوثر",
+  "surahNameArabicLong": "سورة الكوثر",
+  "surahNameEn": "Al-Kawthar",
+  "revelationPlace": "Mecca",
+  "totalAyat": 3,
+  "ayat": [
+    {
+      "ayahNo": 1,
+      "ayahArV1": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "ayahArV2": "انا اعطيناك الكوثر",
+      "ayahEn": "Indeed, We have granted you ˹O Prophet˺ abundant goodness.",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 2,
+      "ayahArV1": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "ayahArV2": "فصل لربك وانحر",
+      "ayahEn": "So pray and sacrifice to your Lord ˹alone˺.",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    },
+    {
+      "ayahNo": 3,
+      "ayahArV1": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "ayahArV2": "ان شانئك هو الابتر",
+      "ayahEn": "Only the one who hates you is truly cut off ˹from any goodness˺.",
+      "meta": {
+        "page": 602,
+        "juz": 30,
+        "hizb": 60,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    }
+  ]
+}
