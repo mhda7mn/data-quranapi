@@ -1,0 +1,914 @@
+[
+  {
+    "surahNo": 1,
+    "surahNameAr": "الفاتحة",
+    "surahNameArabicLong": "سُورَةُ ٱلْفَاتِحَةِ",
+    "surahNameEn": "Al-Faatiha",
+    "revelationPlace": "Mecca",
+    "totalAyat": 7
+  },
+  {
+    "surahNo": 10,
+    "surahNameAr": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameEn": "Yunus",
+    "revelationPlace": "Mecca",
+    "totalAyat": 109
+  },
+  {
+    "surahNo": 100,
+    "surahNameAr": "العاديات",
+    "surahNameArabicLong": "سورة العاديات",
+    "surahNameEn": "Al-Aadiyaat",
+    "revelationPlace": "Mecca",
+    "totalAyat": 11
+  },
+  {
+    "surahNo": 101,
+    "surahNameAr": "القارعة",
+    "surahNameArabicLong": "سورة القارعة",
+    "surahNameEn": "Al-Qaari'a",
+    "revelationPlace": "Mecca",
+    "totalAyat": 11
+  },
+  {
+    "surahNo": 102,
+    "surahNameAr": "التكاثر",
+    "surahNameArabicLong": "سورة التكاثر",
+    "surahNameEn": "At-Takaathur",
+    "revelationPlace": "Mecca",
+    "totalAyat": 8
+  },
+  {
+    "surahNo": 103,
+    "surahNameAr": "العصر",
+    "surahNameArabicLong": "سورة العصر",
+    "surahNameEn": "Al-Asr",
+    "revelationPlace": "Mecca",
+    "totalAyat": 3
+  },
+  {
+    "surahNo": 104,
+    "surahNameAr": "الهمزة",
+    "surahNameArabicLong": "سورة الهمزة",
+    "surahNameEn": "Al-Humaza",
+    "revelationPlace": "Mecca",
+    "totalAyat": 9
+  },
+  {
+    "surahNo": 105,
+    "surahNameAr": "الفيل",
+    "surahNameArabicLong": "سورة الفيل",
+    "surahNameEn": "Al-Fil",
+    "revelationPlace": "Mecca",
+    "totalAyat": 5
+  },
+  {
+    "surahNo": 106,
+    "surahNameAr": "قريش",
+    "surahNameArabicLong": "سورة قريش",
+    "surahNameEn": "Quraish",
+    "revelationPlace": "Mecca",
+    "totalAyat": 4
+  },
+  {
+    "surahNo": 107,
+    "surahNameAr": "الماعون",
+    "surahNameArabicLong": "سورة الماعون",
+    "surahNameEn": "Al-Maa'un",
+    "revelationPlace": "Mecca",
+    "totalAyat": 7
+  },
+  {
+    "surahNo": 108,
+    "surahNameAr": "الكوثر",
+    "surahNameArabicLong": "سورة الكوثر",
+    "surahNameEn": "Al-Kawthar",
+    "revelationPlace": "Mecca",
+    "totalAyat": 3
+  },
+  {
+    "surahNo": 109,
+    "surahNameAr": "الكافرون",
+    "surahNameArabicLong": "سورة الكافرون",
+    "surahNameEn": "Al-Kaafiroon",
+    "revelationPlace": "Mecca",
+    "totalAyat": 6
+  },
+  {
+    "surahNo": 11,
+    "surahNameAr": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameEn": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyat": 123
+  },
+  {
+    "surahNo": 110,
+    "surahNameAr": "النصر",
+    "surahNameArabicLong": "سورة النصر",
+    "surahNameEn": "An-Nasr",
+    "revelationPlace": "Madina",
+    "totalAyat": 3
+  },
+  {
+    "surahNo": 111,
+    "surahNameAr": "المسد",
+    "surahNameArabicLong": "سورة المسد",
+    "surahNameEn": "Al-Masad",
+    "revelationPlace": "Mecca",
+    "totalAyat": 5
+  },
+  {
+    "surahNo": 112,
+    "surahNameAr": "الإخلاص",
+    "surahNameArabicLong": "سورة الإخلاص",
+    "surahNameEn": "Al-Ikhlaas",
+    "revelationPlace": "Mecca",
+    "totalAyat": 4
+  },
+  {
+    "surahNo": 113,
+    "surahNameAr": "الفلق",
+    "surahNameArabicLong": "سورة الفلق",
+    "surahNameEn": "Al-Falaq",
+    "revelationPlace": "Mecca",
+    "totalAyat": 5
+  },
+  {
+    "surahNo": 114,
+    "surahNameAr": "الناس",
+    "surahNameArabicLong": "سورة الناس",
+    "surahNameEn": "An-Naas",
+    "revelationPlace": "Mecca",
+    "totalAyat": 6
+  },
+  {
+    "surahNo": 12,
+    "surahNameAr": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameEn": "Yusuf",
+    "revelationPlace": "Mecca",
+    "totalAyat": 111
+  },
+  {
+    "surahNo": 13,
+    "surahNameAr": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameEn": "Ar-Ra'd",
+    "revelationPlace": "Madina",
+    "totalAyat": 43
+  },
+  {
+    "surahNo": 14,
+    "surahNameAr": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameEn": "Ibrahim",
+    "revelationPlace": "Mecca",
+    "totalAyat": 52
+  },
+  {
+    "surahNo": 15,
+    "surahNameAr": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameEn": "Al-Hijr",
+    "revelationPlace": "Mecca",
+    "totalAyat": 99
+  },
+  {
+    "surahNo": 16,
+    "surahNameAr": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameEn": "An-Nahl",
+    "revelationPlace": "Mecca",
+    "totalAyat": 128
+  },
+  {
+    "surahNo": 17,
+    "surahNameAr": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameEn": "Al-Israa",
+    "revelationPlace": "Mecca",
+    "totalAyat": 111
+  },
+  {
+    "surahNo": 18,
+    "surahNameAr": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameEn": "Al-Kahf",
+    "revelationPlace": "Mecca",
+    "totalAyat": 110
+  },
+  {
+    "surahNo": 19,
+    "surahNameAr": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameEn": "Maryam",
+    "revelationPlace": "Mecca",
+    "totalAyat": 98
+  },
+  {
+    "surahNo": 2,
+    "surahNameAr": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameEn": "Al-Baqara",
+    "revelationPlace": "Madina",
+    "totalAyat": 286
+  },
+  {
+    "surahNo": 20,
+    "surahNameAr": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameEn": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyat": 135
+  },
+  {
+    "surahNo": 21,
+    "surahNameAr": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameEn": "Al-Anbiyaa",
+    "revelationPlace": "Mecca",
+    "totalAyat": 112
+  },
+  {
+    "surahNo": 22,
+    "surahNameAr": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameEn": "Al-Hajj",
+    "revelationPlace": "Madina",
+    "totalAyat": 78
+  },
+  {
+    "surahNo": 23,
+    "surahNameAr": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameEn": "Al-Muminoon",
+    "revelationPlace": "Mecca",
+    "totalAyat": 118
+  },
+  {
+    "surahNo": 24,
+    "surahNameAr": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameEn": "An-Noor",
+    "revelationPlace": "Madina",
+    "totalAyat": 64
+  },
+  {
+    "surahNo": 25,
+    "surahNameAr": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameEn": "Al-Furqaan",
+    "revelationPlace": "Mecca",
+    "totalAyat": 77
+  },
+  {
+    "surahNo": 26,
+    "surahNameAr": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameEn": "Ash-Shu'araa",
+    "revelationPlace": "Mecca",
+    "totalAyat": 227
+  },
+  {
+    "surahNo": 27,
+    "surahNameAr": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameEn": "An-Naml",
+    "revelationPlace": "Mecca",
+    "totalAyat": 93
+  },
+  {
+    "surahNo": 28,
+    "surahNameAr": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameEn": "Al-Qasas",
+    "revelationPlace": "Mecca",
+    "totalAyat": 88
+  },
+  {
+    "surahNo": 29,
+    "surahNameAr": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameEn": "Al-Ankaboot",
+    "revelationPlace": "Mecca",
+    "totalAyat": 69
+  },
+  {
+    "surahNo": 3,
+    "surahNameAr": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameEn": "Aal-i-Imraan",
+    "revelationPlace": "Madina",
+    "totalAyat": 200
+  },
+  {
+    "surahNo": 30,
+    "surahNameAr": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameEn": "Ar-Room",
+    "revelationPlace": "Mecca",
+    "totalAyat": 60
+  },
+  {
+    "surahNo": 31,
+    "surahNameAr": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameEn": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyat": 34
+  },
+  {
+    "surahNo": 32,
+    "surahNameAr": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameEn": "As-Sajda",
+    "revelationPlace": "Mecca",
+    "totalAyat": 30
+  },
+  {
+    "surahNo": 33,
+    "surahNameAr": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameEn": "Al-Ahzaab",
+    "revelationPlace": "Madina",
+    "totalAyat": 73
+  },
+  {
+    "surahNo": 34,
+    "surahNameAr": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameEn": "Saba",
+    "revelationPlace": "Mecca",
+    "totalAyat": 54
+  },
+  {
+    "surahNo": 35,
+    "surahNameAr": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameEn": "Faatir",
+    "revelationPlace": "Mecca",
+    "totalAyat": 45
+  },
+  {
+    "surahNo": 36,
+    "surahNameAr": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameEn": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyat": 83
+  },
+  {
+    "surahNo": 37,
+    "surahNameAr": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameEn": "As-Saaffaat",
+    "revelationPlace": "Mecca",
+    "totalAyat": 182
+  },
+  {
+    "surahNo": 38,
+    "surahNameAr": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameEn": "Saad",
+    "revelationPlace": "Mecca",
+    "totalAyat": 88
+  },
+  {
+    "surahNo": 39,
+    "surahNameAr": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameEn": "Az-Zumar",
+    "revelationPlace": "Mecca",
+    "totalAyat": 75
+  },
+  {
+    "surahNo": 4,
+    "surahNameAr": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameEn": "An-Nisaa",
+    "revelationPlace": "Madina",
+    "totalAyat": 176
+  },
+  {
+    "surahNo": 40,
+    "surahNameAr": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameEn": "Ghafir",
+    "revelationPlace": "Mecca",
+    "totalAyat": 85
+  },
+  {
+    "surahNo": 41,
+    "surahNameAr": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameEn": "Fussilat",
+    "revelationPlace": "Mecca",
+    "totalAyat": 54
+  },
+  {
+    "surahNo": 42,
+    "surahNameAr": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameEn": "Ash-Shura",
+    "revelationPlace": "Mecca",
+    "totalAyat": 53
+  },
+  {
+    "surahNo": 43,
+    "surahNameAr": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameEn": "Az-Zukhruf",
+    "revelationPlace": "Mecca",
+    "totalAyat": 89
+  },
+  {
+    "surahNo": 44,
+    "surahNameAr": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameEn": "Ad-Dukhaan",
+    "revelationPlace": "Mecca",
+    "totalAyat": 59
+  },
+  {
+    "surahNo": 45,
+    "surahNameAr": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameEn": "Al-Jaathiya",
+    "revelationPlace": "Mecca",
+    "totalAyat": 37
+  },
+  {
+    "surahNo": 46,
+    "surahNameAr": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameEn": "Al-Ahqaf",
+    "revelationPlace": "Mecca",
+    "totalAyat": 35
+  },
+  {
+    "surahNo": 47,
+    "surahNameAr": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameEn": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyat": 38
+  },
+  {
+    "surahNo": 48,
+    "surahNameAr": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameEn": "Al-Fath",
+    "revelationPlace": "Madina",
+    "totalAyat": 29
+  },
+  {
+    "surahNo": 49,
+    "surahNameAr": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameEn": "Al-Hujuraat",
+    "revelationPlace": "Madina",
+    "totalAyat": 18
+  },
+  {
+    "surahNo": 5,
+    "surahNameAr": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameEn": "Al-Maaida",
+    "revelationPlace": "Madina",
+    "totalAyat": 120
+  },
+  {
+    "surahNo": 50,
+    "surahNameAr": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameEn": "Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyat": 45
+  },
+  {
+    "surahNo": 51,
+    "surahNameAr": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameEn": "Adh-Dhaariyat",
+    "revelationPlace": "Mecca",
+    "totalAyat": 60
+  },
+  {
+    "surahNo": 52,
+    "surahNameAr": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameEn": "At-Tur",
+    "revelationPlace": "Mecca",
+    "totalAyat": 49
+  },
+  {
+    "surahNo": 53,
+    "surahNameAr": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameEn": "An-Najm",
+    "revelationPlace": "Mecca",
+    "totalAyat": 62
+  },
+  {
+    "surahNo": 54,
+    "surahNameAr": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameEn": "Al-Qamar",
+    "revelationPlace": "Mecca",
+    "totalAyat": 55
+  },
+  {
+    "surahNo": 55,
+    "surahNameAr": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameEn": "Ar-Rahmaan",
+    "revelationPlace": "Madina",
+    "totalAyat": 78
+  },
+  {
+    "surahNo": 56,
+    "surahNameAr": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameEn": "Al-Waaqia",
+    "revelationPlace": "Mecca",
+    "totalAyat": 96
+  },
+  {
+    "surahNo": 57,
+    "surahNameAr": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameEn": "Al-Hadid",
+    "revelationPlace": "Madina",
+    "totalAyat": 29
+  },
+  {
+    "surahNo": 58,
+    "surahNameAr": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameEn": "Al-Mujaadila",
+    "revelationPlace": "Madina",
+    "totalAyat": 22
+  },
+  {
+    "surahNo": 59,
+    "surahNameAr": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameEn": "Al-Hashr",
+    "revelationPlace": "Madina",
+    "totalAyat": 24
+  },
+  {
+    "surahNo": 6,
+    "surahNameAr": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameEn": "Al-An'aam",
+    "revelationPlace": "Mecca",
+    "totalAyat": 165
+  },
+  {
+    "surahNo": 60,
+    "surahNameAr": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameEn": "Al-Mumtahana",
+    "revelationPlace": "Madina",
+    "totalAyat": 13
+  },
+  {
+    "surahNo": 61,
+    "surahNameAr": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameEn": "As-Saff",
+    "revelationPlace": "Madina",
+    "totalAyat": 14
+  },
+  {
+    "surahNo": 62,
+    "surahNameAr": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameEn": "Al-Jumu'a",
+    "revelationPlace": "Madina",
+    "totalAyat": 11
+  },
+  {
+    "surahNo": 63,
+    "surahNameAr": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameEn": "Al-Munaafiqoon",
+    "revelationPlace": "Madina",
+    "totalAyat": 11
+  },
+  {
+    "surahNo": 64,
+    "surahNameAr": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameEn": "At-Taghaabun",
+    "revelationPlace": "Madina",
+    "totalAyat": 18
+  },
+  {
+    "surahNo": 65,
+    "surahNameAr": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameEn": "At-Talaaq",
+    "revelationPlace": "Madina",
+    "totalAyat": 12
+  },
+  {
+    "surahNo": 66,
+    "surahNameAr": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameEn": "At-Tahrim",
+    "revelationPlace": "Madina",
+    "totalAyat": 12
+  },
+  {
+    "surahNo": 67,
+    "surahNameAr": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameEn": "Al-Mulk",
+    "revelationPlace": "Mecca",
+    "totalAyat": 30
+  },
+  {
+    "surahNo": 68,
+    "surahNameAr": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameEn": "Al-Qalam",
+    "revelationPlace": "Mecca",
+    "totalAyat": 52
+  },
+  {
+    "surahNo": 69,
+    "surahNameAr": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameEn": "Al-Haaqqa",
+    "revelationPlace": "Mecca",
+    "totalAyat": 52
+  },
+  {
+    "surahNo": 7,
+    "surahNameAr": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameEn": "Al-A'raaf",
+    "revelationPlace": "Mecca",
+    "totalAyat": 206
+  },
+  {
+    "surahNo": 70,
+    "surahNameAr": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameEn": "Al-Ma'aarij",
+    "revelationPlace": "Mecca",
+    "totalAyat": 44
+  },
+  {
+    "surahNo": 71,
+    "surahNameAr": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameEn": "Nooh",
+    "revelationPlace": "Mecca",
+    "totalAyat": 28
+  },
+  {
+    "surahNo": 72,
+    "surahNameAr": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameEn": "Al-Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyat": 28
+  },
+  {
+    "surahNo": 73,
+    "surahNameAr": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameEn": "Al-Muzzammil",
+    "revelationPlace": "Mecca",
+    "totalAyat": 20
+  },
+  {
+    "surahNo": 74,
+    "surahNameAr": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameEn": "Al-Muddaththir",
+    "revelationPlace": "Mecca",
+    "totalAyat": 56
+  },
+  {
+    "surahNo": 75,
+    "surahNameAr": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameEn": "Al-Qiyaama",
+    "revelationPlace": "Mecca",
+    "totalAyat": 40
+  },
+  {
+    "surahNo": 76,
+    "surahNameAr": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameEn": "Al-Insaan",
+    "revelationPlace": "Madina",
+    "totalAyat": 31
+  },
+  {
+    "surahNo": 77,
+    "surahNameAr": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameEn": "Al-Mursalaat",
+    "revelationPlace": "Mecca",
+    "totalAyat": 50
+  },
+  {
+    "surahNo": 78,
+    "surahNameAr": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameEn": "An-Naba",
+    "revelationPlace": "Mecca",
+    "totalAyat": 40
+  },
+  {
+    "surahNo": 79,
+    "surahNameAr": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameEn": "An-Naazi'aat",
+    "revelationPlace": "Mecca",
+    "totalAyat": 46
+  },
+  {
+    "surahNo": 8,
+    "surahNameAr": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameEn": "Al-Anfaal",
+    "revelationPlace": "Madina",
+    "totalAyat": 75
+  },
+  {
+    "surahNo": 80,
+    "surahNameAr": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameEn": "Abasa",
+    "revelationPlace": "Mecca",
+    "totalAyat": 42
+  },
+  {
+    "surahNo": 81,
+    "surahNameAr": "التكوير",
+    "surahNameArabicLong": "سورة التكوير",
+    "surahNameEn": "At-Takwir",
+    "revelationPlace": "Mecca",
+    "totalAyat": 29
+  },
+  {
+    "surahNo": 82,
+    "surahNameAr": "الإنفطار",
+    "surahNameArabicLong": "سورة الإنفطار",
+    "surahNameEn": "Al-Infitaar",
+    "revelationPlace": "Mecca",
+    "totalAyat": 19
+  },
+  {
+    "surahNo": 83,
+    "surahNameAr": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameEn": "Al-Mutaffifin",
+    "revelationPlace": "Mecca",
+    "totalAyat": 36
+  },
+  {
+    "surahNo": 84,
+    "surahNameAr": "الإنشقاق",
+    "surahNameArabicLong": "سورة الإنشقاق",
+    "surahNameEn": "Al-Inshiqaaq",
+    "revelationPlace": "Mecca",
+    "totalAyat": 25
+  },
+  {
+    "surahNo": 85,
+    "surahNameAr": "البروج",
+    "surahNameArabicLong": "سورة البروج",
+    "surahNameEn": "Al-Burooj",
+    "revelationPlace": "Mecca",
+    "totalAyat": 22
+  },
+  {
+    "surahNo": 86,
+    "surahNameAr": "الطارق",
+    "surahNameArabicLong": "سورة الطارق",
+    "surahNameEn": "At-Taariq",
+    "revelationPlace": "Mecca",
+    "totalAyat": 17
+  },
+  {
+    "surahNo": 87,
+    "surahNameAr": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameEn": "Al-A'laa",
+    "revelationPlace": "Mecca",
+    "totalAyat": 19
+  },
+  {
+    "surahNo": 88,
+    "surahNameAr": "الغاشية",
+    "surahNameArabicLong": "سورة الغاشية",
+    "surahNameEn": "Al-Ghaashiya",
+    "revelationPlace": "Mecca",
+    "totalAyat": 26
+  },
+  {
+    "surahNo": 89,
+    "surahNameAr": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameEn": "Al-Fajr",
+    "revelationPlace": "Mecca",
+    "totalAyat": 30
+  },
+  {
+    "surahNo": 9,
+    "surahNameAr": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameEn": "At-Tawba",
+    "revelationPlace": "Madina",
+    "totalAyat": 129
+  },
+  {
+    "surahNo": 90,
+    "surahNameAr": "البلد",
+    "surahNameArabicLong": "سورة البلد",
+    "surahNameEn": "Al-Balad",
+    "revelationPlace": "Mecca",
+    "totalAyat": 20
+  },
+  {
+    "surahNo": 91,
+    "surahNameAr": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameEn": "Ash-Shams",
+    "revelationPlace": "Mecca",
+    "totalAyat": 15
+  },
+  {
+    "surahNo": 92,
+    "surahNameAr": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameEn": "Al-Lail",
+    "revelationPlace": "Mecca",
+    "totalAyat": 21
+  },
+  {
+    "surahNo": 93,
+    "surahNameAr": "الضحى",
+    "surahNameArabicLong": "سورة الضحى",
+    "surahNameEn": "Ad-Dhuhaa",
+    "revelationPlace": "Mecca",
+    "totalAyat": 11
+  },
+  {
+    "surahNo": 94,
+    "surahNameAr": "الشرح",
+    "surahNameArabicLong": "سورة الشرح",
+    "surahNameEn": "Ash-Sharh",
+    "revelationPlace": "Mecca",
+    "totalAyat": 8
+  },
+  {
+    "surahNo": 95,
+    "surahNameAr": "التين",
+    "surahNameArabicLong": "سورة التين",
+    "surahNameEn": "At-Tin",
+    "revelationPlace": "Mecca",
+    "totalAyat": 8
+  },
+  {
+    "surahNo": 96,
+    "surahNameAr": "العلق",
+    "surahNameArabicLong": "سورة العلق",
+    "surahNameEn": "Al-Alaq",
+    "revelationPlace": "Mecca",
+    "totalAyat": 19
+  },
+  {
+    "surahNo": 97,
+    "surahNameAr": "القدر",
+    "surahNameArabicLong": "سورة القدر",
+    "surahNameEn": "Al-Qadr",
+    "revelationPlace": "Mecca",
+    "totalAyat": 5
+  },
+  {
+    "surahNo": 98,
+    "surahNameAr": "البينة",
+    "surahNameArabicLong": "سورة البينة",
+    "surahNameEn": "Al-Bayyina",
+    "revelationPlace": "Madina",
+    "totalAyat": 8
+  },
+  {
+    "surahNo": 99,
+    "surahNameAr": "الزلزلة",
+    "surahNameArabicLong": "سورة الزلزلة",
+    "surahNameEn": "Az-Zalzala",
+    "revelationPlace": "Madina",
+    "totalAyat": 8
+  }
+]

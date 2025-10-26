@@ -336,3 +336,85 @@ export const fetchPageData = (
 	surahFolder: string,
 	pageFolder: string
 ) => fetchGroupedData(dirname, surahFolder, pageFolder, "page");
+
+export const createEndpointJsonFiles = async (dirname: string) => {
+	// All Surahs
+	const surahDir = path.join(dirname, "surahs");
+	const surahFiles = (await fs.promises.readdir(surahDir)).filter(
+		(f) => f.endsWith(".json")
+	);
+	const allSurahs = [];
+
+	for (const file of surahFiles) {
+		const data = JSON.parse(
+			await fs.promises.readFile(path.join(surahDir, file), "utf-8")
+		);
+		allSurahs.push({
+			surahNo: data.surahNo,
+			surahNameAr: data.surahNameAr,
+			surahNameArabicLong: data.surahNameArabicLong,
+			surahNameEn: data.surahNameEn,
+			revelationPlace: data.revelationPlace,
+			totalAyat: data.totalAyat,
+		});
+	}
+	await fs.promises.writeFile(
+		path.join(dirname, "surah.json"),
+		JSON.stringify(allSurahs, null, 2)
+	);
+
+	// 2. All Juz
+	const juzDir = path.join(dirname, "juz");
+	const juzFiles: any = (await fs.promises.readdir(juzDir)).filter(
+		(f) => f.endsWith(".json")
+	);
+	const allJuz: Record<number, any[]> = {};
+	for (const file of juzFiles) {
+		const data = JSON.parse(
+			await fs.promises.readFile(path.join(juzDir, file), "utf-8")
+		);
+		allJuz[parseInt(file.split(".json")[0])] = data;
+	}
+	await fs.promises.writeFile(
+		path.join(dirname, "juz.json"),
+		JSON.stringify(allJuz, null, 2)
+	);
+
+	// 3. All Hizb
+	const hizbDir = path.join(dirname, "hizb");
+	const hizbFiles: any = (await fs.promises.readdir(hizbDir)).filter(
+		(f) => f.endsWith(".json")
+	);
+	const allHizb: Record<number, any[]> = {};
+	for (const file of hizbFiles) {
+		const data = JSON.parse(
+			await fs.promises.readFile(path.join(hizbDir, file), "utf-8")
+		);
+		allHizb[parseInt(file.split(".json")[0])] = data;
+	}
+	await fs.promises.writeFile(
+		path.join(dirname, "hizb.json"),
+		JSON.stringify(allHizb, null, 2)
+	);
+
+	// 4. All Pages
+	const pageDir = path.join(dirname, "pages");
+	const pageFiles: any = (await fs.promises.readdir(pageDir)).filter(
+		(f) => f.endsWith(".json")
+	);
+	const allPages: Record<number, any[]> = {};
+	for (const file of pageFiles) {
+		const data = JSON.parse(
+			await fs.promises.readFile(path.join(pageDir, file), "utf-8")
+		);
+		allPages[parseInt(file.split(".json")[0])] = data;
+	}
+	await fs.promises.writeFile(
+		path.join(dirname, "pages.json"),
+		JSON.stringify(allPages, null, 2)
+	);
+
+	console.info(
+		"[Endpoint JSONs Created] - surah.json, juz.json, hizb.json, pages.json"
+	);
+};

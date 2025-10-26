@@ -1,5 +1,6 @@
 import path from "node:path";
 import {
+	createEndpointJsonFiles,
 	fetchHizbData,
 	fetchJuzData,
 	fetchPageData,
@@ -50,6 +51,10 @@ const main = async (tafseerConcurrent: boolean) => {
 		console.info("Starting Page compilation...");
 		await fetchPageData(DATA_DIR, SURAH_FOLDER, PAGE_FOLDER);
 		console.info("Page compilation completed.");
+
+		console.info("Starting Endpoint Json Files compilation...");
+		await createEndpointJsonFiles(DATA_DIR);
+		console.info("Endpoint Json Files compilation completed.");
 
 		console.timeEnd(`[DATA FETCH]`);
 	} catch (err) {
