@@ -358,6 +358,9 @@ export const createEndpointJsonFiles = async (dirname: string) => {
 			totalAyat: data.totalAyat,
 		});
 	}
+
+	allSurahs.sort((a, b) => a.surahNo - b.surahNo);
+
 	await fs.promises.writeFile(
 		path.join(dirname, "surah.json"),
 		JSON.stringify(allSurahs, null, 2)
