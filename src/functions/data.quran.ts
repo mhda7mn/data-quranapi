@@ -233,8 +233,6 @@ export const fetchTafseerAyahsData = async (
 			return numA - numB;
 		});
 
-	const tafseerIds = [1, 2, 3, 4, 6, 7, 8];
-
 	for (const file of files) {
 		if (!file.endsWith(".json")) continue;
 
@@ -243,6 +241,15 @@ export const fetchTafseerAyahsData = async (
 			await fs.promises.readFile(filePath, "utf-8")
 		);
 		const surahNumber = surahData.surahNo;
+
+		const surahMetadata = {
+			surahNo: surahData.surahNo,
+			surahNameAr: surahData.surahNameAr,
+			surahNameArabicLong: surahData.surahNameArabicLong,
+			surahNameEn: surahData.surahNameEn,
+			revelationPlace: surahData.revelationPlace,
+			totalAyat: surahData.totalAyat,
+		};
 
 		const ayatWithTafseer: Array<{
 			ayahNo: number;
@@ -275,7 +282,7 @@ export const fetchTafseerAyahsData = async (
 
 					const enrichedTafseers = rawTafseers
 						.map((item, index) => {
-							const id = tafseerIds[index];
+							const id = index + 1;
 							if (id === undefined) return null;
 							return {
 								id,
@@ -294,13 +301,15 @@ export const fetchTafseerAyahsData = async (
 						);
 
 					const result = { ayahNo, tafseer: enrichedTafseers };
-
-					console.info(`[Added] Surah ${surahNumber}:${ayahNo}`);
-
+					console.info(
+						`[Added] Surah ${surahNumber}:${ayahNo} → ${enrichedTafseers.length} tafseers`
+					);
 					return result;
 				} catch (err) {
 					console.error(
-						`[Failed] Surah ${surahNumber}:${ayahNo} - ${err}`
+						`[Failed] Surah ${surahNumber}:${ayahNo} - ${
+							err instanceof Error ? err.message : err
+						}`
 					);
 					return { ayahNo, tafseer: [] };
 				}
@@ -310,17 +319,22 @@ export const fetchTafseerAyahsData = async (
 		const results = await Promise.all(ayahPromises);
 		ayatWithTafseer.push(...results);
 
+		const output = {
+			surah: surahMetadata,
+			ayat: ayatWithTafseer,
+		};
+
 		const tafseerFilePath = path.join(
 			tafseerDir,
 			`${surahNumber}.json`
 		);
 		await fs.promises.writeFile(
 			tafseerFilePath,
-			JSON.stringify({ ayat: ayatWithTafseer }, null, 2)
+			JSON.stringify(output, null, 2)
 		);
 
 		console.info(
-			`[Tafseer Created] Surah ${surahNumber} → ${ayatWithTafseer.length} ayahs saved\n`
+			`[Tafseer Created] Surah ${surahNumber} → ${ayatWithTafseer.length} ayahs saved`
 		);
 	}
 
