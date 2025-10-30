@@ -9,7 +9,7 @@ import {
 	fetchTafseerAyahsDataConcurrently,
 } from "./functions/data.quran.js";
 
-const DATA_DIR = path.join(process.cwd(), "data"); // root folder for all JSON data
+const DATA_DIR = path.join(process.cwd(), "data");
 const SURAH_FOLDER = "surahs";
 const TAFSEER_FOLDER = "tafseers";
 const JUZ_FOLDER = "juz";

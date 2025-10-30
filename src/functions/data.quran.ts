@@ -349,14 +349,7 @@ export const createEndpointJsonFiles = async (dirname: string) => {
 		const data = JSON.parse(
 			await fs.promises.readFile(path.join(surahDir, file), "utf-8")
 		);
-		allSurahs.push({
-			surahNo: data.surahNo,
-			surahNameAr: data.surahNameAr,
-			surahNameArabicLong: data.surahNameArabicLong,
-			surahNameEn: data.surahNameEn,
-			revelationPlace: data.revelationPlace,
-			totalAyat: data.totalAyat,
-		});
+		allSurahs.push(data);
 	}
 
 	allSurahs.sort((a, b) => a.surahNo - b.surahNo);
