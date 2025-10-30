@@ -6,7 +6,6 @@ import {
 	fetchPageData,
 	fetchSurahData,
 	fetchTafseerAyahsData,
-	fetchTafseerAyahsDataConcurrently,
 } from "./functions/data.quran.js";
 
 const DATA_DIR = path.join(process.cwd(), "data");
@@ -16,7 +15,7 @@ const JUZ_FOLDER = "juz";
 const HIZB_FOLDER = "hizb";
 const PAGE_FOLDER = "pages";
 
-const main = async (tafseerConcurrent: boolean) => {
+const main = async () => {
 	try {
 		console.time(`[DATA FETCH]`);
 
@@ -26,17 +25,7 @@ const main = async (tafseerConcurrent: boolean) => {
 
 		console.info("Starting Tafseer fetch...");
 
-		tafseerConcurrent
-			? await fetchTafseerAyahsDataConcurrently(
-					DATA_DIR,
-					SURAH_FOLDER,
-					TAFSEER_FOLDER
-			  )
-			: await fetchTafseerAyahsData(
-					DATA_DIR,
-					SURAH_FOLDER,
-					TAFSEER_FOLDER
-			  );
+		await fetchTafseerAyahsData(DATA_DIR, SURAH_FOLDER, "tafseernew");
 
 		console.info("Tafseer fetch completed.");
 
@@ -62,4 +51,4 @@ const main = async (tafseerConcurrent: boolean) => {
 	}
 };
 
-main(true);
+main();

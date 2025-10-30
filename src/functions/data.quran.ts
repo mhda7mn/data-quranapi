@@ -111,6 +111,110 @@ export const fetchSurahData = async (
 	}
 };
 
+// export const fetchTafseerAyahsData = async (
+// 	dirname: string,
+// 	surahFolder: string,
+// 	tafseerFolder: string
+// ) => {
+// 	const surahDir = path.join(dirname, surahFolder);
+// 	const tafseerDir = path.join(dirname, tafseerFolder);
+
+// 	await fs.promises.mkdir(tafseerDir, { recursive: true });
+
+// 	let files: any = fs.promises.readdir(surahDir);
+
+// 	files = (await files).sort((a: any, b: any) => {
+// 		const numA = parseInt(a.split(".json")[0]);
+// 		const numB = parseInt(b.split(".json")[0]);
+// 		return numA - numB;
+// 	});
+
+// 	const tafseerIds = [1, 2, 3, 4, 6, 7, 8];
+
+// 	for (const file of files) {
+// 		if (!file.endsWith(".json")) continue;
+
+// 		const filePath = path.join(surahDir, file);
+// 		const surahData = JSON.parse(
+// 			await fs.promises.readFile(filePath, "utf-8")
+// 		);
+// 		const surahNumber = surahData.surahNo;
+
+// 		const ayatWithTafseer: Array<{
+// 			ayahNo: number;
+// 			tafseer: Array<{
+// 				id: number;
+// 				tafseerBookName: string;
+// 				tafseer: string;
+// 			}>;
+// 		}> = [];
+
+// 		console.info(`[Processing Tafseer] - Surah ${surahNumber}`);
+
+// 		for (const ayah of surahData.ayat) {
+// 			let rawTafseers: Array<{
+// 				tafseerBookName: string;
+// 				tafseer: string;
+// 			}> = [];
+
+// 			try {
+// 				rawTafseers = await getAyahTafseerFromAPI(
+// 					surahNumber,
+// 					ayah.ayahNo
+// 				);
+
+// 				const enrichedTafseers = rawTafseers
+// 					.map((item, index) => {
+// 						const id = tafseerIds[index];
+// 						if (id === undefined) return null;
+// 						return {
+// 							id,
+// 							tafseerBookName: item.tafseerBookName,
+// 							tafseer: item.tafseer,
+// 						};
+// 					})
+// 					.filter(
+// 						(
+// 							item
+// 						): item is {
+// 							id: number;
+// 							tafseerBookName: string;
+// 							tafseer: string;
+// 						} => item !== null
+// 					);
+
+// 				ayatWithTafseer.push({
+// 					ayahNo: ayah.ayahNo,
+// 					tafseer: enrichedTafseers,
+// 				});
+// 			} catch (err) {
+// 				console.error(
+// 					`[Error] - Tafseer Surah ${surahNumber}, Ayah ${ayah.ayahNo} - ${err}`
+// 				);
+
+// 				const { text, translation, audio, ...restAyah } = ayah;
+// 				ayatWithTafseer.push({
+// 					ayahNo: ayah.ayahNo,
+// 					tafseer: [],
+// 					...restAyah,
+// 				});
+// 			}
+
+// 			const tafseerFilePath = path.join(
+// 				tafseerDir,
+// 				`${surahNumber}.json`
+// 			);
+// 			await fs.promises.writeFile(
+// 				tafseerFilePath,
+// 				JSON.stringify({ ayat: ayatWithTafseer }, null, 2)
+// 			);
+
+// 			console.info(`[Tafseer Created] Surah ${surahNumber}`);
+// 		}
+// 		console.info(`[All Tafseer Processed]`);
+// 	}
+// };
+
 export const fetchTafseerAyahsData = async (
 	dirname: string,
 	surahFolder: string,
@@ -118,16 +222,18 @@ export const fetchTafseerAyahsData = async (
 ) => {
 	const surahDir = path.join(dirname, surahFolder);
 	const tafseerDir = path.join(dirname, tafseerFolder);
-
 	await fs.promises.mkdir(tafseerDir, { recursive: true });
 
-	let files: any = fs.promises.readdir(surahDir);
+	let files: any = await fs.promises.readdir(surahDir);
+	files = files
+		.filter((f: string) => f.endsWith(".json"))
+		.sort((a: any, b: any) => {
+			const numA = parseInt(a.split(".json")[0]);
+			const numB = parseInt(b.split(".json")[0]);
+			return numA - numB;
+		});
 
-	files = (await files).sort((a: any, b: any) => {
-		const numA = parseInt(a.split(".json")[0]);
-		const numB = parseInt(b.split(".json")[0]);
-		return numA - numB;
-	});
+	const tafseerIds = [1, 2, 3, 4, 6, 7, 8];
 
 	for (const file of files) {
 		if (!file.endsWith(".json")) continue;
@@ -138,113 +244,71 @@ export const fetchTafseerAyahsData = async (
 		);
 		const surahNumber = surahData.surahNo;
 
-		const tafseerData: Record<number, any[]> = {};
+		const ayatWithTafseer: Array<{
+			ayahNo: number;
+			tafseer: Array<{
+				id: number;
+				tafseerBookName: string;
+				tafseer: string;
+			}>;
+		}> = [];
 
-		console.info(`[Processing Tafseer] - Surah ${surahNumber}`);
-
-		for (const ayah of surahData.ayat) {
-			try {
-				const tafseers = await getAyahTafseerFromAPI(
-					surahNumber,
-					ayah.ayahNo
-				);
-				tafseerData[ayah.ayahNo] = tafseers;
-
-				await delay(50);
-			} catch (err) {
-				console.error(
-					`[Error] -  Tafseer Surah ${surahNumber}, Ayah ${ayah.ayahNo} - ${err}`
-				);
-			}
-		}
-
-		const tafseerFilePath = path.join(
-			tafseerDir,
-			`${surahNumber}.json`
-		);
-		await fs.promises.writeFile(
-			tafseerFilePath,
-			JSON.stringify(tafseerData, null, 2)
+		console.info(
+			`[Processing Tafseer] - Surah ${surahNumber} (${surahData.ayat.length} ayahs)`
 		);
 
-		console.info(`[Tafseer Created] Surah ${surahNumber}`);
-	}
-	console.info(`[All Tafseer Processed]`);
-};
+		const limit = pLimit(5);
 
-export const fetchTafseerAyahsDataConcurrently = async (
-	dirname: string,
-	surahFolder: string,
-	tafseerFolder: string
-) => {
-	const surahDir = path.join(dirname, surahFolder);
-	const tafseerDir = path.join(dirname, tafseerFolder);
-
-	await fs.promises.mkdir(tafseerDir, { recursive: true });
-
-	let files: any = await fs.promises.readdir(surahDir);
-
-	files = files
-		.filter((f: string) => f.endsWith(".json"))
-		.sort((a: any, b: any) => {
-			const numA = parseInt(a.split(".json")[0]);
-			const numB = parseInt(b.split(".json")[0]);
-			return numA - numB;
-		});
-
-	const limit = pLimit(5); // fetch 5 ayahs concurrently
-
-	for (const file of files) {
-		const filePath = path.join(surahDir, file);
-		const surahData = JSON.parse(
-			await fs.promises.readFile(filePath, "utf-8")
-		);
-		const surahNumber = surahData.surahNo;
-
-		const tafseerData: {
-			surah: {
-				surahNo: number;
-				surahNameAr: string;
-				surahNameArabicLong: string;
-				surahNameEn: string;
-				revelationPlace: string;
-				totalAyat: number;
-			};
-			ayat: Record<number, any[]>;
-		} = {
-			surah: {
-				surahNo: surahNumber,
-				surahNameAr: surahData.surahNameAr,
-				surahNameArabicLong: surahData.surahNameArabicLong,
-				surahNameEn: surahData.surahNameEn,
-				revelationPlace: surahData.revelationPlace,
-				totalAyat: surahData.totalAyat,
-			},
-			ayat: {},
-		};
-
-		console.info(`[Processing Tafseer] - Surah ${surahNumber}`);
-
-		const tafseerPromises = surahData.ayat.map((ayah: any) =>
+		const ayahPromises = surahData.ayat.map((ayah: any) =>
 			limit(async () => {
+				const ayahNo = ayah.ayahNo;
+				let rawTafseers: Array<{
+					tafseerBookName: string;
+					tafseer: string;
+				}> = [];
+
 				try {
-					const tafseers = await getAyahTafseerFromAPI(
+					rawTafseers = await getAyahTafseerFromAPI(
 						surahNumber,
-						ayah.ayahNo
+						ayahNo
 					);
-					console.info(
-						`[Success] - Tafseer ${surahNumber}:${ayah.ayahNo}`
-					);
-					tafseerData.ayat[ayah.ayahNo] = tafseers;
+
+					const enrichedTafseers = rawTafseers
+						.map((item, index) => {
+							const id = tafseerIds[index];
+							if (id === undefined) return null;
+							return {
+								id,
+								tafseerBookName: item.tafseerBookName,
+								tafseer: item.tafseer,
+							};
+						})
+						.filter(
+							(
+								item
+							): item is {
+								id: number;
+								tafseerBookName: string;
+								tafseer: string;
+							} => item !== null
+						);
+
+					const result = { ayahNo, tafseer: enrichedTafseers };
+
+					console.info(`[Added] Surah ${surahNumber}:${ayahNo}`);
+
+					return result;
 				} catch (err) {
 					console.error(
-						`[Error] - Tafseer Surah ${surahNumber}, Ayah ${ayah.ayahNo} - ${err}`
+						`[Failed] Surah ${surahNumber}:${ayahNo} - ${err}`
 					);
+					return { ayahNo, tafseer: [] };
 				}
 			})
 		);
 
-		await Promise.all(tafseerPromises);
+		const results = await Promise.all(ayahPromises);
+		ayatWithTafseer.push(...results);
 
 		const tafseerFilePath = path.join(
 			tafseerDir,
@@ -252,13 +316,15 @@ export const fetchTafseerAyahsDataConcurrently = async (
 		);
 		await fs.promises.writeFile(
 			tafseerFilePath,
-			JSON.stringify(tafseerData, null, 2)
+			JSON.stringify({ ayat: ayatWithTafseer }, null, 2)
 		);
 
-		console.info(`[Tafseer Created] Surah ${surahNumber}`);
+		console.info(
+			`[Tafseer Created] Surah ${surahNumber} → ${ayatWithTafseer.length} ayahs saved\n`
+		);
 	}
 
-	console.info(`[All Tafseer Processed]`);
+	console.info(`[All Tafseer Processed] - All surahs completed.`);
 };
 
 const fetchGroupedData = async (
